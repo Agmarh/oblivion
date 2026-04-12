@@ -45,3 +45,6 @@ tags:
 
 Si vous avez besoin de plus de détails sur un aspect spécifique de la campagne, n'hésitez pas à me le faire savoir !
 [Timestamp: 2026/04/12 16:42:28]
+
+**user**: D'après ma timeline nous nous situons à l'acte 3 du scénario 1 d'Oblivion, la Mer des linceuls et les joueurs vont bientôt partir sur en direction de la cité-sans-nom. D'après les ressources documentaires, quelle est la suite ?
+[Timestamp: 2026/04/12 17:11:37]

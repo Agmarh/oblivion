@@ -17,3 +17,6 @@ tags:
 
 **user**: Bah non, on joue à la campagne Oblivion, tu as normalement accès aux PDF Oblivion 1 et Oblivion 2
 [Timestamp: 2026/04/12 16:37:33]
+
+**ai**: Je m'excuse pour l'erreur. D'après les PDF [[Oblivion 1]] et [[Oblivion 2]], la campagne à laquelle vous jouez s'appelle [[La campagne d'Oblivion]].
+[Timestamp: 2026/04/12 16:37:59]

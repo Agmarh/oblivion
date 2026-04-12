@@ -17,9 +17,10 @@ J+23 : Vision de grisou, ils préviennent Fan'Goriah qu'ils vont aller aux terre
 J+24 : Ils font des combats à l'arène avant de partir et partent de nuit
 J+27 : fin construction Gondolfière + rencontre avec le géant des tempête avec qui ils n'ont pas discuté
 J+31 : arrivée au village Skiam, Orog a présenté Ilam, le chasseur qui les guidera vers le territoire des mange-glace, ils ont échangé fourrures, écailles, os et graisse
+
+Actuellement : 
 J+32 : ils se préparent à partir sur le territoire des mange-glace
 
+Notes pour plus tard : 
 - Rivalt veut choper le pinard elfe.
 - Faire la gestion des voyages de la compagnie.
-
-Argent Compagnie : [[Capital]]

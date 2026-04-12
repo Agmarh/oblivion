@@ -25,7 +25,7 @@
   "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "vault_qa",
   "defaultModelKey": "mistral-small-latest|mistralai",
-  "embeddingModelKey": "openai/text-embedding-3-small|openrouterai",
+  "embeddingModelKey": "nomic-embed-text|ollama",
   "temperature": 0.1,
   "maxTokens": 6000,
   "contextTurns": 15,
@@ -41,7 +41,7 @@
   "defaultOpenArea": "view",
   "defaultSendShortcut": "enter",
   "customPromptsFolder": "copilot/copilot-custom-prompts",
-  "indexVaultToVectorStore": "ON MODE SWITCH",
+  "indexVaultToVectorStore": "ON STARTUP",
   "qaExclusions": "copilot",
   "qaInclusions": "",
   "chatNoteContextPath": "",
@@ -400,6 +400,16 @@
       "enabled": true,
       "isBuiltIn": true,
       "isEmbeddingModel": true
+    },
+    {
+      "name": "nomic-embed-text",
+      "provider": "ollama",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "http://192.168.1.11:11434/",
+      "apiKey": "",
+      "isEmbeddingModel": true,
+      "capabilities": []
     }
   ],
   "embeddingRequestsPerMin": 60,
@@ -420,7 +430,7 @@
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
-  "enableSemanticSearchV3": false,
+  "enableSemanticSearchV3": true,
   "enableSelfHostMode": false,
   "enableMiyo": false,
   "selfHostModeValidatedAt": null,

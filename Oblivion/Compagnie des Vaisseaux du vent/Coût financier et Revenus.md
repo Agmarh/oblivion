@@ -31,10 +31,11 @@
 | Comptoir d'Ikhâr          | 150                  | Entretien des bâtiments et logistique Khayolt. |
 | Gardes de la capitainerie | 80                   | 2 po/jour x4                                   |
 | Comptoirs                 | 553                  |                                                |
-| La Comptable              | 500                  | A quai                                         |
-| Nef des PJs               | 500                  | A quai                                         |
+| La Comptable              | 500                  | À quai                                         |
+| Nef des PJs (Le Kernös)   | 520                  | En vol (terres boréales, depuis J+23)          |
 | Le Colporteur             | 520                  | En vol                                         |
-| **TOTAL**                 | 2303                 | **Total des frais fixes**                      |
+| [Sans nom] (Brottin)      | 520                  | En vol (route Madi'Maluk, depuis J+32)         |
+| **TOTAL**                 | 2843                 | **Total des frais fixes (4 gondolfières)**     |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 
 ## Frais de comptoirs par décade
@@ -68,19 +69,19 @@
 | ------------------------------ | ----------------------- |
 | **Bénéfice Net**               | 1750                    |
 | **Revenus : Comptoir d'Ikhâr** | 50                      |
-| **Frais fixes**                | -2303                   |
-| **SOLDE GLOBAL**               | -503                    |
+| **Frais fixes**                | -2843                   |
+| **SOLDE GLOBAL**               | -1043                   |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 
-C'est la route la plus rentable. Elle permet d'être presque à l'équilibre.
+Avec 4 gondolfières, la route Carcéa seule ne suffit plus à équilibrer les comptes.
 ## Madi'Maluk
 
 | **Poste**                      | **Flux Financier (po)** |
 | ------------------------------ | ----------------------- |
 | **Bénéfice Net**               | 1400                    |
 | **Revenus : Comptoir d'Ikhâr** | 50                      |
-| **Frais fixes**                | -2303                   |
-| **SOLDE GLOBAL**               | -853                    |
+| **Frais fixes**                | -2843                   |
+| **SOLDE GLOBAL**               | -1393                   |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 
-C'est une route qui ne suffit pas à faire vivre toute la structure. La compagnie perd un peu d'argent.
+Avec 4 gondolfières, la perte par décade est significative. Il faut ouvrir de nouvelles routes ou augmenter le volume commercial.

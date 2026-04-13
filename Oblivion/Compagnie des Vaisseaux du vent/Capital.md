@@ -17,7 +17,7 @@
 <!-- TBLFM: @3$4..@>$4=(@-1$4+$3) -->
 
 | Jour | Opération                                              | Variation (po) | Total (po) |
-| ---- | ------------------------------------------------------ | -------------: | ---------: |
+| ---- | ------------------------------------------------------ | --------------:| ----------:|
 | J+0  | Capital de départ                                      |          15000 |      15000 |
 | J+7  | Démarrage construction gondolfière                     |          -4700 |      10300 |
 | J+7  | Retour Colporteur Carcéa + Départ vers Madi'Maluk      |           1750 |       9797 |
@@ -32,7 +32,8 @@
 | J+32 | Départ La Comptable vers Carcéa (kit grand froid)      |                |       8441 |
 | J+32 | Départ [Sans nom] vers Carcéa                          |                |       8441 |
 | J+39 | Achat kit grand froid Carcéa — La Comptable (13 pers.) |          -1470 |       6971 |
-| J+30 | Frais fixes                                            |          -2803 |            |
+| J+30 | Frais fixes                                            |          -2863 |            |
+| J+40 | Frais fixes                                            |          -2863 |            |
 | J+41 | Départ La Comptable vers Village Skiam                 |                |       6971 |
 | J+42 | Retour Colporteur Madi'Maluk + Départ vers Carcéa      |           1400 |            |
 | J+47 | Retour [Sans nom] Carcéa + Départ vers Madi'Maluk      |           1750 |            |

@@ -114,7 +114,6 @@ Nourriture concentrée :
 10 jours
 ### Coût
 120 po
-## Coût total
-Environ : 1670 po
+
 ## Temps d'installation
 Tout peut être prêt en : 2 jours

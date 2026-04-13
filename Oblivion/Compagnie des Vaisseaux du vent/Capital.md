@@ -1,5 +1,5 @@
 | Jour | Opération                                              | Variation (po) | Total (po) |
-| ---- | ------------------------------------------------------ | -------------: | ---------: |
+| ---- | ------------------------------------------------------ | --------------:| ----------:|
 | J+0  | Capital de départ                                      |          15000 |      15000 |
 | J+7  | Démarrage construction gondolfière                     |          -4700 |      10300 |
 | J+7  | Retour Colporteur Carcéa                               |           -503 |       9797 |
@@ -13,8 +13,8 @@
 | J+41 | Départ La Comptable → Village Skiam                    |                |       6971 |
 | J+42 | Solde net — décade J+32→J+42 (1750+1400+50−2863)       |           +337 |       7308 |
 | J+48 | Arrivée La Comptable — Village Skiam                   |                |       7308 |
-| J+52 | Solde net — décade J+42→J+52                           |           +337 |       7645 |
-<!-- TBLFM: @3$5..@>$5=(@-1$5+$4) -->
+| J+52 | Solde net — décade J+42→J+52                           |           +338 |       7646 |
+<!-- TBLFM: @3$4..@>$4=(@-1$4+$3) -->
 
 | Jour | Opération                                              | Variation (po) | Total (po) |
 | ---- | ------------------------------------------------------ | --------------:| ----------:|
@@ -35,4 +35,4 @@
 | J+47 | Retour [Sans nom] Carcéa + Départ vers Madi'Maluk      |           1750 |            |
 | J+48 | Arrivée La Comptable au Village Skiam                  |                |       7308 |
 
-<!-- TBLFM: @3$4..@>$4=(@-1$4+$4) -->
+<!-- TBLFM: @3$4..@>$4=(@-1$4+$3) -->

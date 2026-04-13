@@ -31,6 +31,8 @@
 | J+32 | Départ [Sans nom] vers Carcéa                          |                |       8441 |
 | J+39 | Achat kit grand froid Carcéa — La Comptable (13 pers.) |          -1470 |       6971 |
 | J+41 | Départ La Comptable vers Village Skiam                 |                |       6971 |
+| J+42 | Retour Colporteur Madi'Maluk + Départ vers Carcéa      |           1400 |            |
+| J+47 | Retour [Sans nom] Carcéa + Départ vers Madi'Maluk      |           1750 |            |
 | J+48 | Arrivée La Comptable au Village Skiam                  |                |       7308 |
 
 <!-- TBLFM: @3$5..@>$5=(@-1$5+$4) -->

@@ -67,36 +67,9 @@
 
 | **Poste**                      | **Flux Financier (po)** |
 | ------------------------------ | ----------------------- |
-| **Bénéfice Net**               | 1750                    |
+| **Bénéfice Net Carcéa**        | 1750                    |
+| **Bénéfice Net Madi'Maluk**    | 1400                    |
 | **Revenus : Comptoir d'Ikhâr** | 50                      |
 | **Frais fixes**                | -2863                   |
-| **SOLDE GLOBAL**               | -1063                   |
+| **SOLDE GLOBAL**               | 337                     |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
-
-Route seule : déficitaire. Combinée avec Madi'Maluk, la perte tombe à ~246 po/décade.
-## Madi'Maluk
-
-| **Poste**                      | **Flux Financier (po)** |
-| ------------------------------ | ----------------------- |
-| **Bénéfice Net**               | 1400                    |
-| **Revenus : Comptoir d'Ikhâr** | 50                      |
-| **Frais fixes**                | -2863                   |
-| **SOLDE GLOBAL**               | -1413                   |
-<!-- TBLFM: @>$2=sum(@I..@-1) -->
-
-Route seule : déficitaire. Combinée avec Carcéa, la perte tombe à ~246 po/décade.
-
-## Carcéa + Madi'Maluk (combiné)
-
-Sur 3 décades (cycle naturel : 2 voyages Carcéa × 1750 po + 3 voyages Madi'Maluk × 1400 po) :
-
-| **Poste**                        | **Flux Financier (po)** |
-| -------------------------------- | ----------------------- |
-| **Revenus Carcéa × 2**           | +3500                   |
-| **Revenus Madi'Maluk × 3**       | +4200                   |
-| **Revenus Comptoir Ikhâr × 3**   | +150                    |
-| **Frais fixes × 3 décades**      | -8589                   |
-| **SOLDE SUR 3 DÉCADES**          | -739                    |
-| **SOLDE PAR DÉCADE**             | **-246**                |
-
-La compagnie est presque à l'équilibre. L'ouverture du comptoir de Village Skiam permettrait de basculer en positif.

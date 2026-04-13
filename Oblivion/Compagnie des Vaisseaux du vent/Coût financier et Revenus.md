@@ -63,8 +63,6 @@
 | **Territoires Extérieurs** | 165 (Prime de risque +50%)                                 | 60                                    | Dangereux. Peu de taxes, mais recrutement cher.         |
 # Revenus par décade
 
-## Carcéa : 
-
 | **Poste**                      | **Flux Financier (po)** |
 | ------------------------------ | ----------------------- |
 | **Bénéfice Net Carcéa**        | 1750                    |

@@ -25,13 +25,14 @@
 | J+10 | Revenus Ikhâr                                          |             50 |            |
 | J+17 | Retour Colporteur Madi'Maluk + Départ vers Carcéa      |           1400 |       8944 |
 | J+20 | Revenus Ikhâr                                          |             50 |            |
-| J+20 | Frais fixes                                            |          -2323 |            |
+| J+20 | Frais fixes                                            |          -2303 |            |
 | J+27 | Fin construction Gondolfière                           |                |       8944 |
-| J+30 | Frais fixes                                            |          -2323 |            |
+| J+30 | Frais fixes                                            |          -2803 |            |
 | J+32 | Retour Colporteur Carcéa + Départ vers Madi'Maluk      |          -1750 |       8441 |
 | J+32 | Départ La Comptable vers Carcéa (kit grand froid)      |                |       8441 |
 | J+32 | Départ [Sans nom] vers Carcéa                          |                |       8441 |
 | J+39 | Achat kit grand froid Carcéa — La Comptable (13 pers.) |          -1470 |       6971 |
+| J+30 | Frais fixes                                            |          -2803 |            |
 | J+41 | Départ La Comptable vers Village Skiam                 |                |       6971 |
 | J+42 | Retour Colporteur Madi'Maluk + Départ vers Carcéa      |           1400 |            |
 | J+47 | Retour [Sans nom] Carcéa + Départ vers Madi'Maluk      |           1750 |            |

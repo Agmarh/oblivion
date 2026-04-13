@@ -35,4 +35,4 @@
 | J+47 | Retour [Sans nom] Carcéa + Départ vers Madi'Maluk      |           1750 |            |
 | J+48 | Arrivée La Comptable au Village Skiam                  |                |       7308 |
 
-<!-- TBLFM: @3$5..@>$5=(@-1$5+$4) -->
+<!-- TBLFM: @3$4..@>$4=(@-1$4+$4) -->

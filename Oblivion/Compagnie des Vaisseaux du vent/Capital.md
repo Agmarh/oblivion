@@ -27,6 +27,7 @@
 | J+20 | Revenus Ikhâr                                          |             50 |            |
 | J+20 | Frais fixes                                            |          -2323 |            |
 | J+27 | Fin construction Gondolfière                           |                |       8944 |
+| J+30 | Frais fixes                                            |          -2323 |            |
 | J+32 | Retour Colporteur Carcéa + Départ vers Madi'Maluk      |          -1750 |       8441 |
 | J+32 | Départ La Comptable vers Carcéa (kit grand froid)      |                |       8441 |
 | J+32 | Départ [Sans nom] vers Carcéa                          |                |       8441 |

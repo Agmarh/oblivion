@@ -3,7 +3,7 @@ CLASSE Clerc
 ALIGNEMENT CB
 NIVEAU 4
 HISTORIQUE membre de guilde
-ARCHÊTYPE Domaine de la vie (H&D)
+ARCHÊTYPE Domaine de la vie [[CLERC]]
 FOR. 15 (Mod +2, Sauv +2)
 INT. 10 (Mod 0, Sauv 0)
 DEX. 8 (Mod -1, Sauv -1)
@@ -42,7 +42,7 @@ Dés de vie 4d8
 # CLASSE D'ARMURE
 CA TOTALE 19
 CA TOTALE - CA BOUCLIER 17
-CA AU REPOS 10
+CA AU REPOS 10 ?
 ■ Désavantage aux tests de discrétion
 ■ Bouclier en main
 

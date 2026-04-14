@@ -838,6 +838,191 @@
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }
+    ],
+    [
+      "Blême",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Blême",
+        "size": "M",
+        "type": "Mort-vivant",
+        "subtype": null,
+        "alignment": "Chaotique Mauvais",
+        "ac": 13,
+        "hp": 36,
+        "hit_dice": "8d8",
+        "speed": "9 m",
+        "stats": [
+          16,
+          17,
+          10,
+          11,
+          10,
+          8
+        ],
+        "senses": "vision dans le noir 18 m, Perception passive 10",
+        "languages": "commun",
+        "cr": 2,
+        "damage_immunities": "de poison",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Empoisonné<STATBLOCK-WIKI-LINK> et <STATBLOCK-WIKI-LINK>Épuisé<STATBLOCK-WIKI-LINK>",
+        "traits": [
+          {
+            "name": "Mépris du renvoi",
+            "desc": "Le blême et toutes les goules situées à 9 mètres ou moins de lui bénéficient d'un avantage lors des jets de sauvegarde contre les effets qui renvoient les morts-vivants."
+          },
+          {
+            "name": "Puanteur",
+            "desc": "Les créatures qui commencent leur tour à 1,50 mètre ou moins du blême doivent chacune réussir un jet de sauvegarde de Constitution DD 10 pour ne pas être empoisonnées jusqu'au début de leur prochain tour. Les créatures qui ont réussi leur jet de sauvegarde sont immunisées contre la puanteur du blême pendant 24 heures."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Griffes",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 10 (2d6+3) dégâts tranchants. Si la cible n'est pas un mort-vivant ou un elfe, elle doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas être <STATBLOCK-WIKI-LINK>Paralysé<STATBLOCK-WIKI-LINK> pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite."
+          },
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une créature. Touché : 12 (2d8+3) dégâts perforants."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Hurleurs",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Hurleurs",
+        "size": "TP",
+        "type": "Fiélon",
+        "subtype": null,
+        "alignment": "Chaotique Mauvais",
+        "ac": 13,
+        "hp": 18,
+        "hit_dice": "4d4+8",
+        "speed": "3 m, vol 12 m",
+        "stats": [
+          5,
+          16,
+          14,
+          4,
+          7,
+          2
+        ],
+        "senses": "vision dans le noir 18 m, Perception des vibrations 18 m, Perception passive 8",
+        "languages": [
+          null
+        ],
+        "cr": 1,
+        "damage_immunities": "de poison",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Empoisonné<STATBLOCK-WIKI-LINK>",
+        "damage_resistances": "de feu et de froid",
+        "actions": [
+          {
+            "name": "Morsure",
+            "desc": "Attaque d’arme au corps-à-corps : +5 pour toucher, allonge 1,5 m, une cible. Touché : 6 (1d6+3) dégâts nécrotiques."
+          },
+          {
+            "name": "Hurlement",
+            "desc": "Le hurleur pousse un cri insupportable. Tout humanoïde ou toute bête dans un rayon de 12 m autour de lui et capable de l’entendre doit réussir un Jet de sauvegarde de Sagesse DD 13 ou être terrorisé jusqu’à la fin du prochain tour du hurleur. Tant qu’elle est effrayée, la cible est aussi étourdie. Une réussite au jet de sauvegarde immunise la cible au hurlement pendant 1 heure."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Gantelet animé géant",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Gantelet animé géant",
+        "size": "TG",
+        "type": "Créature artificielle",
+        "subtype": null,
+        "alignment": "Sans alignement",
+        "ac": 13,
+        "hp": 115,
+        "hit_dice": "11d12+44",
+        "speed": "vol 6 m",
+        "stats": [
+          18,
+          10,
+          18,
+          4,
+          7,
+          2
+        ],
+        "senses": "vision dans le noir 18 m, Perception passive 8",
+        "languages": [
+          null
+        ],
+        "cr": 4,
+        "damage_immunities": "de poison, d'acide, de feu, de froid",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Empoisonné<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Épuisé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralysé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Pétrifié<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Terrorisé<STATBLOCK-WIKI-LINK>, à terre",
+        "actions": [
+          {
+            "name": "Ecrasement",
+            "desc": "Le gantelet vise un point situé dans un rayon de 6 m autour de lui. Il s’écrase au sol, et écrase au passage toutes les créatures dans un rayon ce 6 m. Elles doivent réussir un jet de sauvegarde de Dextérité DD 14 ou subir 26 (4d10+4) points de dégâts et se retrouver à terre. Si le jet de sauvegarde est réussi, les dégâts sont divisés par 2 et la créature ne se retrouve pas à terre."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Élémentaire de feu",
+      {
+        "name": "Élémentaire de feu",
+        "size": "G",
+        "type": "Élémentaire",
+        "subtype": null,
+        "alignment": "Neutre",
+        "ac": 13,
+        "hp": 102,
+        "hit_dice": "12d10+36",
+        "speed": "15 m",
+        "stats": [
+          10,
+          17,
+          16,
+          6,
+          10,
+          7
+        ],
+        "damage_resistances": "contondants, perforants et tranchants infligés par des attaques non-magiques",
+        "damage_immunities": "de feu et de poison",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>A terre<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Empoigné<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Empoisonné<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Entravé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Épuisé<STATBLOCK-WIKI-LINK>, inconscient, <STATBLOCK-WIKI-LINK>Paralysé<STATBLOCK-WIKI-LINK> et <STATBLOCK-WIKI-LINK>Pétrifié<STATBLOCK-WIKI-LINK>",
+        "senses": "vision dans le noir 18m, Perception passive 10",
+        "languages": "ignée",
+        "cr": 5,
+        "traits": [
+          {
+            "name": "Corps de feu",
+            "desc": "L'élémentaire peut traverser un interstice d'une largeur minimale de 2 à 3 centimètres sans devoir se faufiler. Une créature qui touche l'élémentaire ou réussit une attaque au corps à corps contre lui à une distance maximale de 1,50 mètre subit 5 (1d10) dégâts de feu. De plus, l'élémentaire peut entrer dans l'emplacement occupé par une créature hostile et s'y arrêter. La première fois qu'il entre dans un emplacement occupé par une créature lors d'un tour, celle-ci subit 5 (1d10) dégâts de feu et prend feu. Elle subit 5 (1d10) dégâts de feu au début de chacun de ses tours, à moins que quelqu'un ne consacre une action à éteindre le feu."
+          },
+          {
+            "name": "Illumination",
+            "desc": "L'élémentaire diffuse une lumière vive sur un rayon de 9 mètres et une faible lumière sur un rayon de 9 mètres supplémentaires."
+          },
+          {
+            "name": "Vulnérabilité à l'eau",
+            "desc": "Si l'élémentaire se déplace dans l'eau ou s'il est aspergé d'eau, il subit 1 dégâts de froid par tranche de 1,50 mètre traversée ou tous les 5 litres déversés."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "L’élémentaire effectue deux attaques de contact."
+          },
+          {
+            "name": "Contact",
+            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou une créature, elle prend feu. La cible subit 5 (1d10) dégâts de feu au début de chacun de ses tours, à moins que quelqu'un ne consacre une action à éteindre le feu."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
     ]
   ],
   "defaultLayouts": {

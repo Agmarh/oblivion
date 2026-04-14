@@ -24,5 +24,5 @@ actions:
     desc: "Le squelette peut effectuer deux attaques avec une action attaquer."
   - name: Épée à deux mains
     desc: "Attaque d’arme au corps-à-corps ou à distance : +9 pour toucher, allonge 3 m. Touché : 23 (5d6+6) dégâts tranchants."
-extends: Couronne d’adamantine (valeur 17 000 po).
+treasure: Couronne d’adamantine (valeur 17 000 po).
 ```

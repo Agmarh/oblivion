@@ -1,4 +1,4 @@
-# Oblivion
+# En Oblivion
 
 La magie est imprégnée du chaos qu'il règne dans la cité :
 
@@ -27,7 +27,7 @@ Lorsqu'on accepte d'appliquer ces méduses sur le visage, elles fonctionnent com
 -   Les **Gargones**, délicates méduses aux reflets multicolore qui occupent le bas du visage à la manière d'une barbe fournie, permettant une bonne maîtrise (+4 au jet du lanceur de sort, survie 48h hors de l'eau, 60 PV).
 -   Les splendides **Euryales**, animaux d'ambre translucide, qui dissimulent en grande partie les traits mais dont la puissance est inégalée (+6 au jet de lanceur de sort, survie 100h hors de l'eau, 100 PV).
 
-# Pangée
+# Sur Pangée
 
 ## Dans l'Empire
 

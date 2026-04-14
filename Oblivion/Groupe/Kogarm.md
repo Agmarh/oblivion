@@ -3,7 +3,7 @@ CLASSE Moine
 ALIGNEMENT NB
 NIVEAU 4
 HISTORIQUE Explorateur
-ARCHÊTYPE Voie du maître ivre (Xanathar guide to everything + [[MOINE]])
+ARCHÊTYPE Voie du maître ivre [[MOINE]]
 FOR. 12 (Mod +1, Sauv +3 Maîtrise)
 INT. 8 (Mod -1, Sauv -1)
 DEX. 18 (Mod +4, Sauv +6 Maîtrise)

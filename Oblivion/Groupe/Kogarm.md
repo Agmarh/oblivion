@@ -1,9 +1,9 @@
-RACE Elfe du souffle
-CLASSE Rodeur
-ALIGNEMENT CN
+RACE Felys Mushtaral'wali
+CLASSE Moine
+ALIGNEMENT NB
 NIVEAU 4
-HISTORIQUE Solitaire
-ARCHÊTYPE Pisteur (chasseur passeur)
+HISTORIQUE Explorateur
+ARCHÊTYPE Voie du maître ivre (Xanathar)
 FOR. 8 (Mod -1, Sauv +1 Maîtrise)
 INT. 10 (Mod 0, Sauv 0)
 DEX. 18 (Mod +4, Sauv +6 Maîtrise)

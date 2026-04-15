@@ -37,7 +37,7 @@ Cette tragédie acheva de faire sombrer le roi dans la folie. Il s'enferma avec 
 
 À la dernière page du livre se trouve le mot de commande "SILHVHER". Si on le prononce à voix haute, le mur du fond disparaît pour donner accès au tombeau du roi.
 
-La dernière page du livre contient une puissante rune, l'ultime cadeau du roi. La rune frappe de son énergie la première personne qui la lira, et lui fait gagner un point dans sa caractéristique majeure !
+La dernière page du livre contient une puissante rune, l'ultime cadeau du roi. La rune frappe de son énergie la première personne qui la lira, et lui fait gagner un niveau ! Après quoi, elle s'efface.
 
 ## Son Silence est d'Or
 Cette salle aux proportions épiques est entièrement tapissée de plaques forgées en or.
@@ -46,7 +46,7 @@ La première moitié de la salle est couverte par un sort de silence permanent. 
 
 Dans la seconde moitié, les runes permettent de conserver la puissance de Bazoeurk pendant son sommeil.
 
-Au fond de la salle s'élève un trône de platine, sur lequel repose un squelette gigantesque, il porte sur son crâne une couronne d'adamantine. Ses mains tiennent une épée runique plantée dans le sol devant lui.
+Au fond de la salle s'élève un monstrueux trône de platine, sur lequel repose un squelette gigantesque, drapé d'une cape, il porte sur son crâne une couronne d'épines d'adamantine. Ses mains tiennent une épée runique plantée dans le sol devant lui.
 
 Dès que Grisou entre dans la pièce, la Matrice se met à puiser et scintiller, émettant dans l'air des particules lumineuses. En réponse, un chant résonnent dans la pièce, provenant du squelette.
 

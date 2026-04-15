@@ -16,8 +16,9 @@ Si les PJ se rappelle du submersible et qu'ils le déploient, celui-ci pourra pe
 
 Les PJ finissent par remonter vers une petit lac intérieur, qui donne sur la cité. Ils découvrent une ville figées dans la glace, aux pierres étranges, la cité a été construite à l'aide d'une étrange roche veinée de phosphorescences vertes. Une multitude de tunnels sont creusés dans les parois de glaces, comme si on avait tracé de nouvelles rues et mènent aux habitations.
 
-Soudain, les PJ voient approcher une centaine de créatures humanoïdes ressemblant à des goules qui semblent juger les PJ du regard. Quelques jets bien placés permettront d'apprendre :
+Soudain, les PJ voient approcher une centaine de créatures humanoïdes ressemblant à des goules qui semblent les juger du regard, avec plus de curiosité que d'appétit pour le moment (<font style="color:green">jet de Perspicacité pour s'en rendre compte</font>). 
 
+Quelques jets bien placés permettront d'apprendre :
 - Les goules sont les anciens sujets du Roi-Qui-Devint-Fou.
 
 - Elles ont tout oublié de leur passé et ne vivent qu'au présent, de façon précaire, en reproduisant d'antiques rituels sans même les comprendre (ils sortent des couverts, des plats alors qu'il n'y a rien à manger, elles jouent à la poupée avec des morceaux d'os etc…)

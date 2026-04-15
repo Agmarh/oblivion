@@ -20,14 +20,12 @@ Soudain, les PJ voient approcher une centaine de créatures humanoïdes ressembl
 
 Quelques jets bien placés permettront d'apprendre :
 - Les goules sont les anciens sujets du Roi-Qui-Devint-Fou.
-
 - Elles ont tout oublié de leur passé et ne vivent qu'au présent, de façon précaire, en reproduisant d'antiques rituels sans même les comprendre (ils sortent des couverts, des plats alors qu'il n'y a rien à manger, elles jouent à la poupée avec des morceaux d'os etc…)
-
 - Elles vont souvent chercher des os plus haut, dans un lieu appelé le Mont des Sépultures. Il y a un temple noir, là-bas, dont elles ne s'approchent jamais, saisies de crainte sans bien comprendre pourquoi.
-
 - Elles ont pour habitude de psalmodier une sinistre comptine pour enfant, héritage d'un lointain passé. 
 > <font style="color:yellow">"Au début d'là comptine, le roi commit un crime, Ecoute bien, apprends tout, car le roi devint fou ! Son souvenir est poussière, mais sa poigne est de fer, Sa parole est d'argent, si tu es transparent, Et son silence est d'or, mais son trône cache la mort. A la fin d'là comptine, seule compte l'adamantine."</font>
 
 Si les PJ se montrent agressifs ils n'obtiendront rien et seront vite catalogués comme nourriture. Une chasse à l'homme se lance alors.
 
-En revanche s'ils se montrent généreux en offrant à manger par exemple, le Peuple Exsangue restera calme et leur proposera même de les conduire où ils veulent.
+En revanche s'ils se montrent généreux en offrent à manger par exemple, le Peuple Exsangue restera calme et leur proposera des panse-oreilles : de petits cloportes qui se roulent en boule dans les conduits auditifs, empêchant toute audition. Le procédé est ignoble et désagréable, puisqu’il faut les arracher ensuite pour les retirer (<font style="color:red">1 point de dégât</font>). Mais les goules estiment qu’elles font là un cadeau de choix et il serait très malpoli de les décevoir, ça pourrait les contrarier....
+> <font style="color:yellow">"Mmmm, toi mettre ça, si tu veux grimper en haut, chercher des os, mmmh, délicieux os pour nous, mmmh, protège des monstres..."</font>

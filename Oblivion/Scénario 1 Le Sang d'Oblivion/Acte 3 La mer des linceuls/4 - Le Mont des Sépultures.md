@@ -8,7 +8,9 @@ Au milieu du sol, une dalle gigantesque porte un monstrueux anneau de bronze. Il
 
 # La Tragédie du Roi
 ## Son souvenir est Poussière
-Cette salle contient des ornements et du mobilier en bois précieux. Tout est conçu pour un humanoïde de taille gigantesque. Le mobilier tombe en poussière dès que l'on touche. Une double porte ornée d'un second anneau de bronze permet d'accéder à la pièce suivante. Un <font style="color:green">jet de Perception DD 12</font> fait remarquer que la poussière devant la double porte paraît différente. Un <font style="color:green">jet d'Arcane DD 15</font> apprend qu'il s'agit de reste humanoïdes. En fait, un symbole magique représentant la mort est finement gravé dans l'anneau de bronze. Quiconque l'empoigne déclenche son pouvoir et subit <font style="color:red">6d10 dégâts</font>.
+Cette salle contient des ornements et du mobilier en bois précieux. Tout est conçu pour un humanoïde de taille gigantesque. Le mobilier tombe en poussière dès que l'on touche. Une double porte ornée d'un second anneau de bronze permet d'accéder à la pièce suivante. 
+
+Un <font style="color:green">jet de Perception DD 12</font> fait remarquer que la poussière devant la double porte paraît différente. Un <font style="color:green">jet d'Arcane DD 15</font> apprend qu'il s'agit de reste humanoïdes. En fait, un symbole magique représentant la mort est finement gravé dans l'anneau de bronze. Quiconque l'empoigne déclenche son pouvoir et subit <font style="color:red">6d10 dégâts</font>.
 
 ## Sa poigne est de Fer
 Cette pièce titanesque est la plus extraordinaire des forges ! D'étincelants soufflets de cuivre, des marteaux runiques, des blocs de bronze entassés à côté d'enclumes en mithril et un feu magique permanent crépite dans l'âtre gigantesque creusé au centre de la salle. Les murs sont totalement couverts par des armes provenant de mille mondes étranges… Tout cela bien sûr à la taille d'un titan.

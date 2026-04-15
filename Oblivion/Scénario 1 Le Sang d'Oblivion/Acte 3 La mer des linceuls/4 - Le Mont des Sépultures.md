@@ -7,6 +7,7 @@ Sitôt que les PJ approchent du temple, de nombreux [[Hurleurs]] (20) sortent de
 Au milieu du sol, une dalle gigantesque porte un monstrueux anneau de bronze. Il faut une force combinée de 40 pour le saisir et soulever la dalle. Elle s'ouvre sur un escalier en colimaçon, descendant au cœur du Mont des Sépultures.
 
 # La Tragédie du Roi
+![[Tombeau du roi fou.png]]
 ## Son souvenir est Poussière
 Cette salle contient des ornements et du mobilier en bois précieux. Tout est conçu pour un humanoïde de taille gigantesque. Le mobilier tombe en poussière dès que l'on touche. Une double porte ornée d'un second anneau de bronze permet d'accéder à la pièce suivante. 
 
@@ -17,17 +18,18 @@ Cette pièce titanesque est la plus extraordinaire des forges ! D'étincelants s
 
 Dès que les PJ touchent à quelque chose, un gigantesque gant d'acier apparaît et le combat s'engage.
 
-Les seuls éléments intéressants sont les matériaux précieux, ils peuvent obtenir pour 1d10 x1000 po de richesses par personne. Un <font style="color:green">jet d'Investigation DD 20</font> permet de trouver, derrière une porte secrète, un bouclier caché à taille humaine.
-- [[Bouclier animé]]
+Les seuls éléments intéressants sont les matériaux précieux, ils peuvent obtenir pour 1d10 x1000 po de richesses par personne. Il y a également quelques blocs bruts d’adamantine, en quantité suffisante pour forger une armure et cinq ou six armes d’exception. Un <font style="color:green">jet d'Investigation DD 20</font> permet de trouver, derrière une porte secrète, la salle des armures où est caché un [[Bouclier animé]] à taille humaine. Mais dès qu'on l'ouvree, un [[Élémentaire de feu]] apparaît dans l'âtre et attaque.
 
 Au fond de la forge, une énorme porte en fer ornée d'un anneau de bronze donne sur la salle suivante.
 
 ## Sa parole est d'argent
-Cette salle hexagonale est aussi immense que somptueuse : ses pierres ont été forgées dans l'argent. Sur les murs et au dos de la porte sont scellés six hauts miroirs. Au centre, un grimoire géant est posé sur le sol. Le grimoire et ses pages sont en argent et il est fermé. Le dos du grimoire est scellé au sol par une chaîne ce qui l'empêche d'être déplacé.
+Cette salle hexagonale est aussi immense que somptueuse : ses pierres ont été forgées dans l'argent le plus pur. Sur les murs et au dos de la porte sont scellés six hauts miroirs. Au centre, un grimoire géant est posé sur le sol. Le grimoire et ses pages sont en argent et il est fermé. Le dos du grimoire est scellé au sol par une chaîne indestructible ce qui l'empêche d'être déplacé.
 
-Si un PJ ouvre le livre, 4 reflets identiques au PJ sortent du miroir et l'attaquent, on peut les combattre ou détruire les miroirs (CA 20, 30 PV), s'il est ouvert à distance ou que la personne qui l'ouvre est invisible, aucun reflet ne se forme.
+Si un PJ ouvre le livre, 6 reflets identiques au PJ sortent du miroir et l'attaquent, on peut les combattre ou détruire les miroirs (CA 20, 30 PV), s'il est ouvert à distance ou que la personne qui l'ouvre est invisible, aucun reflet ne se forme. L’indice est fourni par la comptine : « Sa parole est d’argent... si tu es transparent. »
 
-Le grimoire s'intitule "La parole de Bazoeurk" et contient le testament du Roi.
+Par ailleurs, tout sort d’attaque jeté dans cette pièce est capturé par les miroirs et aussitôt renvoyé au jeteur de sort.
+
+Le grimoire s'intitule "La parole de Bazoeurk" et contient le testament du Roi, écrit dans un langage magique compréhensible par tous.
 
 Bazoeurk y raconte qu'il était jadis un roi titan et un Forgeron Sorcier soucieux de la paix de son peuple. A la requête des dieux, il devint le gardien d'un fragment de Chiaroscuro, la Clef des Songes. Mais dès lors, les pouvoirs de la Clef le tentèrent nuit après nuit dans son sommeil, le faisant rêver d'un règne éternel et d'une puissance sans égal. Le roi commença à déraisonner et se mit à fantasmer de devenir un mort-vivant, investi pour toujours par les pouvoirs de la clé. Et elle exauça son vœu. Une nuit, il se transforma, mais la force de l'invocation fit fondre le glacier surplombant la cité, noyant les habitants et créant la Mer des Linceuls.
 

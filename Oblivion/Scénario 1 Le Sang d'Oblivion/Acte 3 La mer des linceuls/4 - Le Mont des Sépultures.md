@@ -63,4 +63,4 @@ La base du trône dissimule une cache secrète, <font style="color:green">Invest
 
 Lorsque les PJ ouvrent le boitier, ils découvrent un simple triangle de papier, d'un blanc quasi-lumineux. Il est exactement de la même dimension que l'autre fragment chez Réghûlus. Malgré son aspect fragile, il est indestructible et sa puissance est sans égale : les PJ tomberont à genoux face à lui. Mieux vaut conserver sa boite.
 
-Ils peuvent utiliser le miroir d'audience pour appeler Réghûlus. Ils pourront retirer leur collier et subir une transmigration pendant leur sommeil. Cependant, l'écorcheuse prendra de court Réghûlus et transmigrera les PJ dans la citadelle d'albâtre pour récupérer le fragment.
+Les PJs peuvent repartir par là où ils sont arrivés ou rester sur place. Ils peuvent utiliser le miroir d'audience pour appeler Réghûlus. Ils pourront retirer leur collier et subir une transmigration pendant leur sommeil. Cependant, l'écorcheuse prendra de court Réghûlus et transmigrera les PJ dans la citadelle d'albâtre pour récupérer le fragment.

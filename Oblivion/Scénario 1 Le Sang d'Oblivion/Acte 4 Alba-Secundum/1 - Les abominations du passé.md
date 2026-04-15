@@ -2,6 +2,8 @@ Les PJs s'éveillent avec leur équipement, mais sans le fragment de Chiaroscuro
 
 Ils constatent qu'ils sont dans une pièce plongée dans le noir complet, ils se tiennent sur un sol composé d'étranges pierres friables, poisseuses et glissantes.
 
+Difficile de discerner quoi que ce soit (un sort de ténèbres vient de s’activer sur les PJ ; c’est le premier d’une série de sortilèges qui s’enchaînent automatiquement à chaque fois qu’un ou plusieurs Oubliés sont abandonnés ici par l’Écorcheuse).
+
 Ils sentent des gouttes tomber régulièrement autour d'eux, il y règne une odeur de charogne, une odeur de mort.
 
 Soudain, les ténèbres perdent de leur densité (les sorts viennent tous d'être dissipés), la grotte se révèle doucement. En fait, ses murs luisent d'une faible lueur maladive qui émane de mousses à peine phosphorescentes. 

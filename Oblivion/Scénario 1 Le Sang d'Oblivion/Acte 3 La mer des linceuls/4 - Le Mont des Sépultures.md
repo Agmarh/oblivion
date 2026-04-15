@@ -2,7 +2,9 @@ La Matrice guide Grisou. Il faut suivre les tunnels de glace qui traversent la c
 
 Le temple comprend seulement une dizaine de colonnes, au toucher, la pierre paraît chaude et vibre légèrement. Les sceaux de plusieurs dieux (dont Justicaar) sont gravés en de nombreux endroits.
 
-Au milieu du sol, une dalle gigantesque porte un monstrueux anneau de bronze. Il faut une force combinée de 30 pour le saisir et soulever la dalle. Elle s'ouvre sur un escalier en colimaçon, descendant au cœur du Mont des Sépultures.
+Sitôt que les PJ approchent du temple, de nombreux [[Hurleurs]] (20) sortent des sépultures pour les attaquer. Si les PJ mettent rapidement les panse-oreilles du peuple goule, ils évitent d’entendre leurs hurlements. Sinon, le combat risque d’être mortel !
+
+Au milieu du sol, une dalle gigantesque porte un monstrueux anneau de bronze. Il faut une force combinée de 40 pour le saisir et soulever la dalle. Elle s'ouvre sur un escalier en colimaçon, descendant au cœur du Mont des Sépultures.
 
 # La Tragédie du Roi
 ## Son souvenir est Poussière

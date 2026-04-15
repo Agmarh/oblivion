@@ -50,11 +50,11 @@ Au fond de la salle s'élève un monstrueux trône de platine, sur lequel repose
 
 Dès que Grisou entre dans la pièce, la Matrice se met à puiser et scintiller, émettant dans l'air des particules lumineuses. En réponse, un chant résonnent dans la pièce, provenant du squelette.
 
-Le fragment est à portée de main. Il est caché dans un boitier de fer, serti dans la couronne du Roi. Mais même au pieds du squelette il faut réussir un <font style="color:green">jet de Perception DD 18</font> pour le voir.
+Le fragment est à portée de main. Il est caché dans un boitier de fer, serti dans la couronne du Roi. Mais même au pieds du squelette il faut réussir un <font style="color:green">jet de Perception DD 18</font> pour le voir. La complainte du Roi-Qui-Devint-Fou donne néanmoins un indice: « À la fin d’là comptine, seule compte l’adamantine. »
 
-Les runes s'activent dès qu'on entre dans la deuxième moitié de la pièce et emplissent le squelette de puissance. Celui-ci se lève alors pour se battre. S'il entre dans la zone de silence, le squelette est automatiquement détruit. Lancer un sort de feu au niveau des liens qui retiennent la boite permet de la faire tomber et de détruire en même temps le squelette.
+Les runes s'activent dès qu'on entre dans la deuxième moitié de la pièce et emplissent le squelette de puissance. Celui-ci se lève alors pour se battre. S'il entre dans la zone de silence, le squelette est automatiquement détruit. Lancer un sort de feu au niveau des liens qui retiennent la boite et infliger 10 points de dégâts de feu permet de la faire tomber et de détruire en même temps le squelette.
 
-La base du trône dissimule une cache secrète, <font style="color:green">Investigation DD 21</font> pour la trouver. L'ouverture est protégée, il faut réussir un <font style="color:green">jet de sauvegarde de Constitution DD 20</font> ou tomber immédiatement à 0 PV. A l'intérieur se trouve :
+La base du trône dissimule une cache secrète, <font style="color:green">Investigation DD 21</font> pour la trouver. L'ouverture est protégée, il faut réussir un <font style="color:green">jet de sauvegarde de Constitution DD 20</font> ou tomber immédiatement à 0 PV. La comptine donnait également un indice sur ce piège: « ... mais son trône cache la Mort. » A l'intérieur se trouve :
 
 - [[Anneau de triple souhait]]
 - [[Bâton de givre]]

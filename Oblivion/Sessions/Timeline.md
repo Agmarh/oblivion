@@ -22,5 +22,5 @@ Actuellement :
 J+32 : ils se préparent à partir sur le territoire des mange-glace
 
 Notes pour plus tard : 
-- Rivalt veut choper le pinard elfe.
+- Rivalt veut choper du vin el elfe.
 - Faire la gestion des voyages de la compagnie.

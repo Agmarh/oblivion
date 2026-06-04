@@ -22,5 +22,5 @@ Actuellement :
 J+32 : ils se préparent à partir sur le territoire des mange-glace
 
 Notes pour plus tard : 
-- Rivalt veut choper du vin el elfe.
+- Rivalt veut choper du vin elfe qu'ils ont goûté à Carcéa pour en faire du commerce. Très rare, vient de Syl'Gaedrim, frontières fermées ?
 - Faire la gestion des voyages de la compagnie.

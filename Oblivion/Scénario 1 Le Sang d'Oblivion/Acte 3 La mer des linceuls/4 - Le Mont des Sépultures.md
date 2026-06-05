@@ -31,9 +31,20 @@ Par ailleurs, tout sort d’attaque jeté dans cette pièce est capturé par les
 
 Le grimoire s'intitule "La parole de Bazoeurk" et contient le testament du Roi, écrit dans un langage magique compréhensible par tous.
 
-Bazoeurk y raconte qu'il était jadis un roi titan et un Forgeron Sorcier soucieux de la paix de son peuple. A la requête des dieux, il devint le gardien d'un fragment de Chiaroscuro, la Clef des Songes. Mais dès lors, les pouvoirs de la Clef le tentèrent nuit après nuit dans son sommeil, le faisant rêver d'un règne éternel et d'une puissance sans égal. Le roi commença à déraisonner et se mit à fantasmer de devenir un mort-vivant, investi pour toujours par les pouvoirs de la clé. Et elle exauça son vœu. Une nuit, il se transforma, mais la force de l'invocation fit fondre le glacier surplombant la cité, noyant les habitants et créant la Mer des Linceuls.
-
-Cette tragédie acheva de faire sombrer le roi dans la folie. Il s'enferma avec le fragment et jeta un ultime sortilège : le survivants de son peuple le rejoignirent dans la non-mort et le nom de sa cité fut effacé des livres, mémoires, monuments, pour être oublié à jamais.
+> <font style="color:yellow">"Moi, Bazewerk, Forgeron Sorcier, Roi de la Cité-Sans-Nom, dépose ici ma confession. Que celui qui la lira comprenne ce que fut ma vie, et ce que je suis devenu.</font>
+> <font style="color:yellow">Je fus un roi juste. Je le dis sans orgueil, car la justice n'est pas une vertu — c'est un devoir. Mon peuple vivait dans la paix que j'avais forgée de mes propres mains, comme j'avais forgé l'acier et le bronze. Les dieux eux-mêmes me firent confiance. Ils vinrent me trouver et me confièrent la garde d'un fragment de Chiaroscuro, la Clef des Songes. Je dis oui. Comment aurais-je pu refuser les dieux ?</font>
+> <font style="color:yellow">La première nuit, je rêvai de lumière.</font>
+> <font style="color:yellow">La deuxième nuit, je rêvai de puissance.</font>
+> <font style="color:yellow">La centième nuit, je rêvai d'éternité.</font>
+> <font style="color:yellow">Ce n'était pas moi qui rêvais. C'était Elle. La Clef murmurait dans mon sommeil avec la patience d'une chose qui ne connaît pas le temps. Elle me montrait ce que je pourrais être : invulnérable, immortel, forgé dans la mort comme mon peuple forgeait l'acier. Un roi qui ne passerait jamais. Un règne sans fin.</font>
+> <font style="color:yellow">Je savais que c'était un poison. Je le savais.</font>
+> <font style="color:yellow">Et je continuai à boire.</font>
+> <font style="color:yellow">Je ne me souviens pas de la nuit où cela arriva. C'est le seul mensonge que je m'autorise dans ces pages : dire que je ne m'en souviens pas. En vérité, je crois que je le voulais. Je crois que j'ouvris les bras.</font>
+> <font style="color:yellow">Au matin, le glacier avait fondu. En une seule nuit. La mer avait englouti les rues, les marchés, les maisons. J'entendais les cris de mon peuple depuis les hauteurs où je me tenais, debout, intact, transformé. Et je n'ai pas bougé. Voilà mon crime.</font>
+> <font style="color:yellow">Ce qui restait de lucidité en moi comprit alors ce que j'étais devenu. Je jetai un dernier sort — le seul acte de tyrannie de mon règne : mes survivants me rejoignirent dans la non-mort, qu'ils le veuillent ou non. Je ne voulais pas mourir seul. C'est aussi simple et aussi ignoble que cela.</font>
+> <font style="color:yellow">J'ai ensuite effacé mon nom. De chaque livre, de chaque pierre, de chaque mémoire. Ce n'était pas de l'humilité. C'était de la lâcheté.</font>
+> <font style="color:yellow">Si tu lis ces mots, étranger, c'est que tu as survécu à ma demeure. Tu mérites donc de savoir. Le fragment est ici. Il t'attend, comme il m'a attendu.</font>
+> <font style="color:yellow">Prends-le. Et ne lui parle pas dans ton sommeil."</font>
 
 À la dernière page du livre se trouve le mot de commande "SILHVHER". Si on le prononce à voix haute, le mur du fond disparaît pour donner accès au tombeau du roi.
 

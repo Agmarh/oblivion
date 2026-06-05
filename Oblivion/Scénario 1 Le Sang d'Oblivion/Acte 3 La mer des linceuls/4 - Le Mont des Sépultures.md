@@ -18,7 +18,7 @@ Cette pièce titanesque est la plus extraordinaire des forges ! D'étincelants s
 
 Dès que les PJ touchent à quelque chose, un gigantesque gant d'acier apparaît et le combat s'engage.
 
-Les seuls éléments intéressants sont les matériaux précieux, ils peuvent obtenir pour 1d10 x1000 po de richesses par personne. Il y a également quelques blocs bruts d’adamantine, en quantité suffisante pour forger une armure et cinq ou six armes d’exception. Un <font style="color:green">jet d'Investigation DD 20</font> permet de trouver, derrière une porte secrète, la salle des armures où est caché un [[Bouclier animé]] à taille humaine. Mais dès qu'on l'ouvree, un [[Élémentaire de feu]] apparaît dans l'âtre et attaque.
+Les seuls éléments intéressants sont les matériaux précieux, ils peuvent obtenir pour 1d10 x1000 po de richesses par personne. Il y a également quelques blocs bruts d’adamantine, en quantité suffisante pour forger une armure et cinq ou six armes d’exception. Un <font style="color:green">jet d'Investigation DD 20</font> permet de trouver, derrière une porte secrète, la salle des armures où est caché un [[Bouclier animé]] à taille humaine. Mais dès qu'on l'ouvre, un [[Élémentaire de feu]] apparaît dans l'âtre et attaque.
 
 Au fond de la forge, une énorme porte en fer ornée d'un anneau de bronze donne sur la salle suivante.
 

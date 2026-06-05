@@ -23,4 +23,5 @@ J+32 : ils se préparent à partir sur le territoire des mange-glace
 
 Notes pour plus tard : 
 - Rivalt veut choper du vin elfe qu'ils ont goûté à Carcéa pour en faire du commerce. Très rare, vient de Syl'Gaedrim, frontières fermées ?
+- Marcius va également se renseigner pour se fournir le vin ainsi que la bière naine de Kar'Azdhur
 - Faire la gestion des voyages de la compagnie.

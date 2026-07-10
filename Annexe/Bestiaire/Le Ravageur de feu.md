@@ -17,11 +17,12 @@ saves:
 skillsaves:
   - Perspicacité: +3
   - Supercherie: +4
-damage_resistances: contondants, perforants et tranchants inflgiés par des attaques non-magiques qui ne sont pas magique
-damage_immunities: de feu et de poison
+damage_resistances: contondants, perforants et tranchants inflgiés par des attaques non-magiques qui ne sont pas magiques
+damage_immunities: de feu
 condition_immunities: [[Empoisonné]]
-senses: vision dans le noir 36 m, Perception passive 12
-languages: commun, infernal, gnome, télépathie 36 m
+damage_vulnerabilities: de froid
+senses: vision dans le noir 18 m, Perception passive 10
+languages: commun, ignée, gnome, télépathie 36 m
 cr: 9
 traits:
   - name: Résistance à la magie

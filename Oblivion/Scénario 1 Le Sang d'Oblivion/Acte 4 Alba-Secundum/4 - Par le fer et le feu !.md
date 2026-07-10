@@ -20,15 +20,16 @@ Elle est peu vulnérable aux pouvoirs des PJ. De son côté, elle utilise ses ap
 L’orgueil de l’Écorcheuse est peut-être l’unique défaut de sa cuirasse. Il suffit par exemple qu’un PJ défie le Ravageur en combat singulier sur un pont de toile (qu’il utilise le bluff ou l’intimidation, suivant la façon de s’y prendre, le <font style="color:green">DD sera de 15</font> dans tous les cas). Ceci détourne l’attention de l’Écorcheuse et peut donner le temps aux autres de libérer Sérénité, de déployer le submersible du crabe, etc.
 
 ## Libérer Sérénité : 
-Pour cela, il faut briser l’œuf Gangue-Flamme qui l’entoure. Il est considéré comme ayant une <font style="color:red">CA de 15 et 30 PV</font>, mais seul le froid peut l’affecter. Sitôt libérée, Sérénité s’interpose courageusement entre les PJ et l’Écorcheuse, brandissant son épée de bois... Et pendant quelques instants, le temps paraît se figer.
+Pour cela, il faut briser l’œuf Gangue-Flamme qui l’entoure. Il est considéré comme ayant une <font style="color:red">CA de 15 et 30 PV</font>, mais seul le froid peut l’affecter. 
 
-Dans un déluge de puissance, les deux Incarnins s’affrontent ! Au début, la petite fille pare vaillamment les coups avec son épée de bois et parvient même à repousser les ténèbres ! Les PJ disposent alors de deux rounds sans subir d’attaque de l’Écorcheuse. Mais cette dernière redouble de hargne et, au troisième round, Sérénité s’écroule, épuisée, dans les bras des PJ.
+> <font style="color:yellow">Sitôt libérée, Sérénité s’interpose courageusement entre vous et l’Écorcheuse, brandissant son épée de bois... Et pendant quelques instants, le temps paraît se figer. Dans un déluge de puissance, les deux Incarnins s’affrontent ! La petite fille pare vaillamment les coups avec son épée de bois et parvient même à repousser les ténèbres !</font>
+
+Les PJ disposent alors de deux rounds sans subir d’attaque de l’Écorcheuse. Mais cette dernière redouble de hargne et, au troisième round, Sérénité s’écroule, épuisée, dans les bras des PJ.
 
 ## S’enfuir : 
 Il est possible de vaincre le Ravageur, mais d’autres ghûraghastas suivront et l’Écorcheuse est presque invincible. Fuir devient donc l’objectif principal après avoir libéré Sérénité. On peut le faire d’au moins deux façons :
-
 1. En empruntant l’un des couloirs menant vers la surface, on s’expose alors aux attaques de nombreuses ghûraghastas.
-2. Le plus « simple » est encore de déployer le submersible du crabe, d’embarquer avec Sérénité et de sauter dans la rivière ! Le déploiement demande deux rounds. Le plongeon dans la rivière inflige un choc à l’appareil (<font style="color:red">4d10 points de dommages</font>) et aux PJ. Ils doivent effectuer un <font style="color:green">jet de sauvegarde de Dextérité DD 18</font>. En cas d’échec, ils subissent <font style="color:red">5d6 points de dégâts</font>. Réussir le jet de sauvegarde permet de diviser les dégâts par 2. Il suffit ensuite de remonter la rivière à contre-courant, pour rejoindre le labyrinthe de canaux d’Oblivion et des territoires plus sûrs.
+2. Le plus « simple » est encore de déployer le submersible du crabe, d’embarquer avec Sérénité et de sauter dans la rivière ! Le déploiement demande deux rounds. Le plongeon dans la rivière inflige un choc à l’appareil (<font style="color:red">4d10 points de dommages</font>). Les PJs doivent effectuer un <font style="color:green">jet de sauvegarde de Dextérité DD 18</font>. En cas d’échec, ils subissent <font style="color:red">5d6 points de dégâts</font>. Réussir le jet de sauvegarde permet de diviser les dégâts par 2. Il suffit ensuite de remonter la rivière à contre-courant, pour rejoindre le labyrinthe de canaux d’Oblivion et des territoires plus sûrs.
 
 ## Et si... les PJ ne libèrent pas Sérénité ? : 
 C’est peu probable, mais dans ce cas, faites intervenir Grisou : cherchant l’appui d’un autre Incarnin, il tente de libérer Sérénité tout seul et s’acharne sur l’œuf Gangue-Flamme. La Matrice, toujours incrustée dans sa poitrine, touche alors les contours de l’œuf... qui se dissout brusquement, libérant la petite fille.

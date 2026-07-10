@@ -38,8 +38,10 @@ traits:
 actions:
   - name: Attaques multiples
     desc: "Le ravageur effectue deux attaques : une avec sa lance et une avec sa queue."
-  - name: Dard
-    desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 3 m, une cible. Touché : 13 (2d8+4) dégâts perforants et 17 (5d6) dégâts de poison, et la cible doit réussir un jet de sauvegarde de Constitution DD 14 pour ne pas être empoisonnée pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l’effet dont elle est victime en cas de réussite."
-  - name: Griffes
-    desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 3 m, une cible. Touché : 8 (1d8+4) dégâts tranchants."
+  - name: Lance
+    desc: "Attaque d’arme au corps-à-corps ou à distance : +8 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 12 (2d6+5) dégâts perforants ou 14 (2d8+5) dégâts perforants si elle est maniée à deux mains pour effectuer une attaque au corps-à-corps, + 3 (1d6) dégâts de feu."
+  - name: Queue
+    desc: "Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 3 m, une cible. Touché : 11 (2d6+4) dégâts contondants + 7 (2d6) dégâts de feu et la cible est empoignée (jet de sauvegarde de Dextérité DD14 en H&D, ou de Dextérité DD12 en CO). Jusqu’à la fin de cette empoignade, la cible est entravée et le ravageur peut réussir automatiquement une attaque de queue contre elle, mais ne peut plus effectuer d’attaque de queue contre d’autres cibles.."
+treasure: 
+
 ```

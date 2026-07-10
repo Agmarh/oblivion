@@ -42,4 +42,7 @@ actions:
     desc: "Attaque d’arme au corps-à-corps ou à distance : +8 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 12 (2d6+5) dégâts perforants ou 14 (2d8+5) dégâts perforants si elle est maniée à deux mains pour effectuer une attaque au corps-à-corps, + 3 (1d6) dégâts de feu."
   - name: Queue
     desc: "Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 3 m, une cible. Touché : 11 (2d6+4) dégâts contondants + 7 (2d6) dégâts de feu et la cible est empoignée (jet de sauvegarde de Dextérité DD14 en H&D, ou de Dextérité DD12 en CO). Jusqu’à la fin de cette empoignade, la cible est entravée et le ravageur peut réussir automatiquement une attaque de queue contre elle, mais ne peut plus effectuer d’attaque de queue contre d’autres cibles.."
+treasure:
+  - name: Lance d'oniride +1
+    desc: Une lance faite d'onirôm (très rare, harmonisation requise)
 ```

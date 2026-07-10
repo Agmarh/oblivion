@@ -8,16 +8,16 @@ alignment: Loyal Mauvais
 ac: 16 (armure naturelle)
 hp: 112
 hit_dice: 15d10+30
-speed: 12 m, vol 12 m
-stats: [18, 16, 18, 13, 14, 16]
+speed: 12 m
+stats: [18, 14, 15, 11, 10, 12]
 saves:
-  - Intelligence: +5
-  - Sagesse: +6
-  - Charisme: +7
+  - Intelligence: +3
+  - Sagesse: +3
+  - Charisme: +4
 skillsaves:
-  - Perspicacité: +6
-  - Supercherie: +7
-damage_resistances: contondants, perforants et tranchants inflgiés par des attaques non-magiques qui ne sont pas en argent et de froid
+  - Perspicacité: +3
+  - Supercherie: +4
+damage_resistances: contondants, perforants et tranchants inflgiés par des attaques non-magiques qui ne sont pas magique
 damage_immunities: de feu et de poison
 condition_immunities: [[Empoisonné]]
 senses: vision dans le noir 36 m, Perception passive 12

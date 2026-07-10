@@ -25,9 +25,9 @@ senses: vision dans le noir 18 m, Perception passive 10
 languages: commun, ignée, gnome, télépathie 36 m
 cr: 7
 traits:
-  - name: A
-    desc: "Le ravageur obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques."
-  - name: Vue du diable
+  - name: Armes surchauffées
+    desc: "Quand le ravageur réussit une attaque avec une arme de corps-à-corps en métal, celle-ci inflige 3 (1d6) dégâts de feu supplémentaires (inclus dans l’attaque)."
+  - name: Corps surchauffé
     desc: "Les ténèbres magiques ne bloquent pas la vision dans le noir du ravageur."
   - name: Pouvoirs du ravageur
     desc: "Le ravageur peut utiliser les sorts suivant à leur niveau minimal : [[Soin des blessures]], [[Blessure]], [[Détection du mal et du bien]], [[Détection de la magie]], [[Détection des pensées]], [[Voir l'invisible]], [[Compréhension des langues]]. Il peut lancer chacun de ces sorts une fois entre chaque repos court ou long."

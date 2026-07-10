@@ -23,9 +23,9 @@ condition_immunities: [[Empoisonné]]
 damage_vulnerabilities: de froid
 senses: vision dans le noir 18 m, Perception passive 10
 languages: commun, ignée, gnome, télépathie 36 m
-cr: 9
+cr: 7
 traits:
-  - name: Résistance à la magie
+  - name: A
     desc: "Le ravageur obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques."
   - name: Vue du diable
     desc: "Les ténèbres magiques ne bloquent pas la vision dans le noir du ravageur."

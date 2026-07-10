@@ -43,10 +43,6 @@ actions:
     desc: "L’Écorcheuse peut effectuer quatre attaques avec une action attaquer."
   - name: Pattes d'araignée
     desc: "Attaque d’arme au corps-à-corps: +14 pour toucher, allonge 9 m, une cible. Touché : 21 (2d12+8) dégâts perforants." 
-  - name: Attaques multiples Scénario 1
-    desc: "L’Écorcheuse peut effectuer deux attaques avec ses appendices."
-  - name: Appendice
-    desc: "Attaque d’arme au corps-à-corps: +8 pour toucher, si le coup porte, la cible ne subit pas de dommages mais son âme est écorhcée par l'Incarnin du Mal : elle perd aussitôt 3 points, soit en Intelligence, soit en Sagesse soit en Charisme. Arrivée à 0, la cible meurt." 
 treasure:
   - name: Un fragment de Chiaroscuro
 ```

@@ -39,17 +39,6 @@
   ],
   "parties": [
     {
-      "name": "Londres",
-      "players": [
-        "Camille",
-        "Pauline",
-        "Dori",
-        "Delphine",
-        "Maria",
-        "Amy"
-      ]
-    },
-    {
       "name": "Oblivion",
       "players": [
         "Iseult",
@@ -161,10 +150,10 @@
         "name": "Iseult",
         "initiative": 0,
         "static": false,
-        "modifier": 0,
+        "modifier": -1,
         "hp": 31,
         "currentMaxHP": 31,
-        "ac": "18",
+        "ac": "19",
         "currentAC": "18",
         "note": null,
         "path": null,
@@ -186,7 +175,7 @@
         "modifier": -1,
         "hp": 36,
         "currentMaxHP": 36,
-        "ac": "16",
+        "ac": "19",
         "currentAC": "16",
         "note": null,
         "path": null,
@@ -225,10 +214,10 @@
         "name": "Kogarm",
         "initiative": 0,
         "static": false,
-        "modifier": 3,
+        "modifier": 4,
         "hp": 31,
         "currentMaxHP": 31,
-        "ac": "15",
+        "ac": "16",
         "currentAC": "15",
         "id": "ID_f8f90bab1918",
         "currentHP": 31,
@@ -240,10 +229,31 @@
         "active": false,
         "hidden": false,
         "friendly": false
+      },
+      {
+        "name": "Squelette gigantesque",
+        "display": "Roi Sorcier",
+        "initiative": 18,
+        "static": false,
+        "modifier": 0,
+        "hp": 110,
+        "currentMaxHP": 110,
+        "cr": 7,
+        "ac": 13,
+        "currentAC": 13,
+        "id": "ID_5a2a1979b8ab",
+        "currentHP": 110,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "4d12+8"
       }
     ],
     "state": false,
-    "name": null,
+    "name": "Roi Sorcier",
     "round": 1,
     "logFile": "",
     "rollHP": false

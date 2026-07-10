@@ -37,10 +37,10 @@ DDJS 12
 VITESSE 9 m
 
 # POINTS DE VIE
-36
+44
 Dés de vie 4d10
 # CLASSE D'ARMURE
-CA TOTALE 17
+CA TOTALE 19
 CA TOTALE - CA BOUCLIER 17
 CA AU REPOS 10 ?
 ■ Désavantage aux tests de discrétion
@@ -94,6 +94,7 @@ Clibanion 17 CA
 # OBJETS MAGIQUES
 [[Nocturno]]
 [[Ceinturon de force d'ogre]]
+[[Bouclier animé]]
 Méduse Euryale [[Règles Magie]]
 
 

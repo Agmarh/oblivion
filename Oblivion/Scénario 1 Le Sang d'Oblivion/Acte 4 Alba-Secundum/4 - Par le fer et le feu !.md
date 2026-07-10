@@ -7,7 +7,7 @@ Simultanément, les trois appendices antérieurs de L’Écorcheuse se tendent, 
 
 <font style="color:red">L’Écorcheuse peut lancer deux attaques par round (+8/+8)</font>. Si le coup porte, le PJ ne subit pas de dommages mais son âme est « écorchée » par l’Incarnin du Mal : il perd aussitôt 3 points, soit en Intelligence, soit Sagesse soit en Charisme (lancer 1d6) !
 
-Arrivé à 0, le personnage meurt. <font style="color:red">Les appendices ont une CA 16 et 35 PV chacun</font>. Quant aux araignées-goules, vous pouvez en faire surgir de deux à douze en fonction de la force de votre groupe.
+Arrivé à 0, le personnage meurt. <font style="color:red">Les appendices ont une CA 16 et 35 PV chacun</font>. Quant aux [[Ghûraghasta]], vous pouvez en faire surgir de deux à douze en fonction de la force de votre groupe.
 
 # Que peuvent faire les PJ ?
 ## Combattre le Ravageur, les appendices de l’Écorcheuse, les ghûraghastas : 

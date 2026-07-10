@@ -5,3 +5,5 @@ Ils savent qu'ils ont été trahis par Grisou mais il s'est sacrifié pour encai
 Ils sont tous rentré à la cathédrale de Réghulus et sont soignés. Sérénité est soignée également.
 
 Ils ont récupéré la lance du Ravageur.
+
+Il reste l'épilogue à jouer.

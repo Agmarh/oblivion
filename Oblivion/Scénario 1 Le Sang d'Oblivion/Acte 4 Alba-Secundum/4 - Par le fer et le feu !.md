@@ -13,7 +13,7 @@ Arrivé à 0, le personnage meurt. <font style="color:red">Les appendices ont un
 ## Combattre le Ravageur, les appendices de l’Écorcheuse, les ghûraghastas : 
 Pour cela, les PJ n’ont pas le choix. S’ils fuient, les ghûraghastas ne les poursuivront pas plus loin que les frontières d’Alba-Secundum. En revanche, le Ravageur les traquera jusqu’à ce qu’il les tue ou qu’il soit lui-même tué.
 
-## Combattre l’Écorcheuse directement ? : 
+## Combattre l’Écorcheuse directement ?
 Elle est peu vulnérable aux pouvoirs des PJ. De son côté, elle utilise ses appendices antérieurs et envoie des vagues d’émotions empathiques (haine, « divine » colère, etc.) mais n’en fera pas plus au cours des prochaines heures. La Transmigration de groupe l’a trop épuisée.
 
 ## Gagner du temps : 

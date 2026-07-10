@@ -6,8 +6,8 @@
       "name": "Iseult",
       "level": 4,
       "hp": 31,
-      "ac": "18",
-      "modifier": 0,
+      "ac": "19",
+      "modifier": -1,
       "player": true
     },
     {
@@ -15,8 +15,8 @@
       "path": null,
       "name": "Rivalt",
       "level": 4,
-      "hp": 36,
-      "ac": "16",
+      "hp": 44,
+      "ac": "19",
       "modifier": -1,
       "player": true
     },
@@ -31,61 +31,9 @@
     {
       "name": "Kogarm",
       "level": 4,
-      "hp": 31,
-      "ac": "15",
-      "modifier": 3,
-      "player": true
-    },
-    {
-      "name": "Amy",
-      "level": 3,
-      "hp": 21,
-      "ac": "14",
-      "modifier": 1,
-      "player": true
-    },
-    {
-      "note": "Sort",
-      "path": "Template/Sort.md",
-      "name": "Camille",
-      "ac": "14",
-      "hp": 30,
-      "level": 3,
-      "modifier": 1,
-      "player": true
-    },
-    {
-      "name": "Maria",
-      "level": 3,
-      "hp": 24,
-      "ac": "13",
-      "modifier": 2,
-      "player": true
-    },
-    {
-      "name": "Delphine",
-      "level": 3,
-      "hp": 31,
+      "hp": 35,
       "ac": "16",
-      "modifier": 3,
-      "player": true
-    },
-    {
-      "note": "Sort",
-      "path": "Template/Sort.md",
-      "name": "Dori",
-      "ac": "14",
-      "hp": 21,
-      "level": 3,
       "modifier": 4,
-      "player": true
-    },
-    {
-      "name": "Pauline",
-      "level": 3,
-      "hp": 31,
-      "ac": "14",
-      "modifier": 3,
       "player": true
     }
   ],

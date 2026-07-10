@@ -1,11 +1,11 @@
 ```statblock
-name: L'écorcheuse
+name: Appendice de l'Écorcheuse
 size: Gig
 type: Incarnin
 subtype: 
 alignment: Non aligné
-ac: 20
-hp: 250
+ac: 16
+hp: 35
 hit_dice: 12d12+120
 speed: 6 m (vol)
 stats: [27, 20, 22, 26, 10, 25]

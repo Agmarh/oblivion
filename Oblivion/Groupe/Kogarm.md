@@ -87,7 +87,7 @@ Armes courantes
 Epée courte
 
 # ARMURES ET PROTECTIONS
-Armure d'écaille 14 CA +2 DEX MAX
+Défrense sans armure des moines
 
 # OBJETS MAGIQUES
 [[Bâton des Vertèbres de Fer]]

@@ -44,4 +44,4 @@ Là-bas, munis de leur collier de protection empêchant toute Transmigration, il
 En termes de jeu, les PJ ne seront pas rappelés dans Oblivion avant plusieurs semaines. Dans l’intervalle, la Matrice ne se manifestera pas et ne donnera aucune indication sur le quatrième et dernier fragment de Chiaroscuro.
 
 Bien sûr, il faudra gérer les réactions de l’entourage des PJ s’ils choisissent de tout révéler. On peut déjà imaginer les réactions de leurs nouveaux amis aéromarchands ou la sainte colère de Malathor le fier paladin : 
-> <font style="color:yellow">"Comment ? Une prétendue déesse nous arrache nos enfants pour les transformer en monstruosités ? Par les tripes d’Azel-Liark, que cette engeance prenne garde, elle n’aura pas mon fils !"</font>
+> <font style="color:orange">"Comment ? Une prétendue déesse nous arrache nos enfants pour les transformer en monstruosités ? Par les tripes d’Azel-Liark, que cette engeance prenne garde, elle n’aura pas mon fils !"</font>

@@ -3,12 +3,9 @@ Les PJs s'éveillent avec leur équipement, mais sans le fragment de Chiaroscuro
 > Vous êtes dans une pièce plongée dans le noir complet, vous vous tenez sur un sol composé d'étranges pierres friables, poisseuses et glissantes.
 > Difficile de discerner quoi que ce soit (un sort de ténèbres vient de s’activer sur les PJ ; c’est le premier d’une série de sortilèges qui s’enchaînent automatiquement à chaque fois qu’un ou plusieurs Oubliés sont abandonnés ici par l’Écorcheuse).
 > Vous sentez des gouttes tomber régulièrement autour de vous, il y règne une odeur de charogne, une odeur de mort.
-
-Soudain, les ténèbres perdent de leur densité (les sorts viennent tous d'être dissipés), la grotte se révèle doucement. En fait, ses murs luisent d'une faible lueur maladive qui émane de mousses à peine phosphorescentes. 
-
-Le sol, sous vos pieds, n'est pas constitué de pierres, c'est un tas d'os, une véritable colline d'ossements brisés en morceaux (<font style="color:green">jet de sauvegarde de Charisme DD 15</font>, en cas d'échec ils se mettent à trembler, <font style="color:red">désavantage</font> sur leurs actions pour le moment).
-
-Quant aux gouttes, elle proviennent de cocons visqueux, pendus sous la voûte, dix mètres au-dessus des PJs. Des cocons dans lesquels on peut deviner des silhouettes humanoïdes par centaines. Ou plutôt leurs restes mutilés. Beaucoup sont desséchés, suspendus là depuis des années. D'autres sont plus récents, très récents même… Puisque c'est leur sang qui s'égoutte sur le pavé d'ossements.
+> Soudain, les ténèbres perdent de leur densité, la grotte se révèle doucement. En fait, ses murs luisent d'une faible lueur maladive qui émane de mousses à peine phosphorescentes. 
+> Le sol, sous vos pieds, n'est pas constitué de pierres, c'est un tas d'os, une véritable colline d'ossements brisés en morceaux (<font style="color:green">jet de sauvegarde de Charisme DD 15</font>, en cas d'échec ils se mettent à trembler, <font style="color:red">désavantage</font> sur leurs actions pour le moment).
+> Quant aux gouttes, elle proviennent de cocons visqueux, pendus sous la voûte, dix mètres au-dessus de vous. Des cocons dans lesquels on peut deviner des silhouettes humanoïdes par centaines. Ou plutôt leurs restes mutilés. Beaucoup sont desséchés, suspendus là depuis des années. D'autres sont plus récents, très récents même… Puisque c'est leur sang qui s'égoutte sur le pavé d'ossements.
 
 Nouveau <font style="color:green">jet de sauvegarde de Charisme DD 15</font>, ceux qui échoue se mettent à trembler, même malus que précédemment sauf pour ceux qui avaient déjà échoué qui subissent une malédiction, <font style="color:red">malus de -6 en force</font>.
 

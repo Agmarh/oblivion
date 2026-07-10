@@ -3,17 +3,17 @@ Avant tout, rappelez aux PJ où se situe Alba-Secundum dans Oblivion, cela a son
 ![[Alba Secundum.png]]
 # 1. La grotte
 
-> Vous arrivez dans une troisième caverne aux proportions titanesques. Ses parois de roche blême sont mangées par une mousse phosphorescente rouge sombre, telle une braise rougeoyante et palpitante de vie. Des centaines de petites araignées grouillent dans la moindre fissure. Vous avez cette sensation de pénétrer dans le jardin interdit d'une créature mythique, de franchir les grilles de l'esprit du Mal.
+> <font style="color:yellow">Vous arrivez dans une troisième caverne aux proportions titanesques. Ses parois de roche blême sont mangées par une mousse phosphorescente rouge sombre, telle une braise rougeoyante et palpitante de vie. Des centaines de petites araignées grouillent dans la moindre fissure. Vous avez cette sensation de pénétrer dans le jardin interdit d'une créature mythique, de franchir les grilles de l'esprit du Mal.</font>
 
 # 2. Le fleuve
 
-> Dans les profondeurs béantes de la grotte, trente mètres plus bas, gronde le lit d’un fleuve. 
+> <font style="color:yellow">Dans les profondeurs béantes de la grotte, trente mètres plus bas, gronde le lit d’un fleuve. </font>
 
 Un <font style="color:green">jet de Survie DD 15</font> révèle que l’eau doit provenir du lac central d’Oblivion, coulant jusqu’ici à travers les canaux du Quartier des Primes Eaux. Compte tenu de l’orientation géographique de la citadelle, le fleuve doit la traverser pour aller se jeter dans les gouffres de Morne-Douve. Voilà une sortie rapide.
 
 # 3. Le rocher suspendu
 
-> Au centre de la grotte rougeoyante flotte un énorme rocher, suspendu dans les airs par une multitude de ponts de « toile » noire dont la majeur partie semble venir de tunnels dans les parois. L'un des ponts commence un peu plus loin devant vous et pourrais vous permettre d'atteindre le rocher suspendu.
+> <font style="color:yellow">Au centre de la grotte rougeoyante flotte un énorme rocher, suspendu dans les airs par une multitude de ponts de « toile » noire dont la majeur partie semble venir de tunnels dans les parois. L'un des ponts commence un peu plus loin devant vous et pourrais vous permettre d'atteindre le rocher suspendu.</font>
 
 Il est nécessaire de réussir un <font style="color:green">jet d'Acrobatie DD 10</font> afin de ne pas tomber à chaque déplacement. Ces ponts sont à peine branlants, aussi stables que s’ils étaient en pierre. Ils permettent à deux humanoïdes, de se tenir de front.
 
@@ -29,7 +29,9 @@ Parmi les six restants, deux sont en fait des culs de sac : ce sont d’immondes
 
 # 5. La prison de Sérénité
 
-> Au centre du rocher suspendu est posé un œuf énorme. Sa taille rappelle celle des œufs qui contenaient les enfants, mais la ressemblance s’arrête là. Celui-ci scintille comme un brasero, émettant de temps à autre une langue de feu rougeâtre.
-> Sérénité est prisonnière à l’intérieur en état d’animation suspendue. Elle est recroquevillée en position fœtale, le poing encore crispé sur la garde de son épée de bois et semble livrer une intense bataille mentale.
+> <font style="color:yellow">Au centre du rocher suspendu est posé un œuf énorme. Sa taille rappelle celle des œufs qui contenaient les enfants, mais la ressemblance s’arrête là. Celui-ci scintille comme un brasero, émettant de temps à autre une langue de feu rougeâtre.</font>
+> <font style="color:yellow">Sérénité est prisonnière à l’intérieur en état d’animation suspendue. Elle est recroquevillée en position fœtale, le poing encore crispé sur la garde de son épée de bois et semble livrer une intense bataille mentale.</font>
 
-L’œuf de feu n’est vulnérable qu’au froid. Pour le briser, il faut lui infliger au moins <font style="color:red">50 points de dégâts de froid (CA 10)</font>. Soudain, alors que les PJ contemplent la prison de Sérénité, une silhouette familière surgit de derrière son œuf et apparaît en pleine lumière… Vous reconnaissez Rhâvi Shândar, le petit halfelin qui était avec vous lors de la sentence des voies, à Ikhâr et qui était parti avec Malhator.
+L’œuf de feu n’est vulnérable qu’au froid. Pour le briser, il faut lui infliger au moins <font style="color:red">50 points de dégâts de froid (CA 10)</font>. 
+
+> <font style="color:yellow">Soudain, alors que vous contemplez la prison de Sérénité, une silhouette familière surgit de derrière son œuf et apparaît en pleine lumière… Vous reconnaissez Rhâvi Shândar, le petit halfelin qui était avec vous lors de la sentence des voies, à Ikhâr et qui était parti avec Malhator.</font>

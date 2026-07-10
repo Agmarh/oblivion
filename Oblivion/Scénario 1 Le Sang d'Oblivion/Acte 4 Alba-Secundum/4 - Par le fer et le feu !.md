@@ -1,6 +1,7 @@
 Les PJ doivent réagir. À ce stade, la menace devient telle que le charme du Ravageur est brisé. Le combat final vient de commencer !
 
-Dès le premier round, le corps de Rhâvi Shândar explose dans une gerbe de sang pour libérer la forme finale de ce nouveau Ravageur. Cette fois, il s’agit d’une monstrueuse créature serpentine surmontée d’un torse de démon. Drapé d’un halo de flammes, il se dresse en position d’attaque, entrouvrant ses crocs pour lancer un rugissement guttural, c’est un ravageur de feu ! La créature saisit une lance noire qui était cachée à terre, sur le rocher, et se lance dans la bataille.
+Dès le premier round :
+> <font style="color:yellow">Le corps de Rhâvi Shândar explose dans une gerbe de sang pour libérer la forme finale de ce nouveau Ravageur. Cette fois, il s’agit d’une monstrueuse créature serpentine surmontée d’un torse de démon. Drapé d’un halo de flammes, il se dresse en position d’attaque, entrouvrant ses crocs pour lancer un rugissement guttural, c’est un ravageur de feu ! La créature saisit une lance noire qui était cachée à terre, sur le rocher, et se lance dans la bataille.</font>
 
 Simultanément, les trois appendices antérieurs de L’Écorcheuse se tendent, telles des faux d’ébène, à travers le gouffre pour griffer les PJ (elle-même ne quitte pas le plafond).
 

@@ -9,6 +9,11 @@ Simultanément, les trois appendices antérieurs de L’Écorcheuse se tendent, 
 
 Arrivé à 0, le personnage meurt. <font style="color:red">Les appendices ont une CA 16 et 35 PV chacun</font>. Quant aux [[Ghûraghasta]], vous pouvez en faire surgir de deux à douze en fonction de la force de votre groupe.
 
+Ennemis : 
+- [[Appendice de l'Écorcheuse]] x4
+- [[Ghûraghasta]] : autant qu'il faudra
+- [[Le Ravageur de feu]]
+
 # Que peuvent faire les PJ ?
 ## Combattre le Ravageur, les appendices de l’Écorcheuse, les ghûraghastas : 
 Pour cela, les PJ n’ont pas le choix. S’ils fuient, les ghûraghastas ne les poursuivront pas plus loin que les frontières d’Alba-Secundum. En revanche, le Ravageur les traquera jusqu’à ce qu’il les tue ou qu’il soit lui-même tué.

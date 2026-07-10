@@ -67,9 +67,9 @@ Les runes s'activent dès qu'on entre dans la deuxième moitié de la pièce et 
 
 La base du trône dissimule une cache secrète, <font style="color:green">Investigation DD 21</font> pour la trouver. L'ouverture est protégée, il faut réussir un <font style="color:green">jet de sauvegarde de Constitution DD 20</font> ou tomber immédiatement à 0 PV. La comptine donnait également un indice sur ce piège: « ... mais son trône cache la Mort. » A l'intérieur se trouve :
 
-- [[Anneau de triple souhait]]
-- [[Bâton de givre]]
-- [[Skorcheur]]
+- [[Potion de soins excellents]] x1
+- [[Bâton de givre du Forgeron]]
+- [[Huile d'affûtage]] x1
 - 3 [[Flèches tueuses de morts-vivants]]
 
 Lorsque les PJ ouvrent le boitier, ils découvrent un simple triangle de papier, d'un blanc quasi-lumineux. Il est exactement de la même dimension que l'autre fragment chez Réghûlus. Malgré son aspect fragile, il est indestructible et sa puissance est sans égale : les PJ tomberont à genoux face à lui. Mieux vaut conserver sa boite.

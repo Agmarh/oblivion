@@ -1,11 +1,11 @@
 Les PJs s'éveillent avec leur équipement, mais sans le fragment de Chiaroscuro ni Grisou.
 
-> Vous êtes dans une pièce plongée dans le noir complet, vous vous tenez sur un sol composé d'étranges pierres friables, poisseuses et glissantes.
-> Difficile de discerner quoi que ce soit (un sort de ténèbres vient de s’activer sur les PJ ; c’est le premier d’une série de sortilèges qui s’enchaînent automatiquement à chaque fois qu’un ou plusieurs Oubliés sont abandonnés ici par l’Écorcheuse).
-> Vous sentez des gouttes tomber régulièrement autour de vous, il y règne une odeur de charogne, une odeur de mort.
-> Soudain, les ténèbres perdent de leur densité, la grotte se révèle doucement. En fait, ses murs luisent d'une faible lueur maladive qui émane de mousses à peine phosphorescentes. 
-> Le sol, sous vos pieds, n'est pas constitué de pierres, c'est un tas d'os, une véritable colline d'ossements brisés en morceaux (<font style="color:green">jet de sauvegarde de Charisme DD 15</font>, en cas d'échec ils se mettent à trembler, <font style="color:red">désavantage</font> sur leurs actions pour le moment).
-> Quant aux gouttes, elle proviennent de cocons visqueux, pendus sous la voûte, dix mètres au-dessus de vous. Des cocons dans lesquels on peut deviner des silhouettes humanoïdes par centaines. Ou plutôt leurs restes mutilés. Beaucoup sont desséchés, suspendus là depuis des années. D'autres sont plus récents, très récents même… Puisque c'est leur sang qui s'égoutte sur le pavé d'ossements.
+> <font style="color:yellow">Vous êtes dans une pièce plongée dans le noir complet, vous vous tenez sur un sol composé d'étranges pierres friables, poisseuses et glissantes.</font>
+> <font style="color:yellow">Difficile de discerner quoi que ce soit</font> (un sort de ténèbres vient de s’activer sur les PJ ; c’est le premier d’une série de sortilèges qui s’enchaînent automatiquement à chaque fois qu’un ou plusieurs Oubliés sont abandonnés ici par l’Écorcheuse).
+> <font style="color:yellow">Vous sentez des gouttes tomber régulièrement autour de vous, il y règne une odeur de charogne, une odeur de mort.</font>
+> <font style="color:yellow">Soudain, les ténèbres perdent de leur densité, la grotte se révèle doucement. En fait, ses murs luisent d'une faible lueur maladive qui émane de mousses à peine phosphorescentes. </font>
+> <font style="color:yellow">Le sol, sous vos pieds, n'est pas constitué de pierres, c'est un tas d'os, une véritable colline d'ossements brisés en morceaux</font> (<font style="color:green">jet de sauvegarde de Charisme DD 15</font>, en cas d'échec ils se mettent à trembler, <font style="color:red">désavantage</font> sur leurs actions pour le moment).
+> <font style="color:yellow">Quant aux gouttes, elle proviennent de cocons visqueux, pendus sous la voûte, dix mètres au-dessus de vous. Des cocons dans lesquels on peut deviner des silhouettes humanoïdes par centaines. Ou plutôt leurs restes mutilés. Beaucoup sont desséchés, suspendus là depuis des années. D'autres sont plus récents, très récents même… Puisque c'est leur sang qui s'égoutte sur le pavé d'ossements.</font>
 
 Nouveau <font style="color:green">jet de sauvegarde de Charisme DD 15</font>, ceux qui échoue se mettent à trembler, même malus que précédemment sauf pour ceux qui avaient déjà échoué qui subissent une malédiction, <font style="color:red">malus de -6 en force</font>.
 
@@ -27,4 +27,4 @@ S'ils libèrent un enfant, celui-ci s'agite en dormant et le liquide se teinte d
 
 Un second couloir conduit vers une lumière plus dense, avec un souffle d'air chaud. La pièce semble cette fois beaucoup plus vaste, on perçoit au loin le grondement d'un fleuve.
 
-> Un appel résonne soudain dans l'esprit des PJ : <font style="color:yellow">"Les Flammes ! Les flammes me consument ! Venez jusqu'à moi, vite…"</font> C'est Sérénité qui vient d'appeler les PJ à l'aide.
+> <font style="color:yellow">Un appel résonne soudain dans l'esprit des PJ : </font><font style="color:orange">"Les Flammes ! Les flammes me consument ! Venez jusqu'à moi, vite…"</font> <font style="color:yellow">C'est Sérénité qui vient d'appeler les PJ à l'aide.</font>

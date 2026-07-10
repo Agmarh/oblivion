@@ -148,7 +148,7 @@
     "creatures": [
       {
         "name": "Kogarm",
-        "initiative": 22,
+        "initiative": 19,
         "static": false,
         "modifier": 4,
         "hp": 43,
@@ -182,29 +182,9 @@
         "enabled": true,
         "level": 4,
         "player": true,
-        "active": true,
-        "hidden": false,
-        "friendly": false
-      },
-      {
-        "name": "Ghûraghasta",
-        "initiative": 17,
-        "static": false,
-        "modifier": 0,
-        "hp": 59,
-        "currentMaxHP": 59,
-        "cr": 4,
-        "ac": 15,
-        "currentAC": 15,
-        "id": "ID_786879cb2a2a",
-        "currentHP": 33,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
         "active": false,
         "hidden": false,
-        "friendly": false,
-        "hit_dice": "7d10+21"
+        "friendly": false
       },
       {
         "name": "Rivalt",
@@ -224,7 +204,7 @@
         "enabled": true,
         "level": 4,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -260,7 +240,7 @@
         "ac": 15,
         "currentAC": 15,
         "id": "ID_7a08599be859",
-        "currentHP": 11,
+        "currentHP": 7,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -268,26 +248,6 @@
         "hidden": false,
         "friendly": false,
         "hit_dice": "5d12"
-      },
-      {
-        "name": "Ghûraghasta",
-        "initiative": 3,
-        "static": false,
-        "modifier": 0,
-        "hp": 59,
-        "currentMaxHP": 59,
-        "cr": 4,
-        "ac": 15,
-        "currentAC": 15,
-        "id": "ID_29b9380bb8ea",
-        "currentHP": 42,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "7d10+21"
       },
       {
         "name": "Appendice de l'Écorcheuse",
@@ -299,7 +259,7 @@
         "ac": 16,
         "currentAC": 16,
         "id": "ID_f84889f9a939",
-        "currentHP": 35,
+        "currentHP": 6,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -319,9 +279,11 @@
         "ac": "16 (armure naturelle)",
         "currentAC": "16",
         "id": "ID_782b085ab98b",
-        "currentHP": 8,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -331,7 +293,7 @@
     ],
     "state": true,
     "name": "Par le fer et le feu",
-    "round": 4,
+    "round": 6,
     "logFile": "",
     "rollHP": false
   },

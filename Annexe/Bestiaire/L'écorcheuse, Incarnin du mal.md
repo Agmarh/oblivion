@@ -46,3 +46,4 @@ actions:
 treasure:
   - name: Un fragment de Chiaroscuro
 ```
+22

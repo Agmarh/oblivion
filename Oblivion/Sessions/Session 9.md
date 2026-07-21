@@ -1,3 +1,5 @@
+Passage au niveau 5 effectué après avoir battu le roi sorcier.
+
 Ils ont récupéré le fragment et ont été transmigré à la citadelle de l'écorcheuse qui l'a récupéré.
 
 Ils savent qu'ils ont été trahis par Grisou mais il s'est sacrifié pour encaisser un coup critique sur Iseult. Il est inconscient et pris en charge par Réghulus à la fin.

@@ -1,4 +1,4 @@
-Ils sont arrivé à la dernière salle du Roi Sorcier
+Repos long effectué à l'entrée du mont des sépultures.
 
 Ils ont récupéré le bouclier animé, les blocs d'adamantine
 Rivalt : 9000po

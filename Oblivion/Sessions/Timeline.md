@@ -17,11 +17,15 @@ J+23 : Vision de grisou, ils préviennent Fan'Goriah qu'ils vont aller aux terre
 J+24 : Ils font des combats à l'arène avant de partir et partent de nuit
 J+27 : fin construction Gondolfière + rencontre avec le géant des tempête avec qui ils n'ont pas discuté
 J+31 : arrivée au village Skiam, Orog a présenté Ilam, le chasseur qui les guidera vers le territoire des mange-glace, ils ont échangé fourrures, écailles, os et graisse
+J+32 : arrivée au mont des sépultures et sont devant la porte du trône 
+J+33 : récupération du fragment de Chiaroscuro, retour en Oblivion
+J+34 : Sérénité libérée, fragment aux mains de l'écorcheuse, retour à la citadelle de cuivre de [[Réghûlus, incarnin de la loi]]
 
 Actuellement : 
-J+32 : ils se préparent à partir sur le territoire des mange-glace
+J+34 : ils soignent leurs blessures
 
 Notes pour plus tard : 
 - Rivalt veut choper du vin elfe qu'ils ont goûté à Carcéa pour en faire du commerce. Très rare, vient de Syl'Gaedrim, frontières fermées ?
 - Marcius va également se renseigner pour se fournir le vin ainsi que la bière naine de Kar'Azdhur malgré que cette dernière soit en contrat avec l'empire
 - Faire la gestion des voyages de la compagnie.
+- Préparer la lance du ravageur

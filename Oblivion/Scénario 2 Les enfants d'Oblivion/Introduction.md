@@ -13,15 +13,4 @@ Possible de consulter un tableau de quêtes, accessible à la capitainerie, deve
 Réghûlus et Sérénité refusent toute transmigration avant d’avoir retrouvé leur capacité.
 
 La matrice reste muette.
-
-# [[L'Antre du Nécromant]]
-
-Sur le tableau d'affichage, une petite annonce attire l'œil de nos aventuriers :
-
-"Cherche aventuriers pour nettoyer une grotte, forte récompense à la clé. Contacter Rodrik à l'auberge".
-
-# [[La Chasse Skïam]]
-
-# [[Lettre pour Razan]]
-
 # [[Le rêve se répand]]

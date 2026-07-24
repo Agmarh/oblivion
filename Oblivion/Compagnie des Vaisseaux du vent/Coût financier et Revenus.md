@@ -31,11 +31,11 @@
 | Comptoir d'Ikhâr          | 150                  | Entretien des bâtiments et logistique Khayolt. |
 | Gardes de la capitainerie | 80                   | 2 po/jour x4                                   |
 | Comptoirs                 | 553                  |                                                |
-| La Comptable              | 520                  | En vol (route Village Skiam, depuis J+32)      |
+| La Comptable              | 500                  | En stationnement (Ikhâr)                       |
 | Nef des PJs (Le Kernös)   | 520                  | En vol (terres boréales, depuis J+23)          |
-| Le Colporteur             | 520                  | En vol (route Carcéa)                          |
-| [Sans nom] (Brottin)      | 520                  | En vol (route Madi'Maluk, depuis J+32)         |
-| **TOTAL**                 | 2863                 | **Total des frais fixes (4 gondolfières)**     |
+| Le Colporteur             | 520                  | En vol                                         |
+| La Boréale                | 520                  | En vol                                         |
+| **TOTAL**                 | 2843                 | **Total des frais fixes (4 gondolfières)**     |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 
 ## Frais de comptoirs par décade

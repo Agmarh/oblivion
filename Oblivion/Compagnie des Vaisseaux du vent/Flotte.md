@@ -49,6 +49,11 @@ Apports des matériaux et construction à neuf.
 | **Main-d'œuvre & Expertise** (Bramm + 10 nains)          | 3900                         |
 | **TOTAL**                                                | 13900                        |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
+#### ⏩ Option "Accélération"
+Bramm double l'équipe (20 nains au lieu de 10).
+- **Nouveau délai :** 40 jours (4 décades).
+- **Coût de la main-d'œuvre :** ~2 900 po (Bramm) + 1 600 po (20 nains x 2 po x 40 jours) = **~4 500 po**.
+- **TOTAL ACCÉLÉRÉ : ~14 500 po.**
 
 # Amélioration d'une Gondolfière
 ## Kit d'exploration nordique

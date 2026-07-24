@@ -78,7 +78,7 @@ Discrétion exigée, bourse bien garnie aussi. **Stock aléatoire** (à relancer
 
 ## Le Chantier — [[Bramm]] *(maître-charpentier de gondolfières)*
 **On y trouve :**
-- **Construction d'une gondolfière** : reconstruction sur épaves **~4 600 po** (30 j) / **~4 700 po** en accéléré (20 j) ; construction neuve **~13 900 po** (120 j). → c'est lui qui bâtira la **5e gondolfière**.
+- **Construction d'une gondolfière** : reconstruction sur épaves **~4 600 po** (30 j) / **~4 700 po** accéléré (20 j) ; construction neuve **~13 900 po** (60 j) / **~14 500 po** accéléré (40 j). → c'est lui qui bâtira la **5e gondolfière**.
 - **Améliorations :** renforcement du ballon (soie d'araignée géante) **1 500 po** ; catapulte légère **1 000 po** ; **quartiers chauffés** (nord) **1 000 po** ; kit d'exploration nordique (tentes coupe-vent 300, brasero 250, combinaisons 50/pers, crampons 150, rations 120).
 - Réparations de coque et de ballons.
 

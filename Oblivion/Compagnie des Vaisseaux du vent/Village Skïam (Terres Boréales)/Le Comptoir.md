@@ -3,7 +3,7 @@
 - **Durée du voyage :** **~30 jours (3 décades) A/R** — 15 jours à l'aller, 15 au retour. *(Lors du 1er voyage seulement, La Boréale est passée par Carcéa pour installer le kit grand froid et embarquer le personnel du comptoir.)*
 - **Type de territoire :** Territoires Extérieurs (pas de taxe impériale, prime de risque au recrutement).
 - **Marchandises :** Import de **talismans, objets religieux, métal ouvragé, sel & vivres** / Export d'**exotiques boréaux** (fourrures d'ours blanc, écailles de mange-glace, os géants, graisse de monstre).
-- **Bénéfice Brut par voyage :** **~3 750 po** (500 tonneaux), grâce au **bonus ×2 sur les produits exotiques** — le plus gros bénéfice par voyage de la Compagnie, mais la route la plus longue → **ratio ~1 250 po/décade** *(3 750 ÷ 3 décades)*.
+- **Bénéfice Brut par voyage :** **~5 250 po** (500 tonneaux) — bonus **×2 sur les exotiques**, et le comptoir **agrège le commerce de tous les villages des Terres Boréales** (Skïam en est devenu le point névralgique). Route longue mais très lucrative → **ratio ~1 750 po/décade** *(5 250 ÷ 3 décades, à égalité avec Carcéa)*.
 
 **Détail du chargement (500 tonneaux) :**
 1. **Ikhâr / Carcéa → Village Skïam (le sacré et le vital) :**
@@ -20,7 +20,9 @@ Le comptoir n'est pas un entrepôt de ville mais un **poste avancé** accroché 
 
 C'est la saison des longues journées : il ne fait jamais vraiment nuit, des aurores boréales dansent en permanence, mais la température est **glaciale** — l'eau gèle, les armures grincent, les hippogriffes se fatiguent. Sans quartiers chauffés et kit grand froid, l'équipage s'épuise.
 
-C'est le poste le plus dur et le plus isolé de la Compagnie — mais aussi le plus rentable, tant qu'on sait composer avec le froid, les superstitions skïams et les créatures boréales.
+C'est le poste le plus dur et le plus isolé de la Compagnie — mais aussi l'un des plus rentables, tant qu'on sait composer avec le froid, les superstitions skïams et les créatures boréales.
+
+**Point névralgique des Terres Boréales :** en s'établissant à Skïam, la Compagnie a ouvert la première vraie voie commerciale du grand nord. Les autres villages et clans boréaux, jusque-là isolés, ont désormais intérêt à faire transiter leurs exotiques par Skïam — qui devient le hub où convergent fourrures, écailles, os et graisses de toute la région avant de partir vers le sud.
 
 # Le bâtiment du comptoir
 Pas de pierre claire ici, mais une **halle-forteresse contre le froid**, bâtie à la manière du village et renforcée par la Compagnie.

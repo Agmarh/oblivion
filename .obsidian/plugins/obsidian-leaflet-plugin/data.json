@@ -1,5 +1,65 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "pangee-scenario-1",
+      "lastAccessed": 1784884177513,
+      "markers": [],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 1460.1755031502205,
+              "lng": 2383.6973557342885,
+              "id": "ID_78c8bb4b1989",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1409.2638149047891,
+              "lng": 2397.1271833294804,
+              "id": "ID_e9a92858cbfb",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 1408.5567081236027,
+              "lng": 2315.1537689358943,
+              "id": "ID_8bba2beadb59",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 1435.4267658086915,
+              "lng": 2317.259138787573,
+              "id": "ID_d88b081b4988",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "Oblivion/Pangée/Carte.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",

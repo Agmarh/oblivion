@@ -36,9 +36,19 @@ Bourru, exigeant, un artiste de l'enclume. Ikhâr est une cité naine : Haldrik 
 
 **On y trouve :** forge sur-mesure, armes & armures naines de qualité, réparations.
 
-**Prix** *(main-d'œuvre ; les PJ fournissent l'adamantine du tombeau — assez pour 1 armure + 5-6 armes) :*
-- **Armure d'adamantine** *(les coups critiques contre le porteur deviennent des coups normaux)* : **~1 500 po**, ~20 jours.
-- **Arme d'adamantine** *(critique automatique contre les objets/structures)* : **~500 po/arme**, ~10 jours.
+**Prix** *(les PJ fournissent l'adamantine du tombeau — assez pour 1 armure + 5-6 armes. Coût = armure de base + prime de forge de l'adamantine ~2 500 po) :*
+
+**Armures d'adamantine** *(les coups critiques subis deviennent des coups normaux)* :
+
+| Armure | Base | Total | Temps |
+|---|---|---|---|
+| Écailles (interm., CA 14 + Dex≤2) | 50 | ~2 550 po | ~10 j |
+| Cuirasse (interm., CA 14 + Dex≤2) | 400 | ~2 900 po | ~8 j |
+| Demi-plate (interm., CA 15 + Dex≤2) | 750 | ~3 250 po | ~14 j |
+| Clibanion (lourde, CA 17) | 200 | ~2 700 po | ~16 j |
+| Harnois (lourde, CA 18) | 1 500 | ~4 000 po | ~20 j |
+
+- **Arme d'adamantine** *(critique automatique contre les objets/structures)* : **~500 po/arme**, ~8-10 jours.
 - Arme ou armure naine de qualité (non magique) : **prix courant ×2**.
 - **Réparations** *(module Usure G8)* : arme de guerre 10 %/cran, armure lourde 10 %/cran, bouclier 10 %/cran.
 

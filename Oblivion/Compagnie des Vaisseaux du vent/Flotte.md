@@ -16,7 +16,7 @@
 | La Comptable  | Gondolfière de [[Fan'Goriah]], basée à Ikhâr, elle sert de bureau mobile et de réserve.                                             |
 | Le Colporteur | Gondolfière de Thorkral, un capitaine nain originaire d'Ikhâr, affectée aux routes commerciales entre Madi'Maluk -> Ikhâr -> Carcéa |
 | Le Kernös     | Gondolfière des PJs, principalement équipée pour l'aventure et l'exploration.                                                       |
-| La Boréale    | Gondolfière de Brottin Grise-Hélice affectée aux routes commerciales entre Carcéa -> Village Skiam                                  |
+| La Boréale    | Gondolfière de Brottin Grise-Hélice affectée aux routes commerciales entre Ikhâr -> Carcéa -> Village Skiam                         |
 # Améliorations spécifiques
 - Renforcement du ballon avec de la soie d'araignée géante : Coût 1500 po (augmentation des PV des ballons de 20)
 - Armement supplémentaire : Catapulte légère (pour langer des flasques de feu grégeois) : coût 1000 po
@@ -42,12 +42,12 @@ Bramm double l'équipe (20 nains au lieu de 10).
 ## Création d'une Gondolfière
 Apports des matériaux et construction à neuf.
 
-| **Poste de dépense** (Délai 120 jours)                   | **Construction à Neuf (po)** |
+| **Poste de dépense** (Délai 60 jours)                    | **Construction à Neuf (po)** |
 | -------------------------------------------------------- | ---------------------------- |
-| **Matériaux de base** (Bois, vannes)                     | 8000                         |
-| **Matériaux neufs** (Toiles traitées, cordes, gréements) | 2000                         |
-| **Main-d'œuvre & Expertise** (Bramm + 10 nains)          | 3900                         |
-| **TOTAL**                                                | 13900                        |
+| **Matériaux de base** (Bois, vannes)                     | 4000                         |
+| **Matériaux neufs** (Toiles traitées, cordes, gréements) | 1000                         |
+| **Main-d'œuvre & Expertise** (Bramm + 10 nains)          | 2000                         |
+| **TOTAL**                                                | 7000                         |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 
 # Amélioration d'une Gondolfière

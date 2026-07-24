@@ -1,9 +1,9 @@
 # Village Skïam (Terres Boréales)
-- **Distance :** ~5 000 km (via Carcéa). *(estimation — la route la plus lointaine de la Compagnie)*
-- **Durée du voyage :** ~20 jours (2 décades) pour l'Aller-Retour. *(l'aller passe par Carcéa pour le kit grand froid et le transit ; le retour est direct.)*
+- **Distance :** **~5 000 km d'Ikhâr** — la route la plus lointaine de la Compagnie (trajet direct Ikhâr ↔ Village Skïam).
+- **Durée du voyage :** **~30 jours (3 décades) A/R** — 15 jours à l'aller, 15 au retour. *(Lors du 1er voyage seulement, La Boréale est passée par Carcéa pour installer le kit grand froid et embarquer le personnel du comptoir.)*
 - **Type de territoire :** Territoires Extérieurs (pas de taxe impériale, prime de risque au recrutement).
 - **Marchandises :** Import de **talismans, objets religieux, métal ouvragé, sel & vivres** / Export d'**exotiques boréaux** (fourrures d'ours blanc, écailles de mange-glace, os géants, graisse de monstre).
-- **Bénéfice Brut par voyage :** **~3 750 po** (500 tonneaux), grâce au **bonus ×2 sur les produits exotiques** — la route la plus lucrative de la Compagnie (ratio ~1 875 po/décade).
+- **Bénéfice Brut par voyage :** **~3 750 po** (500 tonneaux), grâce au **bonus ×2 sur les produits exotiques** — le plus gros bénéfice par voyage de la Compagnie, mais la route la plus longue → **ratio ~1 250 po/décade** *(3 750 ÷ 3 décades)*.
 
 **Détail du chargement (500 tonneaux) :**
 1. **Ikhâr / Carcéa → Village Skïam (le sacré et le vital) :**

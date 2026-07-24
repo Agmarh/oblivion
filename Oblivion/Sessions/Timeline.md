@@ -22,7 +22,7 @@ J+33 : récupération du fragment de Chiaroscuro, retour en Oblivion
 J+34 : Sérénité libérée, fragment aux mains de l'écorcheuse, retour à la citadelle de cuivre de [[Réghûlus, incarnin de la loi]]
 
 Actuellement : 
-J+34 : ils soignent leurs blessures dans la citadelle de cuivre de Réghûlus.
+J+34 : ils soignent leurs blessures dans la citadelle de cuivre de Réghûlus et partirons à J+35.
 
 Notes pour plus tard : 
 - Rivalt veut choper du vin elfe qu'ils ont goûté à Carcéa pour en faire du commerce. Très rare, vient de Syl'Gaedrim, frontières fermées ?

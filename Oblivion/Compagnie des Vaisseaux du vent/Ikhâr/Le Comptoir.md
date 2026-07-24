@@ -10,7 +10,7 @@
 # Situation
 Ikhâr se dresse sur un **haut plateau aride** ceinturé de falaises d'ocre et de soufre. Une peuplade de **nains taciturnes** y cultive des vignes souterraines, des mines de soufre et le champignon-Khayolt ; les femmes récoltent la rosée dans d'immenses filets tendus au vent — **les Voiles**, qui donnent son nom à la cité.
 
-La plupart de l'année, c'est un modeste village de bâtisses de terre séchée. Mais au-dessus flotte en permanence une demi-douzaine de **gondolfières** à l'ancre, et le cœur de la cité — le Point Zéro — ne cesse jamais tout à fait de bruire de l'activité de la Compagnie.
+La plupart de l'année, c'est un modeste village de bâtisses de terre séchée. Mais au-dessus flotte de temps en temps une **gondolfière** à l'ancre, et le cœur de la cité — le Point Zéro — ne cesse jamais tout à fait de bruire de l'activité de la Compagnie.
 
 Depuis que les PJ ont hérité des parts de l'**Arpenteur des Vents** (Löne Kernos), Ikhâr est **leur maison** : c'est d'ici que partent Le Colporteur, La Boréale et La Comptable, et c'est ici que reviennent les cales pleines.
 

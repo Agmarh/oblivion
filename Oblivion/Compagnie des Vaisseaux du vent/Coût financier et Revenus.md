@@ -48,7 +48,8 @@
 | ---------- | ------------------------------------------------------- | -------------------------------- | -------------------------------------------------------------------------------- |
 | Carcéa     | 110                                                     | 200                              | **L'Empire est gourmand :** Taxes impériales élevées, pots-de-vin aux douaniers. |
 | Madi'Maluk | 143                                                     | 100                              | **Compétition féroce :** Loyers de quai, "taxe de guilde" locale.                |
-| **TOTAL**  | 253                                                     | 300                              | TOTAL : 563                                                                      |
+| Village Skïam | 165                                                  | 60                               | **Territoires Extérieurs (Terres Boréales) :** prime de risque +50 %, peu de taxes. **Actif à partir de J+48** (ouverture du comptoir). |
+| **TOTAL**  | 418                                                     | 360                              | TOTAL : 778                                                                      |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 

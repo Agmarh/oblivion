@@ -1,5 +1,5 @@
 # Madi'Maluk (Kh'Eoda)
-- **Distance :** 1500 km.
+- **Distance depuis Ikhâr :** 1500 km.
 - **Durée du voyage :** 10 jours (1 décade) pour l'Aller-Retour.
 - **Marchandises :** Export de **Vin de Khayolt** / Import d'**Épices, Soie et Ivoire**.
 - **Bénéfice Brut par voyage :** **1 400 po** (soit 2,8 po/tonneau en moyenne).

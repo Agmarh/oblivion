@@ -11,11 +11,12 @@
 
 # Liste des vaisseaux 
 
-| Vaisseau      | Détails                                                                                          |
-| ------------- | ------------------------------------------------------------------------------------------------ |
-| La Comptable  | Gondolfière de [[Fan'Goriah]], basée à Ikhâr, elle sert de bureau mobile et de réserve.          |
-| Le Colporteur | Gondolfière de Thorkral, un capitaine nain originaire d'Ikhâr, affectée aux routes commerciales. |
-| Le Kernös     | Gondolfière des PJs, principalement équipée pour l'aventure et l'exploration.                    |
+| Vaisseau      | Détails                                                                                                                             |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| La Comptable  | Gondolfière de [[Fan'Goriah]], basée à Ikhâr, elle sert de bureau mobile et de réserve.                                             |
+| Le Colporteur | Gondolfière de Thorkral, un capitaine nain originaire d'Ikhâr, affectée aux routes commerciales entre Madi'Maluk -> Ikhâr -> Carcéa |
+| Le Kernös     | Gondolfière des PJs, principalement équipée pour l'aventure et l'exploration.                                                       |
+| La Boréale    | Gondolfière de Brottin Grise-Hélice affectée aux routes commerciales entre Ikhâr -> Carcéa -> Village Skiam                         |
 # Améliorations spécifiques
 - Renforcement du ballon avec de la soie d'araignée géante : Coût 1500 po (augmentation des PV des ballons de 20)
 - Armement supplémentaire : Catapulte légère (pour langer des flasques de feu grégeois) : coût 1000 po

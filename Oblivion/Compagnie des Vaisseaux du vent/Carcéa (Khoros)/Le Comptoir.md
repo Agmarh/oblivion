@@ -1,5 +1,5 @@
 # Carcéa (Khoros)
-- **Distance :** 2500 km.
+- **Distance depuis Ikhâr :** 2500 km.
 - **Durée du voyage :** 15 jours (1,5 décade) pour l'Aller-Retour.
 - **Marchandises :** Export de **Liqueur de Khayolt** / Import de **Métaux ouvragés, Armes et Outils impériaux**.
 - **Bénéfice Brut par voyage :** **2 625 po** (calculé sur 1,5 décade pour garder le ratio de 1 750 po / décade).

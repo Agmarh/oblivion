@@ -28,16 +28,68 @@ Attenant à la capitainerie, un ensemble d'**entrepôts de pierre et de terre cr
 - petit corps de garde et logement des compagnons du vent
 - le blason de la Compagnie — un vaisseau porté par trois vents — au fronton
 
-# Marchands & artisans permanents
-*(Sédentarisés après la Grande Transaction — ce sont les fournisseurs attitrés des PJ à domicile. Noms proposés, à ajuster.)*
+# Échoppes & artisans permanents
+*(Sédentarisés après la Grande Transaction — les fournisseurs attitrés des PJ à domicile. Noms et prix indicatifs, à ajuster.)*
 
-- **La Forge — Haldrik Braise-Noire** *(maître forgeron nain).* Le plus précieux pour les PJ : Ikhâr est une cité naine, et Haldrik est l'un des rares à savoir travailler l'**adamantine**. Il peut forger, à partir des **blocs rapportés du tombeau du Roi Sorcier**, une armure et cinq à six armes d'exception (armes/armures adamantines, immunité aux critiques pour l'armure). Travail long et coûteux, mais du sur-mesure. Répare aussi armes et armures courantes.
-- **Le Chai — Vonda Fille-de-Cuve** *(marchande de vins).* Vin et **liqueur de Khayolt** (5 pc le verre de vin, 1 po la liqueur — attention aux [[Effets du Khayolt]]). C'est par elle que passeront les pistes commerce (le **vin elfe de Syl'Gaedrim** que veut Rivalt, la **bière naine de Kar'Azdhur**).
-- **La Tannerie Taï-Taï — les frères Grommel** *(tanneurs).* Peaux, fourrures et crocs de tigres blancs ; travaillent aussi les écailles et os que la Boréale ramène du nord.
-- **L'Herboriste — Mère Sülke** *(alchimiste-herboriste).* Potions courantes (soins, résistance), remèdes, et un savoir sur le Khayolt que peu maîtrisent.
-- **Le Fourgue — "Trois-Doigts"** *(receleur de l'Acrobal sédentarisé).* Discrètement : parchemins de sorts, quelques objets magiques mineurs, curiosités et pièces remontées de partout. Cher, aléatoire, mais bien pratique.
-- **Le Chantier — [[Bramm]]** *(maître-charpentier de gondolfières).* Construit et répare les nefs (reconstruction ~4 600 po, ~4 700 po en accéléré). C'est lui qui bâtira la **5e gondolfière** si les PJ la décident.
-- **L'Enclos — éleveur d'hippogriffes.** Hippogriffes sauvages (1 000 po) et dressés (4 000 po) pour les attelages des nacelles.
+## La Forge de l'Ancre — Haldrik Braise-Noire *(maître forgeron nain)*
+Bourru, exigeant, un artiste de l'enclume. Ikhâr est une cité naine : Haldrik est l'un des rares à savoir travailler l'**adamantine**.
+
+**On y trouve :** forge sur-mesure en adamantine, armes & armures naines de qualité, réparations.
+
+**Prix** *(main-d'œuvre ; les PJ fournissent l'adamantine du tombeau — assez pour 1 armure + 5-6 armes) :*
+- **Armure d'adamantine** *(les coups critiques contre le porteur deviennent des coups normaux)* : **~1 500 po**, ~20 jours.
+- **Arme d'adamantine** *(critique automatique contre les objets/structures)* : **~500 po/arme**, ~10 jours.
+- Arme ou armure naine de qualité (non magique) : **prix courant ×2**.
+- **Réparations** *(module Usure G8)* : arme de guerre 10 %/cran, armure lourde 10 %/cran, bouclier 10 %/cran.
+
+## Le Chai des Voiles — Vonda Fille-de-Cuve *(marchande de vins)*
+Le négoce signature d'Ikhâr.
+
+**On y trouve :**
+- **Vin de Khayolt** (goût soufré) : **5 pc/verre**, ~2 po la bouteille, ~15 po le tonnelet.
+- **Liqueur de Khayolt** (prisée des amateurs) : **1 po/verre**, ~30 po la bouteille. *(Effets secondaires : [[Effets du Khayolt]].)*
+- Vente en gros pour remplir les cales au départ des routes.
+
+**Sur commande (pistes commerce) :**
+- **Vin elfe de Syl'Gaedrim** : très rare, frontières fermées → commande incertaine et coûteuse (plusieurs centaines de po la caisse). Accroche d'aventure pour Rivalt.
+- **Bière naine de Kar'Azdhur** : sous contrat impérial exclusif → dur à obtenir légalement.
+
+## La Tannerie Taï-Taï — les frères Grommel *(tanneurs)*
+**On y trouve :**
+- Peaux, fourrures et crocs de **tigres blancs Taï-Taï** ; travail des écailles et os que ramène La Boréale.
+- Armures de cuir / peau, vêtements de grand froid, sacs, harnachements.
+
+**Prix :** cuir travaillé ~prix courant ; **fourrure Taï-Taï** (luxe) ~50-200 po/pièce ; **kit de froid** ~50 po/personne ; armure de cuir clouté ~45 po.
+
+## L'Herbe et l'Alambic — Mère Sülke *(alchimiste-herboriste)*
+**On y trouve :**
+- **Potion de soins** (2d4+2) : **60 po**.
+- **Potion de résistance** (feu, froid…) : **250 po**.
+- **Potion d'escalade** : **90 po** · **Potion de force de géant des collines** : **400 po**.
+- Antidotes, remèdes, trousses de soins (5 po), herbes ; la meilleure conseillère sur le Khayolt.
+
+## L'Arrière-Tente — « Trois-Doigts » *(receleur de l'Acrobal)*
+Discrétion exigée, bourse bien garnie aussi. **Stock aléatoire** (à relancer à chaque passage — Persuasion/Investigation DD 13, DD 17 pour le rare).
+
+**On y trouve (selon arrivage) :**
+- **Parchemins de sorts** — niveau 1 : **120 po** (Bénédiction, Détection du poison et des maladies, Bouclier de la foi) ; niveau 2 : **500 po** (Invisibilité).
+- **Objets magiques peu courants** : **~1 000 po** (Bottes de marche et de saut, Carafe intarissable, Figurine de corbeau d'argent, Sac sans fond).
+- Curiosités, pièces « tombées du ciel », cartes douteuses.
+
+## Le Chantier — [[Bramm]] *(maître-charpentier de gondolfières)*
+**On y trouve :**
+- **Construction d'une gondolfière** : reconstruction sur épaves **~4 600 po** (30 j) / **~4 700 po** en accéléré (20 j) ; construction neuve **~13 900 po** (120 j). → c'est lui qui bâtira la **5e gondolfière**.
+- **Améliorations :** renforcement du ballon (soie d'araignée géante) **1 500 po** ; catapulte légère **1 000 po** ; **quartiers chauffés** (nord) **1 000 po** ; kit d'exploration nordique (tentes coupe-vent 300, brasero 250, combinaisons 50/pers, crampons 150, rations 120).
+- Réparations de coque et de ballons.
+
+## L'Enclos — l'éleveur d'hippogriffes
+**On y trouve :**
+- **Hippogriffe sauvage** : **1 000 po** · **Hippogriffe dressé** : **4 000 po**.
+- Nourriture, soins, dressage.
+
+## Autres services *(ambiance)*
+- **Scarfing** : scarifications à la mode (douloureux, inutile, les jeunes adorent) — quelques pa.
+- **Se loger** : chez l'habitant 3 po/nuit · auberge ambulante 5 pa/nuit · l'**Auberge de l'Hallucinose** (le summum) 15 po/nuit.
 
 # Atmosphère
 Odeur de soufre et de grillades, vent sec et glacé, cris des hippogriffes, grincement des treuils, barbes nouées et scarifications rituelles. Un lieu **rude, taciturne et fonctionnel** — mais c'est chez eux.

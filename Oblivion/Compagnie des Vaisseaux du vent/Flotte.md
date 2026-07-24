@@ -44,10 +44,10 @@ Apports des matériaux et construction à neuf.
 
 | **Poste de dépense** (Délai 60 jours)                    | **Construction à Neuf (po)** |
 | -------------------------------------------------------- | ---------------------------- |
-| **Matériaux de base** (Bois, vannes)                     | 4000                         |
-| **Matériaux neufs** (Toiles traitées, cordes, gréements) | 1000                         |
-| **Main-d'œuvre & Expertise** (Bramm + 10 nains)          | 2000                         |
-| **TOTAL**                                                | 7000                         |
+| **Matériaux de base** (Bois, vannes)                     | 8000                         |
+| **Matériaux neufs** (Toiles traitées, cordes, gréements) | 2000                         |
+| **Main-d'œuvre & Expertise** (Bramm + 10 nains)          | 3900                         |
+| **TOTAL**                                                | 13900                        |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 
 # Amélioration d'une Gondolfière

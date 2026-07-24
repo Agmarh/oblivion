@@ -34,7 +34,7 @@ Attenant à la capitainerie, un ensemble d'**entrepôts de pierre et de terre cr
 ## La Forge de l'Ancre — Haldrik Braise-Noire *(maître forgeron nain)*
 Bourru, exigeant, un artiste de l'enclume. Ikhâr est une cité naine : Haldrik est l'un des rares à savoir travailler l'**adamantine**.
 
-**On y trouve :** forge sur-mesure en adamantine, armes & armures naines de qualité, réparations.
+**On y trouve :** forge sur-mesure, armes & armures naines de qualité, réparations.
 
 **Prix** *(main-d'œuvre ; les PJ fournissent l'adamantine du tombeau — assez pour 1 armure + 5-6 armes) :*
 - **Armure d'adamantine** *(les coups critiques contre le porteur deviennent des coups normaux)* : **~1 500 po**, ~20 jours.

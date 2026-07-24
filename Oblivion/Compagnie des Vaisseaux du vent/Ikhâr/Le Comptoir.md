@@ -48,7 +48,7 @@ Bourru, exigeant, un artiste de l'enclume. Ikhâr est une cité naine : Haldrik 
 | Clibanion (lourde, CA 17) | 200 | ~2 700 po | ~16 j |
 | Harnois (lourde, CA 18) | 1 500 | ~4 000 po | ~20 j |
 
-- **Arme d'adamantine** *(critique automatique contre les objets/structures)* : **~500 po/arme**, ~8-10 jours.
+- **Arme d'adamantine** *(compte comme arme en adamantium → ignore la résistance des golems & constructions aux armes non magiques ; n'apporte rien à qui possède déjà une arme magique — utile surtout comme arme de secours, pour un allié/PNJ, ou inusable avec le module Usure G8)* : **~500 po/arme**, ~8-10 jours.
 - Arme ou armure naine de qualité (non magique) : **prix courant ×2**.
 - **Réparations** *(module Usure G8)* : arme de guerre 10 %/cran, armure lourde 10 %/cran, bouclier 10 %/cran.
 

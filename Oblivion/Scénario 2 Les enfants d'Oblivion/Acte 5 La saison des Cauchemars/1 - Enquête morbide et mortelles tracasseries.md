@@ -1,6 +1,4 @@
-Quelques instants plus tard, la milice locale se précipite sur les lieux (20 Gardes armés
-d’arbalètes). Si personne ne l’a déjà fait, ils abattent la meurtrière sans réfléchir (même si les PJ l’ont immobilisée). Le capitaine de la milice conduit alors une rapide enquête, jette un regard révulsé sur la tache noire qui défigure le visage de la femme, puis fait emmener son
-corps au temple le plus proche.
+Quelques instants plus tard, la milice locale se précipite sur les lieux (20 Gardes armés d’arbalètes). Si personne ne l’a déjà fait, ils abattent la meurtrière sans réfléchir (même si les PJ l’ont immobilisée). Le capitaine de la milice conduit alors une rapide enquête, jette un regard révulsé sur la tache noire qui défigure le visage de la femme, puis fait emmener son corps au temple le plus proche.
 
 # L’interrogatoire
 Le capitaine interroge ensuite les témoins ainsi que les PJ. Pour lui, l’abus d’alcool est responsable de tout. Le souci du capitaine n’est pas tant de comprendre ce qui s’est passé, que de désigner d’éventuels coupables. 

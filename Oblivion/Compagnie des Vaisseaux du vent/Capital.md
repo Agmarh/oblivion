@@ -21,9 +21,4 @@
 
 <!-- TBLFM: @3$4..@>$4=(@-1$4+$3) -->
 
-> **Hypothèses de calcul (J+32 → J+48)** — à ajuster si besoin :
-> - Frais fixes J+40 = 2 843 po (4 gondolfières ; La Comptable à quai à Ikhâr = 500 au lieu de 520).
-> - La Boréale : départ Ikhâr J+32 → Carcéa ~J+40 (kit grand froid −1 470 + 3 employés) → Village Skïam ~J+48 (installation comptoir −1 420, type Territoires Extérieurs).
-> - Le Colporteur : retour Madi'Maluk J+42 (+1 400), repart vers Carcéa (retour ~J+57).
-> - **Le comptoir Skïam ne génère aucun revenu avant J+48** (phase d'investissement) ; ses frais courants (~225 po/décade) et ses premières marges (×2 exotiques) débutent après. Prochaine échéance frais fixes : J+50.
-> - **Solde J+48 = 3 638 po.**
+> 

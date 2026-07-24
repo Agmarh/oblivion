@@ -68,6 +68,6 @@
 | **Bénéfice Net Carcéa**        | 1750                    |
 | **Bénéfice Net Madi'Maluk**    | 1400                    |
 | **Revenus : Comptoir d'Ikhâr** | 50                      |
-| **Frais fixes**                | -2863                   |
-| **SOLDE GLOBAL**               | 337                     |
+| **Frais fixes**                | -2843                   |
+| **SOLDE GLOBAL**               | 357                     |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->

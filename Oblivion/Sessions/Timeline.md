@@ -22,10 +22,10 @@ J+33 : récupération du fragment de Chiaroscuro, retour en Oblivion
 J+34 : Sérénité libérée, fragment aux mains de l'écorcheuse, retour à la citadelle de cuivre de [[Réghûlus, incarnin de la loi]]
 
 Actuellement : 
-J+34 : ils soignent leurs blessures
+J+34 : ils soignent leurs blessures dans la citadelle de cuivre de Réghûlus.
 
 Notes pour plus tard : 
 - Rivalt veut choper du vin elfe qu'ils ont goûté à Carcéa pour en faire du commerce. Très rare, vient de Syl'Gaedrim, frontières fermées ?
 - Marcius va également se renseigner pour se fournir le vin ainsi que la bière naine de Kar'Azdhur malgré que cette dernière soit en contrat avec l'empire
 - Faire la gestion des voyages de la compagnie.
-- Préparer la lance du ravageur
+- Leur donner la [[Lance d'Onirôm]]

@@ -1,7 +1,4 @@
----
-banner: "![[Oblivion 2 bannière.png]]"
----
-Les PJ sont à Ikhâr, cela fait seulement 2 jours qu'ils ont été renvoyés par Réghûlus.
+Cela fait seulement 2 jours qu'ils ont été renvoyés sur Pangée par Réghûlus.
 
 Ils peuvent vaquer à leurs occupation.
 

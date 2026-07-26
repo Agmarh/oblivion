@@ -24,6 +24,7 @@ J+35 : Retour au village Skiam
 
 Actuellement : 
 J+35 : ils soignent leurs blessures dans la citadelle de cuivre de Réghûlus et partirons à J+35.
+J+50 : Arrivé à Ikhâr
 
 Notes pour plus tard : 
 - Rivalt veut choper du vin elfe qu'ils ont goûté à Carcéa pour en faire du commerce. Très rare, vient de Syl'Gaedrim, frontières fermées ?

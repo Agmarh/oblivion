@@ -42,6 +42,8 @@ C’est peu probable, mais dans ce cas, faites intervenir Grisou : cherchant l�
 ## Epilogue
 Dès le retour des PJ à Mausoleum Igné, la Cathédrale de Cuivre, ils seront pris en charge, ainsi que Sérénité, par les mékhanôms de Réghûlus. Ils seront rapidement conduits dans ses laboratoires de revitalisation et guériront bientôt de leurs blessures (les points d’intelligence, Sagesse et Charisme perdus contre l’Écorcheuse sont regagnés).
 
+Réghûlus pourra modifier la lance pour créer la [[Lance d'Onirôm]].
+
 Bien sûr, Grisou insistera pour rester définitivement avec le groupe. Puis chacun se dira au revoir et les PJ fermeront les yeux sur le visage ému de Sérénité, tandis qu’ils seront renvoyés dans le Vrai Monde.
 
 Là-bas, munis de leur collier de protection empêchant toute Transmigration, ils seront un peu plus en sûreté... Pour quelque temps.

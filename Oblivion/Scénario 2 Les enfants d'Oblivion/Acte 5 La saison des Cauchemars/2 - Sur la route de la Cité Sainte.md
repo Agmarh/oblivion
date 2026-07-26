@@ -1,5 +1,5 @@
 # L’attaque de la caravane elfique
-Un matin, à deux jours de la ville, les PJ aperçoivent au loin une colonne de fumée. En s’approchant, ils observent une demi-douzaine de chariots disposés en cercle, dont deux sont la proie des flammes, assaillis par une horde de créatures hurlantes.
+Pendant le vol, les PJ aperçoivent au loin une colonne de fumée. En s’approchant, ils observent une demi-douzaine de chariots disposés en cercle, dont deux sont la proie des flammes, assaillis par une horde de créatures hurlantes.
 
 Un <font style="color:green">test de Perception DD 12</font> révèle que ce sont une trentaine de gobelins, chevauchant des hyènes de guerre. Il s’agit là d’une caravane elfique, quittant précipitamment Anthéone. Les elfes abrités à l’intérieur du cercle formé de six chariots, tirent des flèches contre leurs assaillants. Il y a en tout six familles (8 adultes hommes et femmes, 7 enfants). Les gobelins hurlants attaquent par vagues désorganisées, projetant des lances barbelées et des torches enflammées. Ils tentent de faire sauter leur monture par-dessus les chariots, et vont probablement finir par y arriver.
 

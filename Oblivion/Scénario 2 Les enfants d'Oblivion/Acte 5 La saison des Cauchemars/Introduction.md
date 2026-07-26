@@ -1,10 +1,13 @@
-La saison des souffles Ardents vient de commencer, des vents capricieux venus des contrées chaudes de l’Empire, souvent chargés de sable, s’abattent de temps à autre sans prévenir et viennent perturber le climat habituel. Nulle région de l’empire n’est alors à l’abri de ces vagues de chaleur impromptues. Ainsi, pendant quelques heures ou quelques jours, les Souffles Ardents ouvrent des plaies cuisantes sur les terres, roussissent les récoltes, accablent hommes et bêtes... et font le bonheur des aubergistes dont les établissements ne désemplissent pas.
+> <font style="color:yellow">La saison des souffles Ardents vient de commencer, des vents capricieux venus des contrées chaudes de l’Empire, souvent chargés de sable, s’abattent de temps à autre sans prévenir et viennent perturber le climat habituel. Nulle région de l’empire n’est alors à l’abri de ces vagues de chaleur. Ainsi, pendant quelques heures ou quelques jours, les Souffles Ardents ouvrent des plaies cuisantes sur les terres, roussissent les récoltes, accablent hommes et bêtes... et font le bonheur des aubergistes dont les établissements ne désemplissent pas.</font>
+> <font style="color:yellow">Vous vous retrouvez dans la taverne à Ikhâr, pour partagez une bonne bière fraîche et quelques plats locaux.</font>
 
 Les PJ se retrouvent dans la taverne à Ikhâr et peuvent discuter entre eux de leur étrange rêve.
 
 C’est alors qu’une étrange femme va entrer dans la taverne : <font style="color:green">jet de Perspicacité ou Perception DD 20</font> pour remarquer que “quelque chose ne va pas”.
 
-Près des PJ, des enfants jouent autour d’une fontaine intérieure : l’un d’eux capture un scarabée et, tout en lui arrachant les pattes, murmure une ritournelle qui leur fera sans doute dresser l’oreille <font style="color:green">jet de Perception DD 8</font> : « *Un, deux, trois. Une nouvelle proie. Quatre, cinq, six. Toute prête au supplice..*. »
+<font style="color:green">Jet de Perception DD 8</font> pour remarquer les enfants non loin : 
+><font style="color:yellow">Près de vous, des enfants jouent autour d’une fontaine intérieure : l’un d’eux capture un scarabée et, tout en lui arrachant les pattes, murmure une ritournelle qui leur fera sans doute dresser l’oreille :</font> 
+><font style="color:orange">"Un, deux, trois. Une nouvelle proie. Quatre, cinq, six. Toute prête au supplice..."</font>
 
 Si un PJ interroge l’enfant, ce dernier déclare ne pas savoir où il a entendu cette comptine, mais il se souvient s’être réveillé ce matin avec ces quelques vers en tête. Si les PJ n’ont pas encore enquêté sur le cauchemar, profitez-en pour placer ici un ou deux PNJ qui semblent suivre leur conversation avec intérêt. Les PJ pourront alors entamer une discussion avec eux et s’apercevoir ainsi qu’ils ne sont pas les seuls à avoir été les victimes du rêve de l’Écorcheuse...
 

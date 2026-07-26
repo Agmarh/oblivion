@@ -78,13 +78,16 @@ Le négoce signature d'Ikhâr.
 - **Potion d'escalade** : **90 po** · **Potion de force de géant des collines** : **400 po**.
 - Antidotes, remèdes, trousses de soins (5 po), herbes ; la meilleure conseillère sur le Khayolt.
 
-## L'Arrière-Tente — « Trois-Doigts » *(receleur de l'Acrobal)*
-Discrétion exigée, bourse bien garnie aussi. **Stock aléatoire** (à relancer à chaque passage — Persuasion/Investigation DD 13, DD 17 pour le rare).
+## L'Arrière-Tente — « Trois-Doigts » *(receleur émérite)*
+Discrétion exigée, bourse bien garnie aussi. Trois-Doigts ne garde presque rien en boutique, mais à travers ses réseaux il **déniche à peu près tout ce qui se monnaie** — jusqu'aux **parchemins de niveau 5** — moyennant **quelques jours** de recherche et une commission. Le rare et le puissant demandent plus de temps.
 
-**On y trouve (selon arrivage) :**
-- **Parchemins de sorts** — niveau 1 : **120 po** (Bénédiction, Détection du poison et des maladies, Bouclier de la foi) ; niveau 2 : **500 po** (Invisibilité).
-- **Objets magiques peu courants** : **~1 000 po** (Bottes de marche et de saut, Carafe intarissable, Figurine de corbeau d'argent, Sac sans fond).
+**Prix (référence : `Annexe/Marchants`) :**
+- **Parchemins de sort** : tour de magie / niv. 1 = **50 po** · niv. 2-3 = **250 po** · **niv. 4-5 = 2 500 po** (Rare, quelques jours de délai) · niv. 6+ = 25 000 po (très rare, difficile).
+- **Objets magiques peu courants** : **~500 po** (Sac sans fond, Cape elfique, Bottes elfiques, Chapeau de déguisement, Lunettes de vision nocturne, Carafe intarissable…).
+- **Objets magiques rares** : **2 500 – 5 000 po** (ex. Anneau de protection 5 000).
 - Curiosités, pièces « tombées du ciel », cartes douteuses.
+
+> **Kit de résurrection** *(filet de sécurité pour la table)* : parchemin de *Rappel à la vie* (niv. 5, **2 500 po**) + diamant de **500 po** = **~3 000 po**, livrable en quelques jours. À leur niveau, Iseult ne peut le lancer qu'avec un test DD 15 (10 + niv. du sort) → alternative plus fiable : le relais de l'**Église d'Aeva** via le réseau de guilde d'Iseult.
 
 ## Le Chantier — [[Bramm]] *(maître-charpentier de gondolfières)*
 **On y trouve :**

@@ -18,13 +18,14 @@ Bestiaire : [[Elfe de Farendhell]] (8), [[Gobelin]] (28), [[Chef de meute Gobeli
 # Les chevaliers-dragons
 Cette rencontre survient dès que les PJ approchent la cité par la voie des airs, dans un rayon d’une dizaine de kilomètres (s’ils arrivent par la route, une rencontre similaire se produit, mais la monture draconique est alors remplacée par un [[Lézard géant]]).
 
-Déchirant l’ultime couche de nuages immaculés surplombant Anthéone, les PJ découvrent la splendeur imposante de la cité sainte : l’impressionnante silhouette de l’Oratoire du Jugement, les terrasses luxueuses des Hautes Strates et l’étrange ceinture du Moratorium...
+> <font style="color:yellow">Déchirant l’ultime couche de nuages immaculés surplombant Anthéone, vous découvrez la splendeur imposante de la cité sainte : l’impressionnante silhouette de l’Oratoire du Jugement, les terrasses luxueuses des Hautes Strates et l’étrange ceinture du Moratorium...</font>
+> <font style="color:yellow">Soudain, alors que vous amorcez la descente, la puissante stature d’un dragon d’acier vous barre la route. </font>
 
-Soudain, alors qu’ils amorcent leur descente, la puissante stature d’un dragon d’acier leur barre la route. En effet, s’ils ont choisi d’arriver par la voie des airs (en gondolfière, sur un hippogriffe...), les PJ sont rapidement repérés par l’un des trois chevaliers-dragons patrouillant en permanence au-dessus de la ville.
+En effet, s’ils ont choisi d’arriver par la voie des airs (en gondolfière, sur un hippogriffe...), les PJ sont rapidement repérés par l’un des trois chevaliers-dragons patrouillant en permanence au-dessus de la ville.
 
 Ainsi, pendant quelques instants, les PJ ont tout loisir de détailler la formidable créature et son étrange cavalier : ce dernier appartient, en effet, à la caste des Enfermés, un corps d’élite parmi les chevaliers du culte de Justicaar ayant fait voeu d’enfermement permanent dans leur armure. Celle-ci, pratiquement hermétique, est bardée d’ingénieux mécanismes et autres astuces magiques assurant à son hôte une vie autonome...
 
-> « *Par le Fer et la Foi, je vous ordonne de vous arrêter ! Qu’Azel-Liark me maudisse si vous ne vous posez pas immédiatement...* », tonne l’Enfermé d’une voix caverneuse.
+> <font style="color:orange">"Par le Fer et la Foi, je vous ordonne de vous arrêter ! Qu’Azel-Liark me maudisse si vous ne vous posez pas immédiatement..."</font> tonne l’Enfermé d’une voix caverneuse.
 
 Puis le [[Chevalier-dragon]] commence à questionner les PJ sur les motifs de leur voyage et leur ordonne de se poser en marge de l’Infer, le survol de la cité étant formellement interdit. Si les PJ refusent d’obtempérer, il appelle en renfort les deux autres chevaliers, qui surgissent en quelques minutes, bien décidés à faire respecter la loi...
 

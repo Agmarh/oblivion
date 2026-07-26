@@ -1,11 +1,12 @@
-Quelques instants plus tard, la milice locale se précipite sur les lieux (20 Gardes armés d’arbalètes). Si personne ne l’a déjà fait, ils abattent la meurtrière sans réfléchir (même si les PJ l’ont immobilisée). Le capitaine de la milice conduit alors une rapide enquête, jette un regard révulsé sur la tache noire qui défigure le visage de la femme, puis fait emmener son corps au temple le plus proche.
-
-# L’interrogatoire
+# Si les PJs ne sont pas à Ikhâr :
+Quelques instants plus tard, la milice locale se précipite sur les lieux (20 Gardes armés d’arbalètes s'ils ne sont pas à Ikhâr). Si personne ne l’a déjà fait, ils abattent la meurtrière sans réfléchir (même si les PJ l’ont immobilisée). Le capitaine de la milice conduit alors une rapide enquête, jette un regard révulsé sur la tache noire qui défigure le visage de la femme, puis fait emmener son corps au temple le plus proche.
+## L’interrogatoire
 Le capitaine interroge ensuite les témoins ainsi que les PJ. Pour lui, l’abus d’alcool est responsable de tout. Le souci du capitaine n’est pas tant de comprendre ce qui s’est passé, que de désigner d’éventuels coupables. 
 
 En effet, la population locale, révoltée par ce massacre et galvanisée par le climat des Souffles Ardents, s’empresse d’exiger des « têtes », et c’est la sienne qui risque de tomber s’iI fait preuve d’indolence... 
 
-Si les PJ se sont illustrés (en limitant le nombre de morts), ils gagnent immédiatement son estime et sont libérés sans encombre. En revanche, s’ils ont agi de façon inconsidérée (sorts offensifs à grande aire d’effet, clients blessés, etc.), ils sont enfermés dans la prison de la ville : un fortin de pierre comportant un bureau, une salle d’interrogatoire, un dortoir, et une grande cellule commune. Seules de longues plaidoiries et une très lourde amende permettront alors leur relaxe : comptez 2 000 po par victime. 
+- Si les PJ se sont illustrés (en limitant le nombre de morts), ils gagnent immédiatement son estime et sont libérés sans encombre. 
+- En revanche, s’ils ont agi de façon inconsidérée (sorts offensifs à grande aire d’effet, clients blessés, etc.), ils sont enfermés dans la prison de la ville : un fortin de pierre comportant un bureau, une salle d’interrogatoire, un dortoir, et une grande cellule commune. Seules de longues plaidoiries et une très lourde amende permettront alors leur relaxe : comptez 2 000 po par victime. 
 
 Un <font style="color:green">jet de Persuasion DD 18</font> réussi par victime permet de divisé l’amende par deux à chaque fois. Mais ils doivent répéter le jet pour chacune des victimes qu’ils ont fait, indépendamment les unes des autres. 
 
@@ -14,6 +15,11 @@ Dans le cas où les PJ choisiraient d’échapper à la justice, laissez-les fai
 Notez que si l’action s’est déroulée dans Ikhâr, ces tracasseries seront nettement amoindries, mais la réputation des PJ en sortira largement ternie.
 
 Bestiaire : [[Randel Kane]], [[Milicien]], [[Chevalier-dragon]]
+
+# Si les PJs sont à Ikhâr : 
+Quelques instants plus tard, la milice locale se précipite sur les lieux. L'un des gardes abat sur le champ la guerrière si elle n'est pas déjà morte, révulsé à la vue des enfants morts. Le capitaine de la milice conduit alors une rapide enquête, jette un regard révulsé sur la tache noire qui défigure le visage de la femme, puis fait emmener son corps à la Capitainerie après en avoir fait la demande aux PJs.
+
+
 
 # L'examen du corps
 Le corps de la guerrière repose dans le temple le plus proche, où un prêtre lui administre les derniers sacrements. Pour les PJ, il serait judicieux de l’examiner plus avant. 

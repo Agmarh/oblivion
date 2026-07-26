@@ -18,3 +18,5 @@ Ils ont passé commande au forgeron également :
 Le forgeron commencera pas faire l'épée longue, puis le harnois en adamantium et finira par le harnois.
 
 J+51 : le rêve vient de commencer
+
+Ils sont allé à l'auberge et on tué la guerrière Soong en limitant les dégâts. Iseult et Kogarm sont resté auprès des victimes pour réconforter les gens tandis que Rivalt et N'djinn sont parti observer le corps.

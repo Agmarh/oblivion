@@ -18,7 +18,9 @@ Bestiaire : [[Randel Kane]], [[Milicien]], [[Chevalier-dragon]]
 Quelques instants plus tard, la milice locale se précipite sur les lieux. L'un des gardes abat sur le champ la guerrière si elle n'est pas déjà morte, révulsé à la vue des enfants morts. Le capitaine de la milice conduit alors une rapide enquête, jette un regard révulsé sur la tache noire qui défigure le visage de la femme, puis fait emmener son corps à la Capitainerie après en avoir fait la demande aux PJs.
 
 - Si les PJ se sont illustrés (en limitant le nombre de morts), ils gagnent immédiatement l'estime de la population. 
-- En revanche, s’ils ont agi de façon inconsidérée (sorts offensifs à grande aire d’effet, clients blessés, etc.), ils sont hués et les habitants se rassemblent devant la Capitainerie pour exiger réparation. 
+- En revanche, s’ils ont agi de façon inconsidérée (sorts offensifs à grande aire d’effet, clients blessés, etc.), ils sont hués et les habitants se rassemblent devant la Capitainerie pour exiger réparation. Seules de longues plaidoiries et une très lourde amende permettront alors leur relaxe : comptez 2 000 po par victime. 
+
+Un <font style="color:green">jet de Persuasion DD 18</font> réussi par victime permet de divisé l’amende par deux à chaque fois. Mais ils doivent répéter le jet pour chacune des victimes qu’ils ont fait, indépendamment les unes des autres. 
 
 # L'examen du corps
 Le corps de la guerrière repose dans le temple le plus proche, où un prêtre lui administre les derniers sacrements. Pour les PJ, il serait judicieux de l’examiner plus avant. 

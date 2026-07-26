@@ -6,4 +6,4 @@ A faire :
 - Rivalt alterne entre méditation et entraînement au combat
 - Kogarm veut être capable de brasser des bières donnant des bonus... 
 
-J+50 : Arrivé à Ikhâr
+J+50 : Arrivé à Ikhâr, ils vont donner l'argent nécessaire à la création d'une nouvelle Gondolfière

@@ -7,3 +7,4 @@ A faire :
 - Kogarm veut être capable de brasser des bières donnant des bonus... 
 
 J+50 : Arrivé à Ikhâr, ils vont donner l'argent nécessaire à la création d'une nouvelle Gondolfière
+Les PJs donnent 16500 or à la compagnie, 14500 vont servir à la création d'une nouvelle gonfolfière en 40 jours.

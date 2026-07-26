@@ -45,7 +45,7 @@ Selon l’habileté des PJ, un sort de [[communication avec les morts]] (ou sort
 - Enfin, quelle que soit ta question posée, le cadavre répétera plusieurs fois « Tuez les Enfants Maudits. Tuez-les tous... », comme si son cerveau était obnubilé par cette unique idée.
 
 # Autres éléments d’enquête
-Si les PJ interrogent longuement des témoins, des passants etc., ils finiront par trouver quelqu’un qui a vu la [[Guerrière soong]] arriver par la route des caravanes. Cette route passe par de nombreuses petites villes, mais la seule agglomération d’importance est la cité sainte d’Athéone, à dix jours de route (trois en gondolfière). 
+Si les PJ interrogent longuement des témoins, des passants etc., ils finiront par trouver quelqu’un qui a vu la [[Guerrière soong]] arriver par la route des caravanes. Cette route passe par de nombreuses petites villes, mais la seule agglomération d’importance est la cité sainte d’Athéone (Et Epistéa si ils sont à Ikhâr). 
 
 Au total, les PJ devraient commencer à s’intéresser à Anthéone. Ils peuvent même supposer qu’une mystérieuse maladie, capable de transformer les gens en véritables machines à tuer, semble y être apparue. L’utilisation précise de sort de [[divination]] confirmera cela, et permettra même d’évoquer une relation avec l’Ecorcheuse (sans plus, car tout ce qui concerne Oblivion est, comment d’habitude, occulté).
 

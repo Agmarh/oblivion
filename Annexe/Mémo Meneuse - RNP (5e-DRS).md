@@ -95,8 +95,12 @@ Référence de prix = dossier **`Annexe/Marchants`**. Grille par rareté (tiers 
 - **« Vision dans le noir ? »** → Pénombre vue comme en pleine lumière ; obscurité **magique** = **aveuglé**.
 
 # 10. Règles maison & modules optionnels
-- **Critiques élargis (ACTIF)** : sur un **test** ou un **JS**, 20 nat = réussite auto, 1 nat = échec auto — **PJ comme PNJ** (voir §5).
-- **PV à la montée — « Lucien Maine » (ACTIF, dès le niv. 6)** : PV/niveau = **1d6 + (dé de vie − 6) + mod. CON**. **Non rétroactif** ; niveau 1 inchangé (max du dé + CON) ; les d6 (mag/enso) n'y gagnent rien.
+
+## **Critiques élargis (ACTIF)**
+Sur un **test** ou un **JS**, 20 nat = réussite auto, 1 nat = échec auto — **PJ comme PNJ** (voir [[#5. Réussites, échecs, avantage]]).
+
+## **PV à la montée — « Lucien Maine » : 
+PV/niveau = **1d6 + (dé de vie − 6) + mod. CON**. **Non rétroactif** ; niveau 1 inchangé (max du dé + CON) ; les d6 (mag/enso) n'y gagnent rien.
 
 | Dé de vie | Classes                                        | Formule (hors CON) | Fourchette |
 | --------- | ---------------------------------------------- | ------------------ | ---------- |

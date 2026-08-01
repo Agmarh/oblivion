@@ -89,25 +89,21 @@ Référence de prix = dossier **`Annexe/Marchants`**. Grille par rareté (tiers 
 - **« Je bois / donne une potion à un allié à terre ? »** → **action**.
 - **« Je passe de l'arc à la mêlée sans perdre mon action ? »** → **lâcher l'arc** (gratuit) + **dégainer** l'arme (interaction gratuite) ; on ramasse l'arc plus tard.
 
-### Exploration
+## Exploration
 - **« Je tombe de haut ? »** → **1d6 / 3 m**, max 20d6.
 - **« Combat sous l'eau ? »** → Mêlée désavantage sauf arme **perforante** ou vitesse de nage ; distance désavantage (rate au-delà de la portée normale) ; **résistance au feu**.
 - **« Vision dans le noir ? »** → Pénombre vue comme en pleine lumière ; obscurité **magique** = **aveuglé**.
 
----
-
-## 10. Règles maison & modules optionnels
-*(Fusion de l'ancien `Aide-mémoire` et de `Règles optionnelles`.)*
-
+# 10. Règles maison & modules optionnels
 - **Critiques élargis (ACTIF)** : sur un **test** ou un **JS**, 20 nat = réussite auto, 1 nat = échec auto — **PJ comme PNJ** (voir §5).
 - **PV à la montée — « Lucien Maine » (ACTIF, dès le niv. 6)** : PV/niveau = **1d6 + (dé de vie − 6) + mod. CON**. **Non rétroactif** ; niveau 1 inchangé (max du dé + CON) ; les d6 (mag/enso) n'y gagnent rien.
 
-| Dé de vie | Classes | Formule (hors CON) | Fourchette |
-|---|---|---|---|
-| d6 | Ensorceleur, Magicien | 1d6 | 1-6 |
-| d8 | Barde, Clerc, Druide, Moine, Roublard, Sorcier | 1d6+2 | 3-8 |
-| d10 | Guerrier, Paladin, Rôdeur | 1d6+4 | 5-10 |
-| d12 | Barbare | 1d6+6 | 7-12 |
+| Dé de vie | Classes                                        | Formule (hors CON) | Fourchette |
+| --------- | ---------------------------------------------- | ------------------ | ---------- |
+| d6        | Ensorceleur, Magicien                          | 1d6                | 1-6        |
+| d8        | Barde, Clerc, Druide, Moine, Roublard, Sorcier | 1d6+2              | 3-8        |
+| d10       | Guerrier, Paladin, Rôdeur                      | 1d6+4              | 5-10       |
+| d12       | Barbare                                        | 1d6+6              | 7-12       |
 
 - **G8 — Usure des armes & armures (ACTIF)** — activable pour les armes, les armures, ou les deux ; plus on coche de déclencheurs, plus c'est punitif.
   - **Armes — déclencheurs** (au choix 1 à 3 ; chacun = 1 cran) : **1 nat** à l'attaque · **max** sur les dés de dégâts · **20 nat**. Chaque cran fait descendre le dé : **2d6 → 1d12 → 1d10 → 1d8 → 1d6 → 1d4 → 1d3 → 1**. Arme **polyvalente** : les deux dés descendent chacun à son rythme. Arrivée à **1** : soit elle y reste jusqu'à réparation (*doux*), soit **détruite** (*dur*, déconseillé pour le magique).

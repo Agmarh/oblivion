@@ -96,7 +96,7 @@ Référence de prix = dossier **`Annexe/Marchants`**. Grille par rareté (tiers 
 
 # 10. Règles maison & modules optionnels
 
-## **Critiques élargis (ACTIF)**
+## **Critiques élargis**
 Sur un **test** ou un **JS**, 20 nat = réussite auto, 1 nat = échec auto — **PJ comme PNJ** (voir [[#5. Réussites, échecs, avantage]]).
 
 ## **PV à la montée — « Lucien Maine » : 
@@ -109,8 +109,10 @@ PV/niveau = **1d6 + (dé de vie − 6) + mod. CON**. **Non rétroactif** ; nivea
 | d10       | Guerrier, Paladin, Rôdeur                      | 1d6+4              | 5-10       |
 | d12       | Barbare                                        | 1d6+6              | 7-12       |
 
-- **G8 — Usure des armes & armures (ACTIF)** — activable pour les armes, les armures, ou les deux ; plus on coche de déclencheurs, plus c'est punitif.
-  - **Armes — déclencheurs** (au choix 1 à 3 ; chacun = 1 cran) : **1 nat** à l'attaque · **max** sur les dés de dégâts · **20 nat**. Chaque cran fait descendre le dé : **2d6 → 1d12 → 1d10 → 1d8 → 1d6 → 1d4 → 1d3 → 1**. Arme **polyvalente** : les deux dés descendent chacun à son rythme. Arrivée à **1** : soit elle y reste jusqu'à réparation (*doux*), soit **détruite** (*dur*, déconseillé pour le magique).
+## **G8 — Usure des armes & armures**
+  - **Armes — déclencheurs** (au choix 1 à 3 ; chacun = 1 cran) : 
+	  - **1 nat** à l'attaque · **max** sur les dés de dégâts · 
+	  - **20 nat**. Chaque cran fait descendre le dé : **2d6 → 1d12 → 1d10 → 1d8 → 1d6 → 1d4 → 1d3 → 1**. Arme **polyvalente** : les deux dés descendent chacun à son rythme. Arrivée à **1** : soit elle y reste jusqu'à réparation (*doux*), soit **détruite** (*dur*, déconseillé pour le magique).
   - **Armures/boucliers — déclencheurs** (au choix 1 à 2) : **critique subi** · **max** sur les dés de dégâts de l'adversaire. Chaque cran = **−1 CA**. Armure à **CA 10** = inefficace (option : détruite) ; **bouclier à 0** = inutilisable. *Option « type de dégâts »* : cuir/peau prend **2 crans** sur du **tranchant**, métal **2 crans** sur du **contondant**.
   - **Magique** : le **bonus +X n'est jamais perdu** par défaut (option : peut descendre jusqu'à +0, jamais détruite, et seulement si l'arme qui a frappé était magique).
   - **Réparation chez un artisan** (par cran, % du prix de l'objet) : arme courante **5 %** · arme de guerre **10 %** · armure légère **2,5 %** · intermédiaire **5 %** · lourde **10 %** · bouclier **10 %**.

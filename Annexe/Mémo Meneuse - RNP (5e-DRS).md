@@ -121,8 +121,9 @@ PV/niveau = **1d6 + (dé de vie − 6) + mod. CON**. **Non rétroactif** ; nivea
 	  - Armure à **CA 10** = inefficace (option : détruite)
 	  - **bouclier à 0** = inutilisable. 
 	  - *Option « type de dégâts »* : cuir/peau prend **2 crans** sur du **tranchant**, métal **2 crans** sur du **contondant**.
-  - **Magique** : le **bonus +X n'est jamais perdu** par défaut (option : peut descendre jusqu'à +0, jamais détruite, et seulement si l'arme qui a frappé était magique).
+	
   - **Réparation chez un artisan** (par cran, % du prix de l'objet) : arme courante **5 %** · arme de guerre **10 %** · armure légère **2,5 %** · intermédiaire **5 %** · lourde **10 %** · bouclier **10 %**.
+  
   - **Kits de réparation** (réparation d'urgence ~1 h ; possible pendant un repos long, pas court ; **kit d'arme = 10 crans**, **kit d'armure = 5 crans**) :
 
 | Kit | Prix |
@@ -137,4 +138,4 @@ PV/niveau = **1d6 + (dé de vie − 6) + mod. CON**. **Non rétroactif** ; nivea
 | Boucliers | 6 po |
 
   Kits **dédiés** (une seule arme/armure) : kit d'arme dédié = prix de l'arme neuve **+20 %** ; kit d'armure dédié = **moitié du prix +20 %**.
-- **G2 — Blessures & marques : NON utilisé.** La mort / 0 PV ne laisse pas de séquelle mécanique.
+

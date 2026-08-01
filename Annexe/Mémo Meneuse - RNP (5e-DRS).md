@@ -121,10 +121,32 @@ Référence de prix = dossier **`Annexe/Marchants`**. Grille par rareté (tiers 
 *(Fusion de l'ancien `Aide-mémoire` et de `Règles optionnelles`.)*
 
 - **Critiques élargis (ACTIF)** : sur un **test** ou un **JS**, 20 nat = réussite auto, 1 nat = échec auto — **PJ comme PNJ** (voir §5).
-- **PV à la montée — « Lucien Maine » (ACTIF, dès le niv. 6)** : PV/niveau = **1d6 + (dé de vie − 6) + mod. CON** → d8 = 1d6+2 · d10 = 1d6+4 · d12 = 1d6+6. **Non rétroactif** ; les d6 (mag/enso) n'y gagnent rien.
-- **G8 — Usure des armes & armures (ACTIF)** :
-  - *Armes — déclencheurs au choix* (1 cran chacun) : 1 nat, **max** sur les dés de dégâts, 20 nat. Chaque cran fait descendre le dé : **2d6 → 1d12 → 1d10 → 1d8 → 1d6 → 1d4 → 1d3 → 1**.
-  - *Armures/boucliers — déclencheurs* : critique subi, **max** sur les dés de dégâts. Chaque cran = **−1 CA** (CA 10 = inefficace ; bouclier à 0 = inutilisable).
-  - *Magique* : le **bonus +X n'est jamais perdu** par défaut.
-  - *Réparation (par cran, % du prix)* : arme courante 5 % · arme de guerre 10 % · armure légère 2,5 % · interm. 5 % · lourde 10 % · bouclier 10 %. Kits d'urgence (~1 h) : kit d'arme = 10 crans, kit d'armure = 5 crans.
+- **PV à la montée — « Lucien Maine » (ACTIF, dès le niv. 6)** : PV/niveau = **1d6 + (dé de vie − 6) + mod. CON**. **Non rétroactif** ; niveau 1 inchangé (max du dé + CON) ; les d6 (mag/enso) n'y gagnent rien.
+
+| Dé de vie | Classes | Formule (hors CON) | Fourchette |
+|---|---|---|---|
+| d6 | Ensorceleur, Magicien | 1d6 | 1-6 |
+| d8 | Barde, Clerc, Druide, Moine, Roublard, Sorcier | 1d6+2 | 3-8 |
+| d10 | Guerrier, Paladin, Rôdeur | 1d6+4 | 5-10 |
+| d12 | Barbare | 1d6+6 | 7-12 |
+
+- **G8 — Usure des armes & armures (ACTIF)** — activable pour les armes, les armures, ou les deux ; plus on coche de déclencheurs, plus c'est punitif.
+  - **Armes — déclencheurs** (au choix 1 à 3 ; chacun = 1 cran) : **1 nat** à l'attaque · **max** sur les dés de dégâts · **20 nat**. Chaque cran fait descendre le dé : **2d6 → 1d12 → 1d10 → 1d8 → 1d6 → 1d4 → 1d3 → 1**. Arme **polyvalente** : les deux dés descendent chacun à son rythme. Arrivée à **1** : soit elle y reste jusqu'à réparation (*doux*), soit **détruite** (*dur*, déconseillé pour le magique).
+  - **Armures/boucliers — déclencheurs** (au choix 1 à 2) : **critique subi** · **max** sur les dés de dégâts de l'adversaire. Chaque cran = **−1 CA**. Armure à **CA 10** = inefficace (option : détruite) ; **bouclier à 0** = inutilisable. *Option « type de dégâts »* : cuir/peau prend **2 crans** sur du **tranchant**, métal **2 crans** sur du **contondant**.
+  - **Magique** : le **bonus +X n'est jamais perdu** par défaut (option : peut descendre jusqu'à +0, jamais détruite, et seulement si l'arme qui a frappé était magique).
+  - **Réparation chez un artisan** (par cran, % du prix de l'objet) : arme courante **5 %** · arme de guerre **10 %** · armure légère **2,5 %** · intermédiaire **5 %** · lourde **10 %** · bouclier **10 %**.
+  - **Kits de réparation** (réparation d'urgence ~1 h ; possible pendant un repos long, pas court ; **kit d'arme = 10 crans**, **kit d'armure = 5 crans**) :
+
+| Kit | Prix |
+|---|---|
+| Armes courantes (corps à corps) | 3 po |
+| Armes courantes (distance) | 18 po |
+| Armes de guerre (corps à corps) | 60 po |
+| Armes de guerre (distance) | 90 po |
+| Armures légères | 7 po |
+| Armures intermédiaires | 225 po |
+| Armures lourdes | 900 po |
+| Boucliers | 6 po |
+
+  Kits **dédiés** (une seule arme/armure) : kit d'arme dédié = prix de l'arme neuve **+20 %** ; kit d'armure dédié = **moitié du prix +20 %**.
 - **G2 — Blessures & marques : NON utilisé.** La mort / 0 PV ne laisse pas de séquelle mécanique.

@@ -55,30 +55,26 @@ Référence de prix = dossier **`Annexe/Marchants`**. Grille par rareté (tiers 
 - **Stabiliser** un allié : action + Médecine DD 10 (ou un soin ≥ 1 PV).
 - **Repos court** (1 h) : dés de vie (+ mod. CON). **Repos long** (8 h, ≤ 2 h d'activité) : PV max, moitié des dés de vie, emplacements. Interrompu par 1 h+ d'effort → à recommencer. **Max 1/24 h**.
 
----
+# 8. États / conditions (effets clés)
+| Condition                  | Effet                                                                                                                            |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **À terre**                | Tes attaques désavantage ; contre toi : avantage à ≤1,5 m, désavantage à distance. Se relever = ½ mouvement.                     |
+| **Empoigné**               | Vitesse 0. Se libère : action, Athlé/Acro vs Athlé de l'empoigneur.                                                              |
+| **Entravé**                | Vitesse 0 ; tes attaques désavantage ; contre toi avantage ; désavantage JS Dex.                                                 |
+| **Aveuglé**                | Rate ce qui exige la vue ; tes attaques désavantage, contre toi avantage.                                                        |
+| **Assourdi**               | N'entend rien ; rate ce qui exige l'ouïe.                                                                                        |
+| **Effrayé**                | Désavantage attaques/tests tant que la source est en vue ; ne peut pas s'en approcher volontairement.                            |
+| **Charmé**                 | Ne peut pas attaquer le charmeur ; ce dernier a l'avantage aux jets sociaux.                                                     |
+| **Empoisonné**             | Désavantage aux attaques **et** aux tests de caractéristique.                                                                    |
+| **Étourdi**                | Neutralisé, ne bouge plus ; rate JS For/Dex ; attaques contre lui avantage.                                                      |
+| **Paralysé / Inconscient** | Neutralisé, ne bouge/parle plus ; rate JS For/Dex ; attaques contre lui avantage ; **coup au contact = critique**.               |
+| **Neutralisé**             | Ni action, ni action bonus, ni réaction.                                                                                         |
+| **Invisible**              | Introuvable sans sens spécial ; tes attaques avantage, contre toi désavantage.                                                   |
+| **Épuisement**             | 1 : désav. tests · 2 : vitesse ÷2 · 3 : désav. attaques & JS · 4 : PV max ÷2 · 5 : vitesse 0 · 6 : mort. (−1 niveau/repos long.) |
 
-## 8. États / conditions (effets clés)
-| Condition | Effet |
-|-----------|-------|
-| **À terre** | Tes attaques désavantage ; contre toi : avantage à ≤1,5 m, désavantage à distance. Se relever = ½ mouvement. |
-| **Empoigné** | Vitesse 0. Se libère : action, Athlé/Acro vs Athlé de l'empoigneur. |
-| **Entravé** | Vitesse 0 ; tes attaques désavantage ; contre toi avantage ; désavantage JS Dex. |
-| **Aveuglé** | Rate ce qui exige la vue ; tes attaques désavantage, contre toi avantage. |
-| **Assourdi** | N'entend rien ; rate ce qui exige l'ouïe. |
-| **Effrayé** | Désavantage attaques/tests tant que la source est en vue ; ne peut pas s'en approcher volontairement. |
-| **Charmé** | Ne peut pas attaquer le charmeur ; ce dernier a l'avantage aux jets sociaux. |
-| **Empoisonné** | Désavantage aux attaques **et** aux tests de caractéristique. |
-| **Étourdi** | Neutralisé, ne bouge plus ; rate JS For/Dex ; attaques contre lui avantage. |
-| **Paralysé / Inconscient** | Neutralisé, ne bouge/parle plus ; rate JS For/Dex ; attaques contre lui avantage ; **coup au contact = critique**. |
-| **Neutralisé** | Ni action, ni action bonus, ni réaction. |
-| **Invisible** | Introuvable sans sens spécial ; tes attaques avantage, contre toi désavantage. |
-| **Épuisement** | 1 : désav. tests · 2 : vitesse ÷2 · 3 : désav. attaques & JS · 4 : PV max ÷2 · 5 : vitesse 0 · 6 : mort. (−1 niveau/repos long.) |
+# 9. Questions pièges (générique)
 
----
-
-## 9. Questions pièges (générique)
-
-### Combat & mouvement
+## Combat & mouvement
 - **« Je m'en vais, il m'attaque ? »** → Attaque d'opportunité **seulement** si tu quittes son allonge **avec ton mouvement**. Pas si tu Désengages, es poussé/tiré, ou téléportes. 1 réaction/round.
 - **« Flanquement = avantage ? »** → **Non** (optionnel, non retenu). Avantage = cible à terre/entravée, attaquant caché/invisible, ou action **Aider**.
 - **« Je tire à l'arc avec un ennemi collé ? »** → **Désavantage**.
@@ -86,7 +82,7 @@ Référence de prix = dossier **`Annexe/Marchants`**. Grille par rareté (tiers 
 - **« Il est à moitié caché ? »** → Abri partiel **+2 CA** (& JS Dex) ; trois-quarts **+5** ; total = pas ciblable.
 - **« J'achève l'ennemi inconscient ? »** → Attaque de mêlée à ≤1,5 m contre un inconscient = **critique auto**.
 
-### Sorts, objets, repos
+## Sorts, objets, repos
 - **« Deux sorts ce tour ? »** → Sort en action bonus → l'autre ne peut être qu'un tour de magie.
 - **« Les PV temporaires se cumulent ? »** → **Non**, on garde le plus haut ; partent avant les vrais PV.
 - **« J'identifie mon objet ? »** → S'harmoniser = repos court (max 3 objets).

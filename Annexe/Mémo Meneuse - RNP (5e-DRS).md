@@ -96,10 +96,10 @@ Référence de prix = dossier **`Annexe/Marchants`**. Grille par rareté (tiers 
 
 # 10. Règles maison & modules optionnels
 
-## **Critiques élargis**
+## Critiques élargis
 Sur un **test** ou un **JS**, 20 nat = réussite auto, 1 nat = échec auto — **PJ comme PNJ** (voir [[#5. Réussites, échecs, avantage]]).
 
-## **PV à la montée — « Lucien Maine » : 
+## PV à la montée — « Lucien Maine » : 
 PV/niveau = **1d6 + (dé de vie − 6) + mod. CON**. **Non rétroactif** ; niveau 1 inchangé (max du dé + CON) ; les d6 (mag/enso) n'y gagnent rien.
 
 | Dé de vie | Classes                                        | Formule (hors CON) | Fourchette |
@@ -109,7 +109,7 @@ PV/niveau = **1d6 + (dé de vie − 6) + mod. CON**. **Non rétroactif** ; nivea
 | d10       | Guerrier, Paladin, Rôdeur                      | 1d6+4              | 5-10       |
 | d12       | Barbare                                        | 1d6+6              | 7-12       |
 
-## **G8 — Usure des armes & armures**
+## G8 — Usure des armes & armures
   - **Armes — déclencheurs** (au choix 1 à 3 ; chacun = 1 cran) : 
 	  - **1 nat** à l'attaque · **max** sur les dés de dégâts · **20 nat**. 
 	  - Chaque cran fait descendre le dé : **2d6 → 1d12 → 1d10 → 1d8 → 1d6 → 1d4 → 1d3 → 1**. 
@@ -139,3 +139,25 @@ PV/niveau = **1d6 + (dé de vie − 6) + mod. CON**. **Non rétroactif** ; nivea
 
   Kits **dédiés** (une seule arme/armure) : kit d'arme dédié = prix de l'arme neuve **+20 %** ; kit d'armure dédié = **moitié du prix +20 %**.
 
+# G2 — Blessures _(blessure durable en survivant à 0 PV)_
+
+**Déclenchement** : chaque fois qu'un personnage tombe à **0 PV puis survit** (jets contre la mort réussis, stabilisé par un allié, PV rendus par magie/potion), il subit **une blessure**.
+
+**Localisation** : lancer **1d6** pour la caractéristique touchée — 1 Force, 2 Constitution, 3 Dextérité, 4 Intelligence, 5 Sagesse, 6 Charisme (relancer si elle est déjà blessée). _(Une capacité qui empêche de tomber à 0, type Acharnement du demi-orc, n'inflige pas de blessure.)_
+
+**Gravité** _(cumulative, selon le nombre total de blessures actives)_ :
+
+| Blessures | Gravité        | Effet                                                                                                                          |
+| --------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 1–3       | Légères        | Désavantage aux tests liés aux caractéristiques blessées. _(Con blessée : plus de mod. de Con aux dés de vie en repos court.)_ |
+| 4–5       | Intermédiaires | Vitesse réduite de moitié.                                                                                                     |
+| 6         | Graves         | Désavantage à **toutes** les attaques et sauvegardes.                                                                          |
+| 7+        | —              | **Mort.**                                                                                                                      |
+
+**Guérison** : 
+- Lancer le **dé de dégâts de l'arme/du sort** qui a mis le perso à 0 → c'est le **nombre de repos longs** pour soigner cette caractéristique (plusieurs dés → résultat + nombre de dés ; ex. 2d6 → 1d6+2). 
+- Chaque caractéristique guérit séparément, dans l'ordre où les blessures ont été reçues. Un maître en **Médecine** (10 min + trousse de soins, test de Sagesse (Médecine) DD 8 + valeur max du dé de dégâts) peut **diviser le temps par 2** — un seul essai par blessure, avant le premier repos long.
+
+## Marque après une résurrection
+
+Pour qu'une **mort laisse une trace même quand la magie ramène le personnage** : quand un PJ est **ressuscité**, il gagne **une Blessure** (règle ci-dessus) — la marque de ce qu'il a traversé de l'autre côté. La résurrection garde tout son sens (il a bien fallu le sort, la mort a bien eu lieu), mais le retour a un prix qui se lit sur le corps et l'âme.

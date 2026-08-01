@@ -61,7 +61,7 @@ Référence de prix = dossier **`Annexe/Marchants`**. Grille par rareté (tiers 
 ## 6. Connaître les résistances / immunités / vulnérabilités
 - Un **jet d'attaque ne fait que toucher ou rater** (vs CA). **Aucun jet de Perception** là-dessus. La résistance ne touche que **les dégâts**.
 - L'info se révèle **gratuitement par la narration des dégâts** : *résistance* = « la lame mord à peine » (moitié) ; *vulnérabilité* = « la plaie s'ouvre en grand » (double) ; *immunité* = « aucun effet ». Le joueur **déduit**.
-- **Savoir à l'avance** : test d'**INT + savoir** selon le type — **Nature** (bêtes, monstruosités, plantes) · **Arcanes** (aberrations, élémentaires, fées, magiques) · **Religion** (morts-vivants, célestes, fiélons) · **Histoire** (constructions). Hors combat = simple jet ; en combat = **action « étudier »** → révèle 1 trait.
+- **Savoir à l'avance** : test d'**INT + savoir** selon le type — **Nature** (bêtes, monstruosités, plantes) · **Arcanes** (aberrations, élémentaires, fées, magiques) · **Religion** (morts-vivants, célestes, fiélons) · **Histoire** (constructions). Hors combat = simple jet ; en combat = **action « étudier »** → révèle 1 trait (ou accorde l'avantage / un petit bonus sur la prochaine attaque).
 
 ---
 
@@ -107,8 +107,24 @@ Référence de prix = dossier **`Annexe/Marchants`**. Grille par rareté (tiers 
 - **« Deux sorts ce tour ? »** → Sort en action bonus → l'autre ne peut être qu'un tour de magie.
 - **« Les PV temporaires se cumulent ? »** → **Non**, on garde le plus haut ; partent avant les vrais PV.
 - **« J'identifie mon objet ? »** → S'harmoniser = repos court (max 3 objets).
+- **« Je bois / donne une potion à un allié à terre ? »** → **action**.
+- **« Je passe de l'arc à la mêlée sans perdre mon action ? »** → **lâcher l'arc** (gratuit) + **dégainer** l'arme (interaction gratuite) ; on ramasse l'arc plus tard.
 
 ### Exploration
 - **« Je tombe de haut ? »** → **1d6 / 3 m**, max 20d6.
 - **« Combat sous l'eau ? »** → Mêlée désavantage sauf arme **perforante** ou vitesse de nage ; distance désavantage (rate au-delà de la portée normale) ; **résistance au feu**.
 - **« Vision dans le noir ? »** → Pénombre vue comme en pleine lumière ; obscurité **magique** = **aveuglé**.
+
+---
+
+## 10. Règles maison & modules optionnels
+*(Fusion de l'ancien `Aide-mémoire` et de `Règles optionnelles`.)*
+
+- **Critiques élargis (ACTIF)** : sur un **test** ou un **JS**, 20 nat = réussite auto, 1 nat = échec auto — **PJ comme PNJ** (voir §5).
+- **PV à la montée — « Lucien Maine » (ACTIF, dès le niv. 6)** : PV/niveau = **1d6 + (dé de vie − 6) + mod. CON** → d8 = 1d6+2 · d10 = 1d6+4 · d12 = 1d6+6. **Non rétroactif** ; les d6 (mag/enso) n'y gagnent rien.
+- **G8 — Usure des armes & armures (ACTIF)** :
+  - *Armes — déclencheurs au choix* (1 cran chacun) : 1 nat, **max** sur les dés de dégâts, 20 nat. Chaque cran fait descendre le dé : **2d6 → 1d12 → 1d10 → 1d8 → 1d6 → 1d4 → 1d3 → 1**.
+  - *Armures/boucliers — déclencheurs* : critique subi, **max** sur les dés de dégâts. Chaque cran = **−1 CA** (CA 10 = inefficace ; bouclier à 0 = inutilisable).
+  - *Magique* : le **bonus +X n'est jamais perdu** par défaut.
+  - *Réparation (par cran, % du prix)* : arme courante 5 % · arme de guerre 10 % · armure légère 2,5 % · interm. 5 % · lourde 10 % · bouclier 10 %. Kits d'urgence (~1 h) : kit d'arme = 10 crans, kit d'armure = 5 crans.
+- **G2 — Blessures & marques : NON utilisé.** La mort / 0 PV ne laisse pas de séquelle mécanique.

@@ -1,0 +1,114 @@
+# Mémo Meneuse — Règles RNP (5e-DRS)
+> Volet **règles générales** (valable partout). Magie d'Oblivion, gangrève, kit des PJ, Anthéone → voir **`Mémo Meneuse - Oblivion`**.
+
+---
+
+## 1. Économie du tour
+À son tour : **1 déplacement** (fractionnable) **+ 1 action + 1 interaction d'objet gratuite**. Hors de son tour : **1 réaction** (se recharge au début de son tour).
+
+- **Action bonus** : n'existe **QUE** si une capacité/un sort la donne. Pas d'action bonus « générique ».
+- **Interaction d'objet** : 1 gratuite/tour ; la **2e** coûte l'action. **Lâcher** = gratuit. **Endosser/retirer un bouclier = 1 action**.
+- **Réaction** : 1 seule entre deux de tes tours.
+
+**Actions courantes :** Attaquer · Lancer un sort · Se désengager · Se précipiter (Dash) · Esquiver · Se cacher · Chercher · **Aider** (donne l'avantage à un allié) · Préparer · Utiliser un objet.
+
+---
+
+## 2. Lancer un sort
+- **Attaque de sort** = maîtrise + mod. d'incantation. **DD de sauvegarde** = 8 + maîtrise + mod. d'incantation.
+- **Concentration** : 1 seul sort de concentration à la fois. Dégât subi → **JS Constitution DD 10 ou moitié des dégâts (le + élevé)**. Lancer un 2e sort de concentration annule le 1er.
+- **Un sort par tour** : si tu lances un sort en **action bonus**, l'autre sort du tour ne peut être qu'un **tour de magie** (1 action).
+- Composante **verbale** impossible si bâillonné/silence ; **somatique** = une main libre.
+
+---
+
+## 3. Monnaies
+1 **po** = 10 **pa** = 100 **pc** · 1 **pp** = 10 po · 1 **pe** = 5 pa.
+
+| | pc | pa | pe | po | pp |
+|---|---|---|---|---|---|
+| **1 po** | 100 | 10 | 2 | 1 | 1/10 |
+| **1 pp** | 1000 | 100 | 20 | 10 | 1 |
+
+---
+
+## 4. Acheter / obtenir un objet magique
+Référence de prix = dossier **`Annexe/Marchants`**. Grille par rareté (tiers ×10) :
+
+| Rareté | Objet | Parchemin de sort |
+|--------|-------|-------------------|
+| Commun | ~50 po | tour de magie / niv. 1 = **50 po** |
+| Peu commun | ~250-500 po | niv. 2-3 = **250 po** |
+| Rare | ~2 500-5 000 po | niv. 4-5 = **2 500 po** |
+| Très rare | ~25 000-50 000 po | niv. 6-8 = **25 000 po** |
+
+- **Qui vend quoi** : parchemins → Arcaniste/Scribe ; potions → Alchimiste (parfois Temple) ; armes/armures → Forgeron/Armurier ; divers → Receleur, Bijoutier, Tailleur…
+- **Composantes coûteuses en plus** (ex. diamant 500 po pour *Rappel à la vie*).
+- **Parchemin d'un sort trop haut niveau** : test d'incantation **DD 10 + niveau du sort** ; échec = parchemin perdu.
+- **Harmonisation** : **3 objets max** par perso ; s'harmoniser prend un **repos court**.
+
+---
+
+## 5. Réussites, échecs, avantage
+- **Jet d'attaque** : **20 nat = critique** → double les **DÉS** de dégâts (pas les mods) ; **1 nat = échec auto**.
+- **Test & JS** *(règle maison, symétrique PJ ↔ PNJ)* : **20 nat = réussite auto**, **1 nat = échec auto**.
+- **Avantage / désavantage** : 2d20, garder le meilleur/pire. **Ne se cumulent jamais** (1 avantage + 1 désavantage = jet normal).
+- **DD** : très facile 5 · facile 10 · moyen 15 · difficile 20 · très difficile 25 · quasi impossible 30.
+- **Ne lance un dé que si l'échec est intéressant.**
+
+---
+
+## 6. Connaître les résistances / immunités / vulnérabilités
+- Un **jet d'attaque ne fait que toucher ou rater** (vs CA). **Aucun jet de Perception** là-dessus. La résistance ne touche que **les dégâts**.
+- L'info se révèle **gratuitement par la narration des dégâts** : *résistance* = « la lame mord à peine » (moitié) ; *vulnérabilité* = « la plaie s'ouvre en grand » (double) ; *immunité* = « aucun effet ». Le joueur **déduit**.
+- **Savoir à l'avance** : test d'**INT + savoir** selon le type — **Nature** (bêtes, monstruosités, plantes) · **Arcanes** (aberrations, élémentaires, fées, magiques) · **Religion** (morts-vivants, célestes, fiélons) · **Histoire** (constructions). Hors combat = simple jet ; en combat = **action « étudier »** → révèle 1 trait.
+
+---
+
+## 7. 0 PV, mort, repos
+- **0 PV** : inconscient. À son tour, **jet contre la mort** (d20 brut, DD 10) : 3 réussites = stabilisé, 3 échecs = mort. **1 nat = 2 échecs** · **20 nat = 1 PV**.
+- **Dégât subi à 0 PV** = 1 échec auto (2 si critique ou attaquant au contact).
+- **Mort instantanée** : si un coup te met à 0 et que le **surplus ≥ ton PV max**.
+- **Stabiliser** un allié : action + Médecine DD 10 (ou un soin ≥ 1 PV).
+- **Repos court** (1 h) : dés de vie (+ mod. CON). **Repos long** (8 h, ≤ 2 h d'activité) : PV max, moitié des dés de vie, emplacements. Interrompu par 1 h+ d'effort → à recommencer. **Max 1/24 h**.
+
+---
+
+## 8. États / conditions (effets clés)
+| Condition | Effet |
+|-----------|-------|
+| **À terre** | Tes attaques désavantage ; contre toi : avantage à ≤1,5 m, désavantage à distance. Se relever = ½ mouvement. |
+| **Empoigné** | Vitesse 0. Se libère : action, Athlé/Acro vs Athlé de l'empoigneur. |
+| **Entravé** | Vitesse 0 ; tes attaques désavantage ; contre toi avantage ; désavantage JS Dex. |
+| **Aveuglé** | Rate ce qui exige la vue ; tes attaques désavantage, contre toi avantage. |
+| **Assourdi** | N'entend rien ; rate ce qui exige l'ouïe. |
+| **Effrayé** | Désavantage attaques/tests tant que la source est en vue ; ne peut pas s'en approcher volontairement. |
+| **Charmé** | Ne peut pas attaquer le charmeur ; ce dernier a l'avantage aux jets sociaux. |
+| **Empoisonné** | Désavantage aux attaques **et** aux tests de caractéristique. |
+| **Étourdi** | Neutralisé, ne bouge plus ; rate JS For/Dex ; attaques contre lui avantage. |
+| **Paralysé / Inconscient** | Neutralisé, ne bouge/parle plus ; rate JS For/Dex ; attaques contre lui avantage ; **coup au contact = critique**. |
+| **Neutralisé** | Ni action, ni action bonus, ni réaction. |
+| **Invisible** | Introuvable sans sens spécial ; tes attaques avantage, contre toi désavantage. |
+| **Épuisement** | 1 : désav. tests · 2 : vitesse ÷2 · 3 : désav. attaques & JS · 4 : PV max ÷2 · 5 : vitesse 0 · 6 : mort. (−1 niveau/repos long.) |
+
+---
+
+## 9. Questions pièges (générique)
+
+### Combat & mouvement
+- **« Je m'en vais, il m'attaque ? »** → Attaque d'opportunité **seulement** si tu quittes son allonge **avec ton mouvement**. Pas si tu Désengages, es poussé/tiré, ou téléportes. 1 réaction/round.
+- **« Flanquement = avantage ? »** → **Non** (optionnel, non retenu). Avantage = cible à terre/entravée, attaquant caché/invisible, ou action **Aider**.
+- **« Je tire à l'arc avec un ennemi collé ? »** → **Désavantage**.
+- **« J'attaque une cible non vue / dans le noir ? »** → **Désavantage**. Attaquer caché/invisible = **avantage** (tu te révèles).
+- **« Il est à moitié caché ? »** → Abri partiel **+2 CA** (& JS Dex) ; trois-quarts **+5** ; total = pas ciblable.
+- **« J'achève l'ennemi inconscient ? »** → Attaque de mêlée à ≤1,5 m contre un inconscient = **critique auto**.
+
+### Sorts, objets, repos
+- **« Deux sorts ce tour ? »** → Sort en action bonus → l'autre ne peut être qu'un tour de magie.
+- **« Les PV temporaires se cumulent ? »** → **Non**, on garde le plus haut ; partent avant les vrais PV.
+- **« J'identifie mon objet ? »** → S'harmoniser = repos court (max 3 objets).
+
+### Exploration
+- **« Je tombe de haut ? »** → **1d6 / 3 m**, max 20d6.
+- **« Combat sous l'eau ? »** → Mêlée désavantage sauf arme **perforante** ou vitesse de nage ; distance désavantage (rate au-delà de la portée normale) ; **résistance au feu**.
+- **« Vision dans le noir ? »** → Pénombre vue comme en pleine lumière ; obscurité **magique** = **aveuglé**.

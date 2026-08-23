@@ -36,20 +36,22 @@ Bourru, exigeant, un artiste de l'enclume. Ikhâr est une cité naine : Haldrik 
 
 **On y trouve :** forge sur-mesure, armes & armures naines de qualité, réparations.
 
-**Prix** *(les PJ fournissent l'adamantine du tombeau — assez pour 1 armure + 5-6 armes. Coût = armure de base + prime de forge de l'adamantine ~2 500 po) :*
+**Temps de forge** *(table `Annexe/Marchants/Craft` ; **adamantium = ×2** sur le temps de base ; **craft à plusieurs = temps ÷ nb d'artisans** — Haldrik + forgerons d'Ikhâr).* Les PJ fournissent l'adamantine ; prix ≈ armure de base + prime de forge ~2 500 po.
 
 **Armures d'adamantine** *(les coups critiques subis deviennent des coups normaux)* :
 
-| Armure | Base | Total | Temps |
-|---|---|---|---|
-| Écailles (interm., CA 14 + Dex≤2) | 50 | ~2 550 po | ~10 j |
-| Cuirasse (interm., CA 14 + Dex≤2) | 400 | ~2 900 po | ~8 j |
-| Demi-plate (interm., CA 15 + Dex≤2) | 750 | ~3 250 po | ~14 j |
-| Clibanion (lourde, CA 17) | 200 | ~2 700 po | ~16 j |
-| Harnois (lourde, CA 18) | 1 500 | ~4 000 po | ~20 j |
+| Armure | CA | Prix | Temps solo (×2 adam.) | Équipe de 5 |
+|---|---|---|---|---|
+| Écailles (interm.) | 14 (+Dex≤2) | ~2 550 po | ~10 j | **~2 j** |
+| Clibanion (lourde) | 17 | ~2 700 po | ~40 j | ~8 j |
+| Cuirasse/breastplate (interm.) | 14 (+Dex≤2) | ~2 900 po | ~80 j | ~16 j |
+| Demi-plate (interm.) | 15 (+Dex≤2) | ~3 250 po | ~150 j | ~30 j |
+| **Harnois (lourde)** | **18** | ~4 000 po | **~300 j** | **~60 j** |
 
-- **Arme d'adamantine** *(compte comme arme en adamantium → ignore la résistance des golems & constructions aux armes non magiques ; n'apporte rien à qui possède déjà une arme magique — utile surtout comme arme de secours, pour un allié/PNJ, ou inusable avec le module Usure G8)* : **~500 po/arme**, ~4 jours.
-- Arme ou armure naine de qualité (non magique) : **prix courant ×2**.
+> ⚠️ Le **harnois** est le Graal (CA 18) mais énorme à forger. Pour du crit-proof **rapide**, l'**écailles** ou le **Clibanion** d'adamantium sortent en quelques jours (surtout en équipe). Sinon, faire **livrer** le harnois par une gondolfière plus tard.
+
+- **Arme d'adamantine** *(compte comme arme en adamantium → ignore la résistance des golems/constructions ; inutile à qui a déjà une arme magique — bon comme secours, pour un allié, ou « inusable » avec l'Usure G8)* : ~500 po ; épée longue = base 2 j **×2 = ~4 j**.
+- Arme/armure naine de qualité (non magique) : **prix courant ×2**.
 - **Réparations** *(module Usure G8)* : arme de guerre 10 %/cran, armure lourde 10 %/cran, bouclier 10 %/cran.
 
 ## Le Chai des Voiles — Vonda Fille-de-Cuve *(marchande de vins)*

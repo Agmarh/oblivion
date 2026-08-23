@@ -71,12 +71,35 @@ Le négoce signature d'Ikhâr.
 
 **Prix :** cuir travaillé ~prix courant ; **fourrure Taï-Taï** (luxe) ~50-200 po/pièce ; **kit de froid** ~50 po/personne ; armure de cuir clouté ~45 po.
 
-## L'Herbe et l'Alambic — Mère Sülke *(alchimiste-herboriste)*
-**On y trouve :**
-- **Potion de soins** (2d4+2) : **60 po**.
-- **Potion de résistance** (feu, froid…) : **250 po**.
-- **Potion d'escalade** : **90 po** · **Potion de force de géant des collines** : **400 po**.
-- Antidotes, remèdes, trousses de soins (5 po), herbes ; la meilleure conseillère sur le Khayolt.
+## L'Herbe et l'Alambic — Mère Sülke *(alchimiste-herboriste réputée)*
+**Achat au comptoir (prêt à emporter) :**
+- **Potion de soins** (2d4+2) : **60 po** · antidotes, remèdes, trousses de soins (5 po), herbes.
+- **Potion de résistance** : **250 po** · **Potion d'escalade** : **90 po** · **Potion de force de géant des collines** : **400 po**.
+- La meilleure conseillère d'Ikhâr sur le **Khayolt**.
+
+### Fabrication à la demande (règle d'alchimie)
+**Principe (cohérent pour tous) :** un consommable qui donne un **bonus mécanique = objet magique** → il faut une **recette**, un **lanceur de sorts** (ou Mère Sülke), du **temps + po**, et parfois un **réactif rare**. Le *mundane* (soins basiques, feu grégeois…) ne demande que les outils.
+
+- **Rivalt (Sorcelame = lanceur)** : **peut fabriquer lui-même** des potions magiques (recette + outils d'alchimiste ou aide de Mère Sülke + temps + po). **Limité aux potions D&D existantes** (héroïsme, résistance, soins…), pas de décoctions « Witcher » inventées.
+- **Kogarm (pas de magie)** : brasse le *mundane* librement ; pour une **bière-buff**, elle fournit la base brassée + le **Khayolt**, et **Mère Sülke ou Rivalt** y met la magie (co-craft). Ex. *« Bière du Courage »* = Potion d'héroïsme reflavorée.
+- **Mère Sülke** : ne sait pas tout faire — elle maîtrise le commun/peu commun ; le rare lui demande la **recette + du temps** (+ parfois un lanceur).
+
+**Ce que Mère Sülke sait déjà faire** (matériel = coût, pas le prix de vente) :
+| Potion / objet | Effet | Temps | Coût matériaux | Ingrédient |
+|---|---|---|---|---|
+| Potion de soins | 2d4+2 PV | 5 j | 25 po | herbes communes |
+| Antitoxine | avantage vs poison 1h | 5 j | 25 po | herbes |
+| Feu grégeois / Acide | 1d4 feu / 2d6 acide (jet) | 5 j / 3 j | 25 / 12,5 po | — |
+| Potion de soins supérieurs | 4d4+4 PV | ~2 sem | ~150 po | réactif de qualité |
+
+**Recettes qu'elle peut trouver / développer** (via jets d'Arcanes/Médecine/Investigation + jours de recherche, ou achat au receleur) :
+| Potion | Effet | Temps | Coût | Ingrédient clé |
+|---|---|---|---|---|
+| **Potion d'héroïsme** *(le « buff » qui existe en D&D)* | bénédiction + 10 PV temp, 1h | ~3-4 sem | ~1 200 po | **Khayolt raffiné** (rare) |
+| Potion de résistance | résistance 1 type, 1h | ~10 j | ~150 po | réactif du type (écaille de mange-glace = froid…) |
+| Baume revigorant | 2d8+2 + soigne poison/maladie | ~2 sem | ~150 po | aloès, herbes rares |
+
+*(La « Bière du Courage » de Kogarm = Potion d'héroïsme reflavorée : Kogarm brasse + Khayolt, Mère Sülke/Rivalt infuse. Même temps/coût.)*
 
 ## L'Arrière-Tente — « Trois-Doigts » *(receleur émérite)*
 Discrétion exigée, bourse bien garnie aussi. Trois-Doigts ne garde presque rien en boutique, mais à travers ses réseaux il **déniche à peu près tout ce qui se monnaie** — jusqu'aux **parchemins de niveau 5** — moyennant **quelques jours** de recherche et une commission. Le rare et le puissant demandent plus de temps.

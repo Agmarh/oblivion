@@ -107,3 +107,23 @@ Argent
 Electrum
 Or 600
 Platine
+
+---
+
+# ORIGINES DU PEUPLE-SERPENT (encart MJ — à révéler)
+> Suite à son jet de Religion réussi (18). À distiller à la prochaine session.
+
+## Ce qu'elle peut apprendre (à révéler)
+- Les hommes-serpents (Sseslish / Kubea ghinduk) **ne connaissent pas leurs origines** — et ce n'est pas un hasard : c'est une **malédiction**.
+- Les légendes disent qu'ils furent jadis le **peuple élu d'un dieu ancien, lié à Oblivion et aux songes**. Ils en étaient les oracles et les gardiens.
+- Quand ce dieu fut **banni** (les mythes évoquent l'intervention de **Justicaar**), son peuple fut **frappé de malédiction** : mémoire effacée, histoire dispersée, condamné à errer sans savoir d'où il vient. La perte de leurs origines **est** la malédiction.
+- **L'ironie qu'Iseult peut ressentir sans forcément la nommer** : en se vouant à **Aeva** — divinité du **panthéon de Justicaar** — elle sert, sans le savoir, la sphère même qui a maudit son peuple.
+
+## À garder secret (révélations futures)
+- **L'identité exacte du dieu banni** et son **lien avec l'Écorcheuse / Chiaroscuro / le Pays des Chimères** (gros twist de fin de campagne — les hommes-serpents « rêvaient vrai »).
+- **Si la malédiction peut être levée** (et ce que ça coûterait).
+- **Pourquoi Iseult, elle, a quitté le dieu-serpent pour Aeva** : ça, aucun jet ne le dit — c'est **son** histoire, à jouer avec sa joueuse.
+
+## Notes MJ
+- Aeva fait partie du panthéon de Justicaar → tension identitaire riche pour Iseult (fille d'un peuple maudit par ce panthéon, devenue sa prêtresse).
+- Doser : donner **le mythe + la malédiction + le frisson d'Oblivion**, garder le reste pour plus tard.

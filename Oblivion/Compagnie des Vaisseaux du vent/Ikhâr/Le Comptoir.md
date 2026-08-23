@@ -42,11 +42,11 @@ Bourru, exigeant, un artiste de l'enclume. Ikhâr est une cité naine : Haldrik 
 
 | Armure                         | CA          | Prix      | Temps solo | Équipe de 5 |
 | ------------------------------ | ----------- | --------- | ---------- | ----------- |
-| Écailles (interm.)             | 14 (+Dex≤2) | ~2 550 po | ~5 j       | **~2 j**    |
-| Clibanion (lourde)             | 17          | ~2 700 po | ~20 j      | ~8 j        |
-| Cuirasse/breastplate (interm.) | 14 (+Dex≤2) | ~2 900 po | ~40 j      | ~16 j       |
-| Demi-plate (interm.)           | 15 (+Dex≤2) | ~3 250 po | ~75 j      | ~30 j       |
-| **Harnois (lourde)**           | **18**      | ~4 000 po | **~150 j** | **~60 j**   |
+| Écailles (interm.)             | 14 (+Dex≤2) | ~2 550 po | ~5 j       |             |
+| Clibanion (lourde)             | 17          | ~2 700 po | ~20 j      |             |
+| Cuirasse/breastplate (interm.) | 14 (+Dex≤2) | ~2 900 po | ~40 j      |             |
+| Demi-plate (interm.)           | 15 (+Dex≤2) | ~3 250 po | ~75 j      |             |
+| **Harnois (lourde)**           | **18**      | ~4 000 po | **~150 j** |             |
 
 > ⚠️ Multiplier le temps par 2 pour les armures et armes d'adamantium.
 

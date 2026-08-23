@@ -110,20 +110,22 @@ Platine
 
 ---
 
-# ORIGINES DU PEUPLE-SERPENT (encart MJ — à révéler)
-> Suite à son jet de Religion réussi (18). À distiller à la prochaine session.
+# ORIGINES DU PEUPLE-SERPENT (encart MJ — à révéler avec prudence)
+> **Rappel du lore canon (Oblivion 1)** : le **Dieu-Céphale** (Navigateur-des-Rêves, créateur d'Oblivion) fut jugé par une cabale divine menée par **Saint-Justicaar**, puis sa personnalité **tranchée en 4 Incarnins** (Bien = **Sérénité**, Mal = **l'Écorcheuse**, Loi = **Réghûlus**, Chaos = le 4e), privés de mémoire et emprisonnés dans Oblivion ; Chiaroscuro brisée en 4 fragments jetés sur le plan primaire. Les **Oubliés** = descendants d'Obliviens restés en arrière, assimilés, **ignorant leurs origines** (les PJ en sont).
 
-## Ce qu'elle peut apprendre (à révéler)
-- Les hommes-serpents (Sseslish / Kubea ghinduk) **ne connaissent pas leurs origines** — et ce n'est pas un hasard : c'est une **malédiction**.
-- Les légendes disent qu'ils furent jadis le **peuple élu d'un dieu ancien, lié à Oblivion et aux songes**. Ils en étaient les oracles et les gardiens.
-- Quand ce dieu fut **banni** (les mythes évoquent l'intervention de **Justicaar**), son peuple fut **frappé de malédiction** : mémoire effacée, histoire dispersée, condamné à errer sans savoir d'où il vient. La perte de leurs origines **est** la malédiction.
-- **L'ironie qu'Iseult peut ressentir sans forcément la nommer** : en se vouant à **Aeva** — divinité du **panthéon de Justicaar** — elle sert, sans le savoir, la sphère même qui a maudit son peuple.
+## Origine du peuple-serpent (proposition cohérente avec le canon)
+- Les hommes-serpents étaient une **lignée de fidèles du Dieu-Céphale**. À sa **déchéance**, ils furent **maudits** : mémoire effacée **et transformés en hommes-serpents**, condamnés à reproduire d'antiques coutumes sans les comprendre — des **Oubliés marqués dans leur chair**.
+- Iseult est donc **à la fois femme-serpent ET Oubliée** (le sang d'Oblivion, comme tous les PJ) : les deux ne font qu'un.
 
-## À garder secret (révélations futures)
-- **L'identité exacte du dieu banni** et son **lien avec l'Écorcheuse / Chiaroscuro / le Pays des Chimères** (gros twist de fin de campagne — les hommes-serpents « rêvaient vrai »).
-- **Si la malédiction peut être levée** (et ce que ça coûterait).
-- **Pourquoi Iseult, elle, a quitté le dieu-serpent pour Aeva** : ça, aucun jet ne le dit — c'est **son** histoire, à jouer avec sa joueuse.
+## ⚠️ Ce qu'on peut RÉELLEMENT apprendre (l'histoire d'Oblivion est occultée sur Pangée)
+- **Jet de Religion terrestre (son 18)** → la **surface seulement** : les hommes-serpents se sont « réveillés » amnésiques il y a très longtemps, répètent des rites oubliés, vénéraient jadis **un dieu déchu, condamné par les panthéons**. Le nom et la vérité sont **effacés** (Justicaar a scellé les secrets d'Oblivion → aucun jet terrestre ne perce ça).
+- **La vérité profonde** (le Dieu-Céphale, les 4 Incarnins, la malédiction, son statut d'Oubliée-serpent) ne peut venir que **d'une source d'Oblivion** : **Réghûlus, Sérénité, Grisou ou la Matrice**. → grosse révélation à réserver pour un moment en Oblivion.
 
-## Notes MJ
-- Aeva fait partie du panthéon de Justicaar → tension identitaire riche pour Iseult (fille d'un peuple maudit par ce panthéon, devenue sa prêtresse).
-- Doser : donner **le mythe + la malédiction + le frisson d'Oblivion**, garder le reste pour plus tard.
+## Ironies dramatiques (à distiller)
+- **Réghûlus et Sérénité, ses alliés, SONT des fragments du dieu que son peuple vénérait** (le Dieu-Céphale tranché).
+- **Aeva appartient au panthéon de Justicaar** — celui qui a condamné le Dieu-Céphale. Iseult sert donc la sphère qui a maudit son peuple.
+
+## À garder secret / pour plus tard
+- Le lien précis peuple-serpent ↔ malédiction ↔ Écorcheuse / Chiaroscuro.
+- Si la malédiction est réversible (et à quel prix).
+- **Pourquoi ELLE a quitté le dieu-serpent pour Aeva** : son histoire perso, à jouer avec sa joueuse.

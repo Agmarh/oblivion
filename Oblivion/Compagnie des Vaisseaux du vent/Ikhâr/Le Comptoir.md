@@ -36,7 +36,7 @@ Bourru, exigeant, un artiste de l'enclume. Ikhâr est une cité naine : Haldrik 
 
 **On y trouve :** forge sur-mesure, armes & armures naines de qualité, réparations.
 
-**Temps de forge** *(table `Annexe/Marchants/Craft` ; **adamantium = ×2** sur le temps de base ; **craft à plusieurs = temps ÷ nb d'artisans** — Haldrik + forgerons d'Ikhâr).* Les PJ fournissent l'adamantine ; prix ≈ armure de base + prime de forge ~2 500 po.
+**Temps de forge** — temps de base : table `Annexe/Marchants/Craft`. **Adamantium = ×2** *(règle maison, pas du canon — ajustable)*. **Craft à plusieurs = temps ÷ nb d'artisans qualifiés** *(règle Xanathar — Haldrik doit faire venir des collègues nains)*. Les PJ fournissent l'adamantine ; prix ≈ armure de base + prime de forge ~2 500 po.
 
 **Armures d'adamantine** *(les coups critiques subis deviennent des coups normaux)* :
 

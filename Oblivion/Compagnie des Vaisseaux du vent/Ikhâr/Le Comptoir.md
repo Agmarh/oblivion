@@ -40,15 +40,15 @@ Bourru, exigeant, un artiste de l'enclume. Ikhâr est une cité naine : Haldrik 
 
 **Armures d'adamantine** *(les coups critiques subis deviennent des coups normaux)* :
 
-| Armure | CA | Prix | Temps solo (×2 adam.) | Équipe de 5 |
-|---|---|---|---|---|
-| Écailles (interm.) | 14 (+Dex≤2) | ~2 550 po | ~10 j | **~2 j** |
-| Clibanion (lourde) | 17 | ~2 700 po | ~40 j | ~8 j |
-| Cuirasse/breastplate (interm.) | 14 (+Dex≤2) | ~2 900 po | ~80 j | ~16 j |
-| Demi-plate (interm.) | 15 (+Dex≤2) | ~3 250 po | ~150 j | ~30 j |
-| **Harnois (lourde)** | **18** | ~4 000 po | **~300 j** | **~60 j** |
+| Armure                         | CA          | Prix      | Temps solo | Équipe de 5 |
+| ------------------------------ | ----------- | --------- | ---------- | ----------- |
+| Écailles (interm.)             | 14 (+Dex≤2) | ~2 550 po | ~5 j       | **~2 j**    |
+| Clibanion (lourde)             | 17          | ~2 700 po | ~20 j      | ~8 j        |
+| Cuirasse/breastplate (interm.) | 14 (+Dex≤2) | ~2 900 po | ~40 j      | ~16 j       |
+| Demi-plate (interm.)           | 15 (+Dex≤2) | ~3 250 po | ~75 j      | ~30 j       |
+| **Harnois (lourde)**           | **18**      | ~4 000 po | **~150 j** | **~60 j**   |
 
-> ⚠️ Le **harnois** est le Graal (CA 18) mais énorme à forger. Pour du crit-proof **rapide**, l'**écailles** ou le **Clibanion** d'adamantium sortent en quelques jours (surtout en équipe). Sinon, faire **livrer** le harnois par une gondolfière plus tard.
+> ⚠️ Multiplier le temps par 2 pour les armures et armes d'adamantium.
 
 - **Arme d'adamantine** *(compte comme arme en adamantium → ignore la résistance des golems/constructions ; inutile à qui a déjà une arme magique — bon comme secours, pour un allié, ou « inusable » avec l'Usure G8)* : ~500 po ; épée longue = base 2 j **×2 = ~4 j**.
 - Arme/armure naine de qualité (non magique) : **prix courant ×2**.

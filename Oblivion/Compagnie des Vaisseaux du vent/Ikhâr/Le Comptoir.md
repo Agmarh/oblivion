@@ -86,7 +86,8 @@ Le négoce signature d'Ikhâr.
 - **Kogarm (pas de magie)** : brasse le *mundane* librement ; pour une **bière-buff**, elle fournit la base brassée + le **Khayolt**, et **Mère Sülke ou Rivalt** y met la magie (co-craft). Ex. *« Bière du Courage »* = Potion d'héroïsme reflavorée.
 - **Mère Sülke** : ne sait pas tout faire — elle maîtrise le commun/peu commun ; le rare lui demande la **recette + du temps** (+ parfois un lanceur).
 
-**Ce que Mère Sülke sait déjà faire** (matériel = coût, pas le prix de vente) :
+#### **Ce que Mère Sülke sait déjà faire** (matériel = coût, pas le prix de vente) :
+
 | Potion / objet | Effet | Temps | Coût matériaux | Ingrédient |
 |---|---|---|---|---|
 | Potion de soins | 2d4+2 PV | 5 j | 25 po | herbes communes |
@@ -94,7 +95,8 @@ Le négoce signature d'Ikhâr.
 | Feu grégeois / Acide | 1d4 feu / 2d6 acide (jet) | 5 j / 3 j | 25 / 12,5 po | — |
 | Potion de soins supérieurs | 4d4+4 PV | ~2 sem | ~150 po | réactif de qualité |
 
-**Recettes qu'elle peut trouver / développer** (via jets d'Arcanes/Médecine/Investigation + jours de recherche, ou achat au receleur) :
+#### **Recettes qu'elle peut trouver / développer** (via jets d'Arcanes/Médecine/Investigation + jours de recherche, ou achat au receleur) :
+
 | Potion | Effet | Temps | Coût | Ingrédient clé |
 |---|---|---|---|---|
 | **Potion d'héroïsme** *(le « buff » qui existe en D&D)* | bénédiction + 10 PV temp, 1h | ~3-4 sem | ~1 200 po | **Khayolt raffiné** (rare) |

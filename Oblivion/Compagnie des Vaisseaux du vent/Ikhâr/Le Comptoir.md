@@ -89,6 +89,15 @@ Discrétion exigée, bourse bien garnie aussi. Trois-Doigts ne garde presque rie
 
 > **Kit de résurrection** *(filet de sécurité pour la table)* : parchemin de *Rappel à la vie* (niv. 5, **2 500 po**) + diamant de **500 po** = **~3 000 po**, livrable en quelques jours. À leur niveau, Iseult ne peut le lancer qu'avec un test DD 15 (10 + niv. du sort) → alternative plus fiable : le relais de l'**Église d'Aeva** via le réseau de guilde d'Iseult.
 
+|Rareté|Trouvable ?|Délai|Prix|
+|---|---|---|---|
+|Commun / Peu commun|Oui, courant|**1d4 j**|table Marchands (moyen)|
+|Rare|Oui, sur commande|**1d6+4 j**|table Marchands + **premium 0-20 %**|
+|Très rare|Rarement, via contacts|**2-4 sem. + une faveur/quête**|table (négociable)|
+|Légendaire|Non (sauf intrigue)|—|—|
+
+- stock de consommables **limité** (1d4, non renouvelé immédiatement) ; commission ~10-20 % ; un jet de Persuasion peut réduire délai/prix. C'est exactement ton Trois-Doigts : « tout, mais il faut du temps et payer ».
+
 ## Le Chantier — [[Bramm]] *(maître-charpentier de gondolfières)*
 **On y trouve :**
 - **Construction d'une gondolfière** : reconstruction sur épaves **~4 600 po** (30 j) / **~4 700 po** accéléré (20 j) ; construction neuve **~13 900 po** (60 j) / **~14 500 po** accéléré (40 j). → c'est lui qui bâtira la **5e gondolfière**.

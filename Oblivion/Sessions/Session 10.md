@@ -14,7 +14,7 @@ Ils ont acheté quelques potions à l'herboriste et ont demandé au receleur de 
 Ils ont passé commande au forgeron également : 
 - 1 harnois en adamantium (20 jours pour réaliser)
 - 1 harnois normal (15 jours pour réaliser)
-- 1 épée longue en adamantium (10 jours pour réaliser)
+- 1 épée longue en adamantium (4 jours pour réaliser)
 Le forgeron commencera pas faire l'épée longue, puis le harnois en adamantium et finira par le harnois.
 
 J+51 : le rêve vient de commencer

@@ -161,3 +161,4 @@ PV/niveau = **1d6 + (dé de vie − 6) + mod. CON**. **Non rétroactif** ; nivea
 ## Marque après une résurrection
 
 Pour qu'une **mort laisse une trace même quand la magie ramène le personnage** : quand un PJ est **ressuscité**, il gagne **une Blessure** (règle ci-dessus) — la marque de ce qu'il a traversé de l'autre côté. La résurrection garde tout son sens (il a bien fallu le sort, la mort a bien eu lieu), mais le retour a un prix qui se lit sur le corps et l'âme.
+

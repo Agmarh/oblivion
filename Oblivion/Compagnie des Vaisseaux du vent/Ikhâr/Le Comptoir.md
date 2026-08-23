@@ -38,17 +38,18 @@ Bourru, exigeant, un artiste de l'enclume. Ikhâr est une cité naine : Haldrik 
 
 **Temps de forge** — temps de base : table `Annexe/Marchants/Craft`. **Adamantium = ×2** *(règle maison, pas du canon — ajustable)*. **Craft à plusieurs = temps ÷ nb d'artisans qualifiés** *(règle Xanathar — Haldrik doit faire venir des collègues nains)*. Les PJ fournissent l'adamantine ; prix ≈ armure de base + prime de forge ~2 500 po.
 
-**Armures d'adamantine** *(les coups critiques subis deviennent des coups normaux)* :
+**Armures d'adamantine** *(les coups critiques subis deviennent des coups normaux)* — temps déjà ×2 pour l'adamantium :
 
-| Armure                         | CA          | Prix      | Temps solo | Équipe de 5 |
-| ------------------------------ | ----------- | --------- | ---------- | ----------- |
-| Écailles (interm.)             | 14 (+Dex≤2) | ~2 550 po | ~5 j       |             |
-| Clibanion (lourde)             | 17          | ~2 700 po | ~20 j      |             |
-| Cuirasse/breastplate (interm.) | 14 (+Dex≤2) | ~2 900 po | ~40 j      |             |
-| Demi-plate (interm.)           | 15 (+Dex≤2) | ~3 250 po | ~75 j      |             |
-| **Harnois (lourde)**           | **18**      | ~4 000 po | **~150 j** |             |
+| Armure adamantium | CA | Prix | Solo | ÷2 forgerons | ÷3 | ÷5 |
+| ----------------- | -- | ---- | ---- | ------------ | -- | -- |
+| Écailles (interm.) | 14 (+Dex≤2) | ~2 550 po | 10 j | 5 j | 3 j | 2 j |
+| Clibanion (lourde) | 17 | ~2 700 po | 40 j | 20 j | 13 j | 8 j |
+| Cuirasse/breastplate (interm.) | 14 (+Dex≤2) | ~2 900 po | 80 j | 40 j | 27 j | 16 j |
+| Demi-plate (interm.) | 15 (+Dex≤2) | ~3 250 po | 150 j | 75 j | 50 j | 30 j |
+| **Harnois (lourde)** | **18** | ~4 000 po | **300 j** | **150 j** | **100 j** | **60 j** |
 
-> ⚠️ Multiplier le temps par 2 pour les armures et armes d'adamantium.
+> **Lecture :** temps pour une armure **d'adamantium** (×2 déjà inclus). Une armure **normale** (non-adamantium) = **moitié** de ces temps. Le **craft à plusieurs divise le temps** par le nombre de forgeons (Xanathar) → Haldrik seul = colonne « Solo » ; s'il fait venir des collègues, colonnes ÷2/÷3/÷5.
+> ⚠️ Le **harnois** reste le plus long : même à 5 forgerons, ~2 mois en adamantium. Pour du crit-proof **rapide**, viser **écailles/Clibanion** ; sinon **livrer** le harnois plus tard par gondolfière.
 
 - **Arme d'adamantine** *(compte comme arme en adamantium → ignore la résistance des golems/constructions ; inutile à qui a déjà une arme magique — bon comme secours, pour un allié, ou « inusable » avec l'Usure G8)* : ~500 po ; épée longue = base 2 j **×2 = ~4 j**.
 - Arme/armure naine de qualité (non magique) : **prix courant ×2**.

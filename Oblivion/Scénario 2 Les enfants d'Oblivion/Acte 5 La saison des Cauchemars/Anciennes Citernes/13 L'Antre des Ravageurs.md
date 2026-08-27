@@ -1,6 +1,6 @@
 C’est une autre crypte funéraire des bâtisseurs nains. Le ravageur [[Heketé]] y passe 75 % de son temps. Les ravageurs s’y réunissent pour mettre au point leurs tactiques.
 
-Ils forment alors un cercle monstrueux autour de la silhouette enfantine d’Azmaël/[[Bâal]], et conversent tous ensemble dans un langage impie, qui résonne sous la voûte des citernes et glace le sang de ceux qui l’entendent (<font style="color:lightgreen">jet de sauvegarde de Charisme DD 18</style>. 
+Ils forment alors un cercle monstrueux autour de la silhouette enfantine d’Azmaël/[[Bâal]], et conversent tous ensemble dans un langage impie, qui résonne sous la voûte des citernes et glace le sang de ceux qui l’entendent (<font style="color:lightgreen">jet de sauvegarde de Charisme DD 18</style>). 
 - En cas d’échec, le personnage subit un désavantage à tous ses jets de sauvegarde. L’effet dure 1D10 minutes.
 
 Deux « pages » du livre saint les Tables d’Anthéos ont été oubliées là. Ces reliques ont l’apparence de fines plaques d’adamantine gravées de signes cabalistiques (du langage Céleste). Quelle que soit la protection qui empêchait de les lire, les ravageurs l’ont fait disparaître. 

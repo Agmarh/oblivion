@@ -15,6 +15,6 @@ classe: Barde, Ensorceleur/Sorcelame, Magicien, Ombrelame, Sorcier
 **Durée :** concentration, jusqu'à 1 minute
 **Classe :** Barde, Ensorceleur/Sorcelame, Magicien, Ombrelame, Sorcier
 
-Vous tissez dans les airs un motif aux couleurs mouvantes dans un cube de 9 mètres d'arête situé à portée. Le motif apparaît pendant un bref instant avant de s'évanouir. Chaque créature qui se trouve dans la zone et voit le motif doit faire un jet de sauvegarde de Sagesse. Celles qui échouent sont charmé pendant la durée du sort. Tant qu'une créature est charmée par ce sort, elle est [[neutralisé]] et a une vitesse de 0.
+Vous tissez dans les airs un motif aux couleurs mouvantes dans un cube de 9 mètres d'arête situé à portée. Le motif apparaît pendant un bref instant avant de s'évanouir. Chaque créature qui se trouve dans la zone et voit le motif doit faire un jet de sauvegarde de Sagesse. Celles qui échouent sont charmé pendant la durée du sort. Tant qu'une créature est charmée par ce sort, elle est [[Neutralisé]] et a une vitesse de 0.
 
 Le sort se termine pour une créature donnée si elle subit le moindre dégât ou si quelqu'un d'autre utilise son action pour la secouer et la sortir de sa torpeur.

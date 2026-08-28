@@ -17,4 +17,4 @@ classe: Clerc, Magicien, Paladin, Sorcier
 
 Jusqu'à la fin du sort, une créature consentante que vous touchez est protégée contre certains types de créatures : les aberrations, les célestes, les élémentaires, les fées, les fiélons et les morts-vivants.
 
-Cette protection se traduit par plusieurs bénéfices. Les créatures des types précédemment nommés subissent un désavantage lors des jets d'attaque contre la cible, et cette dernière ne peut être charmée, [[terrorisé]] ou possédée par elles. Si la cible est déjà sous l'effet d'un tel état spécial émanant d'une telle créature, elle obtient un avantage lors d'un éventuel nouveau jet de sauvegarde contre l'effet en question.
+Cette protection se traduit par plusieurs bénéfices. Les créatures des types précédemment nommés subissent un désavantage lors des jets d'attaque contre la cible, et cette dernière ne peut être charmée, [[Terrorisé]] ou possédée par elles. Si la cible est déjà sous l'effet d'un tel état spécial émanant d'une telle créature, elle obtient un avantage lors d'un éventuel nouveau jet de sauvegarde contre l'effet en question.

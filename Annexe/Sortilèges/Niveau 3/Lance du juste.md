@@ -15,4 +15,4 @@ classe: Paladin
 **Durée :** concentration, jusqu'à 1 minute
 **Classe :** Paladin
 
-La lumière ambiante se concentre dans votre main et prend la forme d'un rayon en forme de lance. Vous devez réussir une _attaque au corps-à-corps_ pour frapper la cible. La lance de lumière inflige 3d8 dégâts radiants. De plus, la créature touchée se retrouve [[aveuglé]]. Elle doit effectuer un jet de sauvegarde de Constitution à chacun de ses tours suivants jusqu'à réussite pour ne plus être [[aveuglé]].
+La lumière ambiante se concentre dans votre main et prend la forme d'un rayon en forme de lance. Vous devez réussir une _attaque au corps-à-corps_ pour frapper la cible. La lance de lumière inflige 3d8 dégâts radiants. De plus, la créature touchée se retrouve [[Aveuglé]]. Elle doit effectuer un jet de sauvegarde de Constitution à chacun de ses tours suivants jusqu'à réussite pour ne plus être [[Aveuglé]].

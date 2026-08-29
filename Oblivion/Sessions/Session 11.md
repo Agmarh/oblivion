@@ -5,3 +5,4 @@ J+52 :
 - Ils remettent à Malathor un collier pour éviter la transmigration.
 - Malathor leur donne la broche pour aller voir Balthus.
 - Ils sont le soir chez Malathor et vont sûrement y passer la nuit.
+- Le jour 1 dans Anthéone est donc terminé.

@@ -139,3 +139,4 @@
 | Clibanion | Armure | Outils de forgeron | 30 kg | 200 po | 100 po | 20 jours |
 | Harnois | Armure | Outils de forgeron | 32,5 kg | 1500 po | 750 po | 150 jours |
 | Bouclier | Armure | Outils de forgeron | 3 kg | 10 po | 5 po | 1 jour |
+gii

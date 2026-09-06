@@ -1,140 +1,141 @@
 # Règles de craft
-| Name                   | Type   | Tool                                        | Weight       | Cost     | Crafting Cost | Crafting Time |
-| ---------------------- | ------ | ------------------------------------------- | ------------ | -------- | ------------- | ------------- |
-| Acid                   | Item   | Alchemist’s Supplies                        | 1 lb.        | 25 GP    | 12.50 GP      | 3 days        |
-| Alchemist’s Fire       | Item   | Alchemist’s Supplies                        | 1 lb.        | 50 GP    | 25 GP         | 5 days        |
-| Antitoxin              | Item   | Brewer’s Supplies, Herbalism Kit            | —            | 50 GP    | 25 GP         | 5 days        |
-| Backpack               | Item   | Leatherworker’s Tools                       | 5 lb.        | 2 GP     | 1 GP          | 1 day         |
-| Ball Bearings          | Item   | Smith’s Tools                               | 2 lb.        | 1 GP     | 0.50 GP       | 1 day         |
-| Barrel                 | Item   | Carpenter’s Tools                           | 70 lb.       | 2 GP     | 1 GP          | 1 day         |
-| Basket                 | Item   | Weaver’s Tools                              | 2 lb.        | 0.40 GP  | 0.20 GP       | 1 day         |
-| Bedroll                | Item   | Weaver’s Tools                              | 7 lb.        | 1 GP     | 0.50 GP       | 1 day         |
-| Bell                   | Item   | Tinker’s Tools                              | —            | 1 GP     | 0.50 GP       | 1 day         |
-| Blanket                | Item   | Weaver’s Tools                              | 3 lb.        | 0.50 GP  | 0.25 GP       | 1 day         |
-| Block and Tackle       | Item   | Mason’s Tools, Tinker’s Tools               | 5 lb.        | 1 GP     | 0.50 GP       | 1 day         |
-| Book                   | Item   | —                                           | 5 lb.        | 25 GP    | 12.50 GP      | 3 days        |
-| Bottle, Glass          | Item   | Glassblower’s Tools                         | 2 lb.        | 2 GP     | 1 GP          | 1 day         |
-| Bucket                 | Item   | Smith’s Tools                               | 2 lb.        | 0.05 GP  | 0.03 GP       | 1 day         |
-| Burglar’s Pack         | Item   | —                                           | 42 lb.       | 16 GP    | 8 GP          | 2 days        |
-| Caltrops               | Item   | Smith’s Tools                               | 2 lb.        | 1 GP     | 0.50 GP       | 1 day         |
-| Candle                 | Item   | Herbalism Kit                               | —            | 0.01 GP  | 0.01 GP       | 1 day         |
-| Case, Crossbow Bolt    | Item   | Leatherworker’s Tools, Woodcarver’s Tools   | 1 lb.        | 1 GP     | 0.50 GP       | 1 day         |
-| Case, Map or Scroll    | Item   | Cartographer’s Tools, Leatherworker’s Tools | 1 lb.        | 1 GP     | 0.50 GP       | 1 day         |
-| Chain                  | Item   | Smith’s Tools                               | 10 lb.       | 5 GP     | 2.50 GP       | 1 day         |
-| Chest                  | Item   | Carpenter’s Tools                           | 25 lb.       | 5 GP     | 2.50 GP       | 1 day         |
-| Climber’s Kit          | Item   | Cobbler’s Tools                             | 12 lb.       | 25 GP    | 12.50 GP      | 3 days        |
-| Clothes, Fine          | Item   | Weaver’s Tools                              | 6 lb.        | 15 GP    | 7.50 GP       | 2 days        |
-| Clothes, Traveler’s    | Item   | Weaver’s Tools                              | 4 lb.        | 2 GP     | 1 GP          | 1 day         |
-| Component Pouch        | Item   | Alchemist’s Supplies, Leatherworker’s Tools | 2 lb.        | 25 GP    | 12.50 GP      | 3 days        |
-| Costume                | Item   | Disguise Kit                                | 4 lb.        | 5 GP     | 2.50 GP       | 1 day         |
-| Crowbar                | Item   | Smith’s Tools                               | 5 lb.        | 2 GP     | 1 GP          | 1 day         |
-| Diplomat’s Pack        | Item   | —                                           | 39 lb.       | 39 GP    | 19.50 GP      | 4 days        |
-| Dungeoneer’s Pack      | Item   | —                                           | 55 lb.       | 12 GP    | 6 GP          | 2 days        |
-| Entertainer’s Pack     | Item   | —                                           | 58½ lb.      | 40 GP    | 20 GP         | 4 days        |
-| Explorer’s Pack        | Item   | —                                           | 55 lb.       | 10 GP    | 5 GP          | 1 day         |
-| Flask                  | Item   | Tinker’s Tools                              | 1 lb.        | 0.02 GP  | 0.01 GP       | 1 day         |
-| Grappling Hook         | Item   | Smith’s Tools                               | 4 lb.        | 2 GP     | 1 GP          | 1 day         |
-| Healer’s Kit           | Item   | Herbalism Kit                               | 3 lb.        | 5 GP     | 2.50 GP       | 1 day         |
-| Holy Water             | Item   | —                                           | 1 lb.        | 25 GP    | 12.50 GP      | 3 days        |
-| Hunting Trap           | Item   | Tinker’s Tools                              | 25 lb.       | 5 GP     | 2.50 GP       | 1 day         |
-| Ink                    | Item   | Calligrapher’s Supplies                     | —            | 10 GP    | 5 GP          | 1 day         |
-| Ink Pen                | Item   | Calligrapher’s Supplies, Woodcarver’s Tools | —            | 0.02 GP  | 0.01 GP       | 1 day         |
-| Jug                    | Item   | Potter’s Tools                              | 4 lb.        | 0.02 GP  | 0.01 GP       | 1 day         |
-| Ladder                 | Item   | Carpenter’s Tools                           | 25 lb.       | 0.10 GP  | 0.05 GP       | 1 day         |
-| Lamp                   | Item   | Potter’s Tools                              | 1 lb.        | 0.50 GP  | 0.25 GP       | 1 day         |
-| Lantern, Bullseye      | Item   | Tinker’s Tools                              | 2 lb.        | 10 GP    | 5 GP          | 1 day         |
-| Lantern, Hooded        | Item   | Tinker’s Tools                              | 2 lb.        | 5 GP     | 2.50 GP       | 1 day         |
-| Lock                   | Item   | Tinker’s Tools                              | 1 lb.        | 10 GP    | 5 GP          | 1 day         |
-| Magnifying Glass       | Item   | Glassblower’s Tools                         | —            | 100 GP   | 50 GP         | 10 days       |
-| Manacles               | Item   | Tinker’s Tools                              | 6 lb.        | 2 GP     | 1 GP          | 1 day         |
-| Map                    | Item   | Cartographer’s Tools                        | —            | 1 GP     | 0.50 GP       | 1 day         |
-| Mirror                 | Item   | Tinker’s Tools                              | 1/2 lb.      | 5 GP     | 2.50 GP       | 1 day         |
-| Net                    | Item   | Weaver’s Tools                              | 3 lb.        | 1 GP     | 0.50 GP       | 1 day         |
-| Oil                    | Item   | Alchemist’s Supplies                        | 1 lb.        | 0.10 GP  | 0.05 GP       | 1 day         |
-| Paper                  | Item   | Alchemist’s Supplies                        | —            | 0.20 GP  | 0.10 GP       | 1 day         |
-| Parchment              | Item   | Leatherworker’s Tools                       | —            | 0.10 GP  | 0.05 GP       | 1 day         |
-| Perfume                | Item   | Alchemist’s Supplies                        | —            | 5 GP     | 2.50 GP       | 1 day         |
-| Poison, Basic          | Item   | Poisoner’s Kit                              | —            | 100 GP   | 50 GP         | 10 days       |
-| Pole                   | Item   | Carpenter’s Tools                           | 7 lb.        | 0.05 GP  | 0.03 GP       | 1 day         |
-| Pot, Iron              | Item   | Smith’s Tools                               | 10 lb.       | 2 GP     | 1 GP          | 1 day         |
-| Potion of Healing      | Item   | Herbalism Kit                               | 1/2 lb.      | 50 GP    | 25 GP         | 5 days        |
-| Pouch                  | Item   | Leatherworker’s Tools                       | 1 lb.        | 0.50 GP  | 0.25 GP       | 1 day         |
-| Priest’s Pack          | Item   | —                                           | 29 lb.       | 33 GP    | 16.50 GP      | 4 days        |
-| Quiver                 | Item   | Leatherworker’s Tools                       | 1 lb.        | 1 GP     | 0.50 GP       | 1 day         |
-| Ram, Portable          | Item   | —                                           | 35 lb.       | 4 GP     | 2 GP          | 1 day         |
-| Rations                | Item   | Cook’s Utensils                             | 2 lb.        | 0.50 GP  | 0.25 GP       | 1 day         |
-| Robe                   | Item   | Weaver’s Tools                              | 4 lb.        | 1 GP     | 0.50 GP       | 1 day         |
-| Rope                   | Item   | Weaver’s Tools                              | 5 lb.        | 1 GP     | 0.50 GP       | 1 day         |
-| Sack                   | Item   | Weaver’s Tools                              | 1/2 lb.      | 0.01 GP  | 0.01 GP       | 1 day         |
-| Scholar’s Pack         | Item   | —                                           | 22 lb.       | 40 GP    | 20 GP         | 4 days        |
-| Shovel                 | Item   | Tinker’s Tools                              | 5 lb.        | 2 GP     | 1 GP          | 1 day         |
-| Signal Whistle         | Item   | Tinker’s Tools                              | —            | 0.05 GP  | 0.03 GP       | 1 day         |
-| Spell Scroll (Cantrip) | Item   | Calligrapher’s Supplies                     | —            | 30 GP    | 15 GP         | 3 days        |
-| Spell Scroll (Level 1) | Item   | Calligrapher’s Supplies                     | —            | 50 GP    | 25 GP         | 5 days        |
-| Spell Scroll (Level 2) | Item   | Calligrapher’s Supplies                     | —            | 100 GP   | 50 GP         | 10 days       |
-| Spell Scroll (Level 3) | Item   | Calligrapher’s Supplies                     | —            | 150 GP   | 75 GP         | 15 days       |
-| Spell Scroll (Level 4) | Item   | Calligrapher’s Supplies                     | —            | 1000 GP  | 500 GP        | 100 days      |
-| Spell Scroll (Level 5) | Item   | Calligrapher’s Supplies                     | —            | 1500 GP  | 750 GP        | 150 days      |
-| Spell Scroll (Level 6) | Item   | Calligrapher’s Supplies                     | —            | 10000 GP | 5000 GP       | 1000 days     |
-| Spell Scroll (Level 7) | Item   | Calligrapher’s Supplies                     | —            | 12500 GP | 6250 GP       | 1250 days     |
-| Spell Scroll (Level 8) | Item   | Calligrapher’s Supplies                     | —            | 15000 GP | 7500 GP       | 1500 days     |
-| Spell Scroll (Level 9) | Item   | Calligrapher’s Supplies                     | —            | 50000 GP | 25000 GP      | 5000 days     |
-| Spikes, Iron           | Weapon | Smith’s Tools                               | 5 lb.        | 1 GP     | 0.50 GP       | 1 day         |
-| Spyglass               | Item   | Glassblower’s Tools                         | 1 lb.        | 1000 GP  | 500 GP        | 100 days      |
-| String                 | Item   | Weaver’s Tools                              | —            | 0.10 GP  | 0.05 GP       | 1 day         |
-| Tent                   | Item   | Weaver’s Tools                              | 20 lb.       | 2 GP     | 1 GP          | 1 day         |
-| Tinderbox              | Item   | Tinker’s Tools                              | 1 lb.        | 0.50 GP  | 0.25 GP       | 1 day         |
-| Torch                  | Item   | Carpenter’s Tools                           | 1 lb.        | 0.01 GP  | 0.01 GP       | 1 day         |
-| Vial                   | Item   | Glassblower’s Tools                         | —            | 1 GP     | 0.50 GP       | 1 day         |
-| Waterskin              | Item   | Leatherworker’s Tools                       | 5 lb. (full) | 0.20 GP  | 0.10 GP       | 1 day         |
-| Club                   | Weapon | Carpenter’s Tools, Woodcarver’s Tools       | 2 lb.        | 0.10 GP  | 0.05 GP       | 1 day         |
-| Dagger                 | Weapon | Smith’s Tools                               | 1 lb.        | 2 GP     | 1 GP          | 1 day         |
-| Greatclub              | Weapon | Carpenter’s Tools, Woodcarver’s Tools       | 10 lb.       | 0.20 GP  | 0.10 GP       | 1 day         |
-| Handaxe                | Weapon | Smith’s Tools                               | 2 lb.        | 5 GP     | 2.50 GP       | 1 day         |
-| Javelin                | Weapon | Smith’s Tools                               | 2 lb.        | 0.50 GP  | 0.25 GP       | 1 day         |
-| Light Hammer           | Weapon | Smith’s Tools                               | 2 lb.        | 2 GP     | 1 GP          | 1 day         |
-| Mace                   | Weapon | Smith’s Tools                               | 4 lb.        | 5 GP     | 2.50 GP       | 1 day         |
-| Quarterstaff           | Weapon | Carpenter’s Tools, Woodcarver’s Tools       | 4 lb.        | 0.20 GP  | 0.10 GP       | 1 day         |
-| Sickle                 | Weapon | Smith’s Tools                               | 2 lb.        | 1 GP     | 0.50 GP       | 1 day         |
-| Spear                  | Weapon | Smith’s Tools                               | 3 lb.        | 1 GP     | 0.50 GP       | 1 day         |
-| Dart                   | Weapon | Smith’s Tools, Woodcarver’s Tools           | 1/4 lb.      | 0.05 GP  | 0.03 GP       | 1 day         |
-| Light Crossbow         | Weapon | Smith’s Tools, Woodcarver’s Tools           | 5 lb.        | 25 GP    | 12.50 GP      | 3 days        |
-| Shortbow               | Weapon | Smith’s Tools                               | 2 lb.        | 25 GP    | 12.50 GP      | 3 days        |
-| Sling                  | Weapon | Leatherworker’s Tools, Smith’s Tools        | —            | 0.10 GP  | 0.05 GP       | 1 day         |
-| Battleaxe              | Weapon | Smith’s Tools                               | 4 lb.        | 10 GP    | 5 GP          | 1 day         |
-| Flail                  | Weapon | Smith’s Tools                               | 2 lb.        | 10 GP    | 5 GP          | 1 day         |
-| Glaive                 | Weapon | Smith’s Tools                               | 6 lb.        | 20 GP    | 10 GP         | 2 days        |
-| Greataxe               | Weapon | Smith’s Tools                               | 7 lb.        | 30 GP    | 15 GP         | 3 days        |
-| Greatsword             | Weapon | Smith’s Tools                               | 6 lb.        | 50 GP    | 25 GP         | 5 days        |
-| Halberd                | Weapon | Smith’s Tools                               | 6 lb.        | 20 GP    | 10 GP         | 2 days        |
-| Lance                  | Weapon | Smith’s Tools                               | 6 lb.        | 10 GP    | 5 GP          | 1 day         |
-| Longsword              | Weapon | Smith’s Tools                               | 3 lb.        | 15 GP    | 7.50 GP       | 2 days        |
-| Maul                   | Weapon | Smith’s Tools                               | 10 lb.       | 10 GP    | 5 GP          | 1 day         |
-| Morningstar            | Weapon | Smith’s Tools                               | 4 lb.        | 15 GP    | 7.50 GP       | 2 days        |
-| Pike                   | Weapon | Smith’s Tools                               | 18 lb.       | 5 GP     | 2.50 GP       | 1 day         |
-| Rapier                 | Weapon | Smith’s Tools                               | 2 lb.        | 25 GP    | 12.50 GP      | 3 days        |
-| Scimitar               | Weapon | Smith’s Tools                               | 3 lb.        | 25 GP    | 12.50 GP      | 3 days        |
-| Shortsword             | Weapon | Smith’s Tools                               | 2 lb.        | 10 GP    | 5 GP          | 1 day         |
-| Trident                | Weapon | Smith’s Tools                               | 4 lb.        | 5 GP     | 2.50 GP       | 1 day         |
-| Warhammer              | Weapon | Smith’s Tools                               | 5 lb.        | 15 GP    | 7.50 GP       | 2 days        |
-| War Pick               | Weapon | Smith’s Tools                               | 2 lb.        | 5 GP     | 2.50 GP       | 1 day         |
-| Whip                   | Weapon | Leatherworker’s Tools                       | 3 lb.        | 2 GP     | 1 GP          | 1 day         |
-| Blowgun                | Weapon | Smith’s Tools, Woodcarver’s Tools           | 1 lb.        | 10 GP    | 5 GP          | 1 day         |
-| Hand Crossbow          | Weapon | Smith’s Tools, Woodcarver’s Tools           | 3 lb.        | 75 GP    | 37.50 GP      | 8 days        |
-| Heavy Crossbow         | Weapon | Smith’s Tools, Woodcarver’s Tools           | 18 lb.       | 50 GP    | 25 GP         | 5 days        |
-| Longbow                | Weapon | Smith’s Tools                               | 2 lb.        | 50 GP    | 25 GP         | 5 days        |
-| Musket                 | Weapon | Tinker’s Tools, Smith’s Tools               | 10 lb.       | 500 GP   | 250 GP        | 50 days       |
-| Pistol                 | Weapon | Tinker’s Tools, Smith’s Tools               | 3 lb.        | 250 GP   | 125 GP        | 25 days       |
-| Padded Armor           | Armor  | Smith’s Tools, Weaver’s Tools               | 8 lb.        | 5 GP     | 2.50 GP       | 1 day         |
-| Leather Armor          | Armor  | Leatherworker’s Tools, Smith’s Tools        | 10 lb.       | 10 GP    | 5 GP          | 1 day         |
-| Studded Leather Armor  | Armor  | Leatherworker’s Tools, Smith’s Tools        | 13 lb.       | 45 GP    | 22.50 GP      | 5 days        |
-| Hide Armor             | Armor  | Leatherworker’s Tools, Smith’s Tools        | 12 lb.       | 10 GP    | 5 GP          | 1 day         |
-| Chain Shirt            | Item   | Smith’s Tools                               | 20 lb.       | 50 GP    | 25 GP         | 5 days        |
-| Scale Mail             | Item   | Smith’s Tools                               | 45 lb.       | 50 GP    | 25 GP         | 5 days        |
-| Breastplate            | Item   | Smith’s Tools                               | 20 lb.       | 400 GP   | 200 GP        | 40 days       |
-| Half Plate Armor       | Armor  | Smith’s Tools                               | 40 lb.       | 750 GP   | 375 GP        | 75 days       |
-| Ring Mail              | Item   | Smith’s Tools                               | 40 lb.       | 30 GP    | 15 GP         | 3 days        |
-| Chain Mail             | Item   | Smith’s Tools                               | 55 lb.       | 75 GP    | 37.50 GP      | 8 days        |
-| Splint Armor           | Armor  | Smith’s Tools                               | 60 lb.       | 200 GP   | 100 GP        | 20 days       |
-| Plate Armor            | Armor  | Smith’s Tools                               | 65 lb.       | 1500 GP  | 750 GP        | 150 days      |
-| Shield                 | Armor  | Smith’s Tools                               | 6 lb.        | 10 GP    | 5 GP          | 1 day         |
+
+| Nom | Type | Outil | Poids | Prix | Coût de craft | Temps de craft |
+| --- | ---- | ----- | ----- | ---- | ------------- | -------------- |
+| Acide | Objet | Matériel d'alchimiste | 0,5 kg | 25 po | 12,5 po | 3 jours |
+| Feu grégeois | Objet | Matériel d'alchimiste | 0,5 kg | 50 po | 25 po | 5 jours |
+| Antitoxine | Objet | Matériel de brasseur, Kit d'herboriste | — | 50 po | 25 po | 5 jours |
+| Sac à dos | Objet | Outils de travail du cuir | 2,5 kg | 2 po | 1 po | 1 jour |
+| Billes de métal | Objet | Outils de forgeron | 1 kg | 1 po | 0,5 po | 1 jour |
+| Tonneau | Objet | Outils de charpentier | 35 kg | 2 po | 1 po | 1 jour |
+| Panier | Objet | Outils de tisserand | 1 kg | 0,4 po | 0,2 po | 1 jour |
+| Sac de couchage | Objet | Outils de tisserand | 3,5 kg | 1 po | 0,5 po | 1 jour |
+| Clochette | Objet | Outils de bricoleur | — | 1 po | 0,5 po | 1 jour |
+| Couverture | Objet | Outils de tisserand | 1,5 kg | 0,5 po | 0,25 po | 1 jour |
+| Palan | Objet | Outils de maçon, Outils de bricoleur | 2,5 kg | 1 po | 0,5 po | 1 jour |
+| Livre | Objet | — | 2,5 kg | 25 po | 12,5 po | 3 jours |
+| Bouteille en verre | Objet | Outils de souffleur de verre | 1 kg | 2 po | 1 po | 1 jour |
+| Seau | Objet | Outils de forgeron | 1 kg | 0,05 po | 0,03 po | 1 jour |
+| Sac du cambrioleur | Objet | — | 21 kg | 16 po | 8 po | 2 jours |
+| Chausse-trappes | Objet | Outils de forgeron | 1 kg | 1 po | 0,5 po | 1 jour |
+| Bougie | Objet | Kit d'herboriste | — | 0,01 po | 0,01 po | 1 jour |
+| Étui à carreaux d'arbalète | Objet | Outils de travail du cuir, Outils de sculpteur sur bois | 0,5 kg | 1 po | 0,5 po | 1 jour |
+| Étui à cartes/parchemins | Objet | Outils de cartographe, Outils de travail du cuir | 0,5 kg | 1 po | 0,5 po | 1 jour |
+| Chaîne | Objet | Outils de forgeron | 5 kg | 5 po | 2,5 po | 1 jour |
+| Coffre | Objet | Outils de charpentier | 12,5 kg | 5 po | 2,5 po | 1 jour |
+| Kit d'escalade | Objet | Outils de cordonnier | 6 kg | 25 po | 12,5 po | 3 jours |
+| Vêtements raffinés | Objet | Outils de tisserand | 3 kg | 15 po | 7,5 po | 2 jours |
+| Vêtements de voyage | Objet | Outils de tisserand | 2 kg | 2 po | 1 po | 1 jour |
+| Bourse à composantes | Objet | Matériel d'alchimiste, Outils de travail du cuir | 1 kg | 25 po | 12,5 po | 3 jours |
+| Costume | Objet | Kit de déguisement | 2 kg | 5 po | 2,5 po | 1 jour |
+| Pied-de-biche | Objet | Outils de forgeron | 2,5 kg | 2 po | 1 po | 1 jour |
+| Sac du diplomate | Objet | — | 19,5 kg | 39 po | 19,5 po | 4 jours |
+| Sac de l'explorateur de donjon | Objet | — | 27,5 kg | 12 po | 6 po | 2 jours |
+| Sac de l'artiste | Objet | — | 29,25 kg | 40 po | 20 po | 4 jours |
+| Sac de l'aventurier | Objet | — | 27,5 kg | 10 po | 5 po | 1 jour |
+| Flasque | Objet | Outils de bricoleur | 0,5 kg | 0,02 po | 0,01 po | 1 jour |
+| Grappin | Objet | Outils de forgeron | 2 kg | 2 po | 1 po | 1 jour |
+| Trousse de soins | Objet | Kit d'herboriste | 1,5 kg | 5 po | 2,5 po | 1 jour |
+| Eau bénite | Objet | — | 0,5 kg | 25 po | 12,5 po | 3 jours |
+| Piège à mâchoires | Objet | Outils de bricoleur | 12,5 kg | 5 po | 2,5 po | 1 jour |
+| Encre | Objet | Matériel de calligraphe | — | 10 po | 5 po | 1 jour |
+| Porte-plume | Objet | Matériel de calligraphe, Outils de sculpteur sur bois | — | 0,02 po | 0,01 po | 1 jour |
+| Cruche | Objet | Outils de potier | 2 kg | 0,02 po | 0,01 po | 1 jour |
+| Échelle | Objet | Outils de charpentier | 12,5 kg | 0,1 po | 0,05 po | 1 jour |
+| Lampe | Objet | Outils de potier | 0,5 kg | 0,5 po | 0,25 po | 1 jour |
+| Lanterne à faisceau | Objet | Outils de bricoleur | 1 kg | 10 po | 5 po | 1 jour |
+| Lanterne à capote | Objet | Outils de bricoleur | 1 kg | 5 po | 2,5 po | 1 jour |
+| Serrure | Objet | Outils de bricoleur | 0,5 kg | 10 po | 5 po | 1 jour |
+| Loupe | Objet | Outils de souffleur de verre | — | 100 po | 50 po | 10 jours |
+| Menottes | Objet | Outils de bricoleur | 3 kg | 2 po | 1 po | 1 jour |
+| Carte | Objet | Outils de cartographe | — | 1 po | 0,5 po | 1 jour |
+| Miroir | Objet | Outils de bricoleur | 0,25 kg | 5 po | 2,5 po | 1 jour |
+| Filet | Objet | Outils de tisserand | 1,5 kg | 1 po | 0,5 po | 1 jour |
+| Huile | Objet | Matériel d'alchimiste | 0,5 kg | 0,1 po | 0,05 po | 1 jour |
+| Papier | Objet | Matériel d'alchimiste | — | 0,2 po | 0,1 po | 1 jour |
+| Parchemin | Objet | Outils de travail du cuir | — | 0,1 po | 0,05 po | 1 jour |
+| Parfum | Objet | Matériel d'alchimiste | — | 5 po | 2,5 po | 1 jour |
+| Poison courant | Objet | Kit d'empoisonneur | — | 100 po | 50 po | 10 jours |
+| Perche | Objet | Outils de charpentier | 3,5 kg | 0,05 po | 0,03 po | 1 jour |
+| Marmite en fer | Objet | Outils de forgeron | 5 kg | 2 po | 1 po | 1 jour |
+| Potion de soins | Objet | Kit d'herboriste | 0,25 kg | 50 po | 25 po | 5 jours |
+| Bourse | Objet | Outils de travail du cuir | 0,5 kg | 0,5 po | 0,25 po | 1 jour |
+| Sac du prêtre | Objet | — | 14,5 kg | 33 po | 16,5 po | 4 jours |
+| Carquois | Objet | Outils de travail du cuir | 0,5 kg | 1 po | 0,5 po | 1 jour |
+| Bélier portatif | Objet | — | 17,5 kg | 4 po | 2 po | 1 jour |
+| Rations | Objet | Ustensiles de cuisinier | 1 kg | 0,5 po | 0,25 po | 1 jour |
+| Robe | Objet | Outils de tisserand | 2 kg | 1 po | 0,5 po | 1 jour |
+| Corde | Objet | Outils de tisserand | 2,5 kg | 1 po | 0,5 po | 1 jour |
+| Besace | Objet | Outils de tisserand | 0,25 kg | 0,01 po | 0,01 po | 1 jour |
+| Sac de l'érudit | Objet | — | 11 kg | 40 po | 20 po | 4 jours |
+| Pelle | Objet | Outils de bricoleur | 2,5 kg | 2 po | 1 po | 1 jour |
+| Sifflet | Objet | Outils de bricoleur | — | 0,05 po | 0,03 po | 1 jour |
+| Parchemin de sort (tour de magie) | Objet | Matériel de calligraphe | — | 30 po | 15 po | 3 jours |
+| Parchemin de sort (niveau 1) | Objet | Matériel de calligraphe | — | 50 po | 25 po | 5 jours |
+| Parchemin de sort (niveau 2) | Objet | Matériel de calligraphe | — | 100 po | 50 po | 10 jours |
+| Parchemin de sort (niveau 3) | Objet | Matériel de calligraphe | — | 150 po | 75 po | 15 jours |
+| Parchemin de sort (niveau 4) | Objet | Matériel de calligraphe | — | 1000 po | 500 po | 100 jours |
+| Parchemin de sort (niveau 5) | Objet | Matériel de calligraphe | — | 1500 po | 750 po | 150 jours |
+| Parchemin de sort (niveau 6) | Objet | Matériel de calligraphe | — | 10000 po | 5000 po | 1000 jours |
+| Parchemin de sort (niveau 7) | Objet | Matériel de calligraphe | — | 12500 po | 6250 po | 1250 jours |
+| Parchemin de sort (niveau 8) | Objet | Matériel de calligraphe | — | 15000 po | 7500 po | 1500 jours |
+| Parchemin de sort (niveau 9) | Objet | Matériel de calligraphe | — | 50000 po | 25000 po | 5000 jours |
+| Pitons en fer | Arme | Outils de forgeron | 2,5 kg | 1 po | 0,5 po | 1 jour |
+| Longue-vue | Objet | Outils de souffleur de verre | 0,5 kg | 1000 po | 500 po | 100 jours |
+| Ficelle | Objet | Outils de tisserand | — | 0,1 po | 0,05 po | 1 jour |
+| Tente | Objet | Outils de tisserand | 10 kg | 2 po | 1 po | 1 jour |
+| Briquet à amadou | Objet | Outils de bricoleur | 0,5 kg | 0,5 po | 0,25 po | 1 jour |
+| Torche | Objet | Outils de charpentier | 0,5 kg | 0,01 po | 0,01 po | 1 jour |
+| Fiole | Objet | Outils de souffleur de verre | — | 1 po | 0,5 po | 1 jour |
+| Outre (pleine) | Objet | Outils de travail du cuir | 2,5 kg | 0,2 po | 0,1 po | 1 jour |
+| Gourdin | Arme | Outils de charpentier, Outils de sculpteur sur bois | 1 kg | 0,1 po | 0,05 po | 1 jour |
+| Dague | Arme | Outils de forgeron | 0,5 kg | 2 po | 1 po | 1 jour |
+| Massue | Arme | Outils de charpentier, Outils de sculpteur sur bois | 5 kg | 0,2 po | 0,1 po | 1 jour |
+| Hachette | Arme | Outils de forgeron | 1 kg | 5 po | 2,5 po | 1 jour |
+| Javeline | Arme | Outils de forgeron | 1 kg | 0,5 po | 0,25 po | 1 jour |
+| Marteau léger | Arme | Outils de forgeron | 1 kg | 2 po | 1 po | 1 jour |
+| Masse d'armes | Arme | Outils de forgeron | 2 kg | 5 po | 2,5 po | 1 jour |
+| Bâton | Arme | Outils de charpentier, Outils de sculpteur sur bois | 2 kg | 0,2 po | 0,1 po | 1 jour |
+| Serpe | Arme | Outils de forgeron | 1 kg | 1 po | 0,5 po | 1 jour |
+| Lance | Arme | Outils de forgeron | 1,5 kg | 1 po | 0,5 po | 1 jour |
+| Fléchette | Arme | Outils de forgeron, Outils de sculpteur sur bois | 0,1 kg | 0,05 po | 0,03 po | 1 jour |
+| Arbalète légère | Arme | Outils de forgeron, Outils de sculpteur sur bois | 2,5 kg | 25 po | 12,5 po | 3 jours |
+| Arc court | Arme | Outils de forgeron | 1 kg | 25 po | 12,5 po | 3 jours |
+| Fronde | Arme | Outils de travail du cuir, Outils de forgeron | — | 0,1 po | 0,05 po | 1 jour |
+| Hache d'armes | Arme | Outils de forgeron | 2 kg | 10 po | 5 po | 1 jour |
+| Fléau d'armes | Arme | Outils de forgeron | 1 kg | 10 po | 5 po | 1 jour |
+| Coutille | Arme | Outils de forgeron | 3 kg | 20 po | 10 po | 2 jours |
+| Grande hache | Arme | Outils de forgeron | 3,5 kg | 30 po | 15 po | 3 jours |
+| Épée à deux mains | Arme | Outils de forgeron | 3 kg | 50 po | 25 po | 5 jours |
+| Hallebarde | Arme | Outils de forgeron | 3 kg | 20 po | 10 po | 2 jours |
+| Lance de cavalerie | Arme | Outils de forgeron | 3 kg | 10 po | 5 po | 1 jour |
+| Épée longue | Arme | Outils de forgeron | 1,5 kg | 15 po | 7,5 po | 2 jours |
+| Maillet | Arme | Outils de forgeron | 5 kg | 10 po | 5 po | 1 jour |
+| Morgenstern | Arme | Outils de forgeron | 2 kg | 15 po | 7,5 po | 2 jours |
+| Pique | Arme | Outils de forgeron | 9 kg | 5 po | 2,5 po | 1 jour |
+| Rapière | Arme | Outils de forgeron | 1 kg | 25 po | 12,5 po | 3 jours |
+| Cimeterre | Arme | Outils de forgeron | 1,5 kg | 25 po | 12,5 po | 3 jours |
+| Épée courte | Arme | Outils de forgeron | 1 kg | 10 po | 5 po | 1 jour |
+| Trident | Arme | Outils de forgeron | 2 kg | 5 po | 2,5 po | 1 jour |
+| Marteau de guerre | Arme | Outils de forgeron | 2,5 kg | 15 po | 7,5 po | 2 jours |
+| Pic de guerre | Arme | Outils de forgeron | 1 kg | 5 po | 2,5 po | 1 jour |
+| Fouet | Arme | Outils de travail du cuir | 1,5 kg | 2 po | 1 po | 1 jour |
+| Sarbacane | Arme | Outils de forgeron, Outils de sculpteur sur bois | 0,5 kg | 10 po | 5 po | 1 jour |
+| Arbalète de poing | Arme | Outils de forgeron, Outils de sculpteur sur bois | 1,5 kg | 75 po | 37,5 po | 8 jours |
+| Arbalète lourde | Arme | Outils de forgeron, Outils de sculpteur sur bois | 9 kg | 50 po | 25 po | 5 jours |
+| Arc long | Arme | Outils de forgeron | 1 kg | 50 po | 25 po | 5 jours |
+| Mousquet | Arme | Outils de bricoleur, Outils de forgeron | 5 kg | 500 po | 250 po | 50 jours |
+| Pistolet | Arme | Outils de bricoleur, Outils de forgeron | 1,5 kg | 250 po | 125 po | 25 jours |
+| Armure matelassée | Armure | Outils de forgeron, Outils de tisserand | 4 kg | 5 po | 2,5 po | 1 jour |
+| Armure de cuir | Armure | Outils de travail du cuir, Outils de forgeron | 5 kg | 10 po | 5 po | 1 jour |
+| Armure de cuir clouté | Armure | Outils de travail du cuir, Outils de forgeron | 6,5 kg | 45 po | 22,5 po | 5 jours |
+| Armure de peau | Armure | Outils de travail du cuir, Outils de forgeron | 6 kg | 10 po | 5 po | 1 jour |
+| Chemise de mailles | Objet | Outils de forgeron | 10 kg | 50 po | 25 po | 5 jours |
+| Armure d'écailles | Objet | Outils de forgeron | 22,5 kg | 50 po | 25 po | 5 jours |
+| Cuirasse | Objet | Outils de forgeron | 10 kg | 400 po | 200 po | 40 jours |
+| Demi-plate | Armure | Outils de forgeron | 20 kg | 750 po | 375 po | 75 jours |
+| Broigne | Objet | Outils de forgeron | 20 kg | 30 po | 15 po | 3 jours |
+| Cotte de mailles | Objet | Outils de forgeron | 27,5 kg | 75 po | 37,5 po | 8 jours |
+| Clibanion | Armure | Outils de forgeron | 30 kg | 200 po | 100 po | 20 jours |
+| Harnois | Armure | Outils de forgeron | 32,5 kg | 1500 po | 750 po | 150 jours |
+| Bouclier | Armure | Outils de forgeron | 3 kg | 10 po | 5 po | 1 jour |
